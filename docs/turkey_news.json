@@ -1,6 +1,6 @@
 {
   "country": "turkey",
-  "last_updated": "2026-03-29T21:52:39Z",
+  "last_updated": "2026-03-30T00:06:02Z",
   "stories": [
     {
       "title": "'International Zero Waste Day' post from Minister Kurum",
@@ -157,6 +157,13 @@
       "category": "Military"
     },
     {
+      "title": "New application from the Ministry of Internal Affairs: Radar map has been published",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/icisleri-bakanligi-ndan-yeni-uygulama-radar-haritasi-yayinlandi-3873184",
+      "published_date": "2026-03-29T09:00:58Z",
+      "category": "Military"
+    },
+    {
       "title": "The shops closed early, the streets were plunged into darkness! Extraordinary post-war austerity measures are in effect",
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/ekonomi/dukkanlar-erken-kapandi-sokaklar-karanliga-gomuldu-savas-sonrasi-olagan-ustu-tasarruf-onlemleri-devrede-7552781",
@@ -273,13 +280,6 @@
       "source": "Haberturk",
       "url": "https://www.haberturk.com/husiler-hareketlendi-yemen-den-israil-e-ilk-kez-fuze-firlatildi-3872996",
       "published_date": "2026-03-28T07:48:23Z",
-      "category": "Military"
-    },
-    {
-      "title": "A leader died, the system was reestablished",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/bir-lider-oldu-sistem-yeniden-kuruldu-iranda-gorunen-8-isim-gorunmeyen-guc-dengesi-3872999",
-      "published_date": "2026-03-28T07:33:40Z",
       "category": "Military"
     },
     {
@@ -507,6 +507,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Attack during the driving test! 2 people were caught",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/direksiyon-sinavinda-saldiri-2-kisi-yakalandi-3873281",
+      "published_date": "2026-03-29T19:13:07Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Dirty trick from Özlem Gürses on Sözcü TV! He tried to blame the CHP president's harassment scandal on the AK Party!",
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/gundem/2026/03/29/sozcu-tvde-ozlem-gursesten-kirli-oyun-chpli-baskanin-taciz-skandalini-ak-partiye-yikmaya-calisti",
@@ -535,10 +542,31 @@
       "category": "Local Events"
     },
     {
+      "title": "Rain prevents flights in Istanbul",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/sabiha-gokcen-havalimani-nda-ucuslara-yagmur-engeli-42-ucak-divert-etti-3873221",
+      "published_date": "2026-03-29T13:34:09Z",
+      "category": "Local Events"
+    },
+    {
       "title": "He was accused of ignoring suspicious transactions! BofA will pay $72.5 million to Epstein victims",
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/ekonomi/supheli-islemleri-gormezden-gelmekle-suclaniyordu-bofa-epstein-magdurlarina-725-milyon-dolar-odeyecek-7552916",
       "published_date": "2026-03-29T13:01:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "His lifeless body was found 2 days later",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/2-gundur-haber-alinamiyordu-130-kisilik-ekibin-aramasi-sonucu-cansiz-bedenine-ulasildi-3873231",
+      "published_date": "2026-03-29T12:55:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Response from DMM to allegations of selling hospitals",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/dmm-den-kosuyolu-kalp-ve-damar-hastanesi-satiliyor-iddialarina-yanit-3873230",
+      "published_date": "2026-03-29T12:47:30Z",
       "category": "Local Events"
     },
     {
@@ -556,6 +584,41 @@
       "category": "Local Events"
     },
     {
+      "title": "He killed his son with a hunting rifle!",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/oglunu-av-tufegiyle-oldurdu-3873224",
+      "published_date": "2026-03-29T12:15:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Torrential captivity in Adana!",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/adana-da-saganak-esareti-3873216",
+      "published_date": "2026-03-29T11:48:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "He killed his wife, who intervened while he was beating his mother!",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/annesini-darp-ederken-araya-giren-karisini-oldurdu-3873219",
+      "published_date": "2026-03-29T11:46:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Aggravated life sentence for mother murderer lawyer",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/boyle-evlat-olmaz-olsun-annesini-doverek-olduren-avukat-son-kez-hakim-karsisina-cikti-3873217",
+      "published_date": "2026-03-29T11:28:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Statement from YÖK President Özvar regarding the practice of graduating from university in 3 years",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/yok-baskani-ozvar-dan-universitenin-3-yilda-bitirilebilmesi-uygulamasina-iliskin-aciklama-haberler-3873212",
+      "published_date": "2026-03-29T11:22:54Z",
+      "category": "Local Events"
+    },
+    {
       "title": "It concerns millions of drivers! The Ministry has launched a new digital application: Radar points can be seen on a single map.",
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/yasam/milyonlarca-surucuyu-ilgilendiriyor-bakanlik-yeni-dijital-uygulamayi-devreye-aldi-radar-noktalari-tek-haritada-gorulebilecek-7552863",
@@ -563,80 +626,17 @@
       "category": "Local Events"
     },
     {
+      "title": "23-year-old driver died in the accident",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/gaziantep-te-kontrolden-cikan-kamyon-ucuruma-yuvarlandi-23-yasindaki-surucu-kazada-can-verdi-3873204",
+      "published_date": "2026-03-29T09:59:30Z",
+      "category": "Local Events"
+    },
+    {
       "title": "It will carry 203 thousand passengers... Strong start to the summer season from THY!",
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/ekonomi/203-bin-yolcu-tasiyacak-thyden-yaz-sezonuna-guclu-baslangic-7552839",
       "published_date": "2026-03-29T09:44:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "He died in a terrible accident in Bursa: Unscrupulous request! 'The car that killed my daughter...'",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/yasam/bursada-feci-kazada-can-vermisti-16-yasindaki-zeynepin-acili-ailesinden-vicdansiz-istek-kizimi-olduren-arabanin-7552817",
-      "published_date": "2026-03-29T08:57:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Died in tanker accident",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/gaziantepte-tankerler-kafa-kafaya-carpisti-1-olu-1-yarali-3873181",
-      "published_date": "2026-03-29T08:33:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A lawsuit was filed for the punch that caused death!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/saldirgan-karateci-cikti-olume-neden-olan-yumrukta-dava-acildi-3873172",
-      "published_date": "2026-03-29T08:20:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "\"Simav fault did not end its stress\"",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/sener-usumezsoy-dan-kritik-uyari-simav-fayi-stresini-bitirmedi-3873150",
-      "published_date": "2026-03-29T08:19:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "He killed his wife after an argument and committed suicide",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/nigde-de-kadin-cinayeti-kasap-koca-tartistigi-karisini-bicakladi-agir-yaralanan-kadin-kurtarilamadi-3873170",
-      "published_date": "2026-03-29T08:00:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The victim in the harassment case was injured in the accident",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/taciz-davasindaki-magdur-kazada-agir-yaralandi-3873167",
-      "published_date": "2026-03-29T07:34:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The motorcycle crashed into the baby carriage! Baby Arya passed away!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-motosiklet-bebek-arabasina-carpti-arya-bebek-hayatini-kaybetti-3873157",
-      "published_date": "2026-03-29T07:06:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Children disregarded their lives",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/cocuklarin-trafikte-canlarini-hice-sayarak-trafikteki-tehlikeli-yolculuklari-kamerada-3873149",
-      "published_date": "2026-03-29T06:34:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "He strangled the young woman, put her in a sack, and threw her in the garbage dump!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/yillarin-dostu-katil-cikti-genc-kadini-bogdu-cuvala-koydu-copluge-atti-3873146",
-      "published_date": "2026-03-29T06:21:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The number of people killed in Israeli attacks in Lebanon reached 1189",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/lubnanda-israilin-saldirilarinda-hayatini-kaybedenlerin-sayisi-1189a-ulasti-7552728",
-      "published_date": "2026-03-29T06:07:52Z",
       "category": "Local Events"
     }
   ]
