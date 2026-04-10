@@ -1,9 +1,16 @@
 {
   "country": "turkey",
-  "last_updated": "2026-04-10T14:41:53Z",
+  "last_updated": "2026-04-10T23:32:11Z",
   "stories": [
     {
-      "title": "The 10th edition of the global Sabri Ülker Future Science Leader Award went to Chile.",
+      "title": "President Erdoğan received the participants of the 9th Meeting of ICAPP Women's Branch",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/04/10/baskan-erdogan-icapp-kadin-kolu-9-toplantisinin-katilimcilarini-kabul-etti",
+      "published_date": "2026-04-10T17:22:34Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The 10th edition of the globalizing Sabri Ülker Future Science Leader Award extended to Chile",
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/ekonomi/kuresellesen-sabri-ulker-gelecegin-bilim-lideri-odulunun-10uncusu-siliye-uzandi-7560852",
       "published_date": "2026-04-10T12:07:01Z",
@@ -17,13 +24,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Bloody execution for the instigator who rained bullets!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-kursun-yagdirtan-azmettiriciye-kanli-infaz-adana-haberleri-3876244",
-      "published_date": "2026-04-10T11:32:49Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "BREAKING NEWS: Social media phenomenon Mika Raun Can's imprisonment requested",
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/yasam/son-dakika-mika-raun-canin-hapsi-istendi-7560836",
@@ -31,17 +31,24 @@
       "category": "Diplomacy"
     },
     {
-      "title": "He killed his friend at work! The reason for the murder has been revealed!",
+      "title": "Bloody execution for the instigator who rained bullets!",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-is-yerinde-arkadasini-oldurmustu-o-tokadi-yediremedim-3876271",
-      "published_date": "2026-04-10T11:14:53Z",
+      "url": "https://www.haberturk.com/son-dakika-kursun-yagdirtan-azmettiriciye-kanli-infaz-adana-haberleri-3876244",
+      "published_date": "2026-04-10T08:48:32Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Horrible murder of a woman in a car!",
+      "title": "He killed his friend at work! The reason for the murder has been revealed!",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/otomobilde-korkunc-kadin-cinayeti-3876269",
-      "published_date": "2026-04-10T07:50:37Z",
+      "url": "https://www.haberturk.com/son-dakika-is-yerinde-arkadasini-oldurmustu-o-tokadi-yediremedim-3876271",
+      "published_date": "2026-04-10T08:47:52Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Remarkable messages from Fatih Dönmez",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/istanbul-cumhuriyet-bassavcisi-fatih-donmez-den-dikkat-ceken-mesajlar-3876275",
+      "published_date": "2026-04-10T08:40:42Z",
       "category": "Diplomacy"
     },
     {
@@ -66,7 +73,7 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Claim: Netanyahu talked Trump out of his Lebanon decision",
+      "title": "Claim: Netanyahu dissuaded Trump from Lebanon decision",
       "source": "Haberturk",
       "url": "https://www.haberturk.com/iddia-trump-i-lubnan-kararindan-netanyahu-vazgecirdi-3876188",
       "published_date": "2026-04-10T02:58:16Z",
@@ -115,13 +122,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Police Day messages 2026",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/polis-gunu-ne-zaman-hangi-gun-kutlanir-2026-polis-haftasi-anlamli-resimli-mesajlari-3876138",
-      "published_date": "2026-04-09T20:16:48Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Arakchi calls for \"Netanyahu to be tried\": \"It will speed up the process of going to prison\"",
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/dunya/arakciden-netanyahu-yargilansin-cagrisi-hapse-girme-surecini-hizlandiracaktir-7560357",
@@ -141,6 +141,13 @@
       "url": "https://www.haberturk.com/elektronik-giris-cikis-sistemi-ees-nedir-ees-hangi-ulkeleri-kapsiyor-3876104",
       "published_date": "2026-04-09T15:49:34Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Vice President Yılmaz: “We are taking decisive steps towards a terrorism-free Türkiye”",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/04/10/cumhurbaskani-yardimcisi-yilmaz-terorsuz-turkiye-dogrultusunda-kararli-adimlar-atiyoruz",
+      "published_date": "2026-04-10T19:45:24Z",
+      "category": "Military"
     },
     {
       "title": "Transit visa problem solved",
@@ -234,7 +241,7 @@
       "category": "Military"
     },
     {
-      "title": "BREAKING NEWS... All eyes are on ceasefire talks in the US/Israel-Iran War! Remarkable statements from former minister Kerry: \"No president has accepted Israel's plan\"",
+      "title": "BREAKING NEWS… All eyes are on the ceasefire meeting in the US/Israel-Iran War! Iranian delegation reached Pakistan",
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/yasam/canli-son-dakika-abdisrail-iran-savasinda-gozler-islamabaddaki-ateskes-gorusmesinde-trumptan-hurmuz-uyarisi-7560624",
       "published_date": "2026-04-10T04:00:45Z",
@@ -276,11 +283,18 @@
       "category": "Military"
     },
     {
-      "title": "8 million cyber fraud: 3 arrests",
+      "title": "Minister Bayraktar: A new era begins in Turkish oil and natural gas exploration",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/ekonomi/bakan-bayraktar-turk-petrol-ve-dogalgaz-aramaciliginda-yeni-bir-donem-basliyor-7561045",
+      "published_date": "2026-04-10T18:24:46Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Çağrı Bey is in Somalia",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/duzce-de-8-milyonluk-siber-dolandiricilik-3-tutuklama-3876125",
-      "published_date": "2026-04-09T17:00:15Z",
-      "category": "Military"
+      "url": "https://www.haberturk.com/cagri-bey-somali-de-3876415-ekonomi",
+      "published_date": "2026-04-10T15:10:32Z",
+      "category": "Energy"
     },
     {
       "title": "Inflation in the USA jumped with energy prices",
@@ -409,18 +423,18 @@
       "category": "Energy"
     },
     {
-      "title": "Attention vehicle owners!",
+      "title": "The stock market finished the day with an increase",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/benzin-ve-motorine-zam-mi-geldi-ne-kadar-oldu-8-nisan-2026-zamli-benzin-motorin-fiyati-3875615",
-      "published_date": "2026-04-08T13:06:20Z",
-      "category": "Energy"
+      "url": "https://www.haberturk.com/borsa-gunu-yukselisle-tamamladi-3876424-ekonomi",
+      "published_date": "2026-04-10T15:32:36Z",
+      "category": "Economy"
     },
     {
-      "title": "Geopolitical tensions shake commodity markets: First quarter analysis of gold, oil and agricultural products",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/ekonomi/jeopolitik-gerilimler-emtia-piyasalarini-sarsiyor-altin-petrol-ve-tarim-urunlerinde-ilk-ceyrek-analizi-7559412",
-      "published_date": "2026-04-08T12:03:19Z",
-      "category": "Energy"
+      "title": "End of the day in the markets: Friday, April 10, 2026 Latest situation in Borsa Istanbul, dollar, gold and cryptocurrencies",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/piyasalarda-gun-sonu-10-nisan-2026-cuma-borsa-istanbul-dolar-altin-ve-kripto-paralarda-son-durum-fai-3876422-ekonomi",
+      "published_date": "2026-04-10T15:30:00Z",
+      "category": "Economy"
     },
     {
       "title": "The Chinese are starting production in that country too",
@@ -549,18 +563,81 @@
       "category": "Economy"
     },
     {
-      "title": "Foot and mouth disease is under control in Muğla",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/mugla-da-sap-hastaligi-kontrol-altinda-3876108",
-      "published_date": "2026-04-09T15:43:01Z",
-      "category": "Economy"
+      "title": "Striking shot before the US-Iran negotiations! Kalibaf shared: Here are my comrades",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/abd-iran-muzakereleri-oncesi-carpici-kare-kalibaf-paylasti-iste-benim-yoldaslarim-7561263",
+      "published_date": "2026-04-10T21:43:07Z",
+      "category": "Local Events"
     },
     {
-      "title": "Market closing: Thursday, April 9, 2026 What happened today in the stock market, dollar, gold and cryptocurrencies?",
+      "title": "Striking claim from the Israeli press! USA requested, Tel Aviv administration accepted: Beirut will not be targeted",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/israil-basinindan-carpici-iddia-abd-istedi-tel-aviv-yonetimi-kabul-etti-beyrut-hedef-alinmayacak-7561258",
+      "published_date": "2026-04-10T21:33:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russia calls for negotiations with the USA and Iran: Avoid actions that will undermine the process",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/rusyadan-abd-ve-irana-muzakere-cagrisi-sureci-baltalayacak-eylemlerden-kacinin-7561257",
+      "published_date": "2026-04-10T21:30:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Attack on the home of OpenAI CEO Sam Altman",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/piyasa-kapanisi-09-nisan-2026-persembe-borsa-dolar-altin-ve-kripto-paralarda-bugun-ne-oldu-fai-3876107-ekonomi",
-      "published_date": "2026-04-09T15:30:00Z",
-      "category": "Economy"
+      "url": "https://www.haberturk.com/openai-in-ceo-su-sam-altman-in-evine-saldiri-3876455-ekonomi",
+      "published_date": "2026-04-10T19:04:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Harsh reaction from the Spanish government to the murderer Netanyahu: \"You are a genocidal regime\"",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/ispanya-hukumetinden-katil-netanyahuya-sert-tepki-siz-soykirimci-bir-rejimsiniz-7561061",
+      "published_date": "2026-04-10T18:51:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Statement from Minister Bolat about the Kahramanmaraş earthquake: We revived our cities in a short time",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/04/10/bakan-bolattan-kahramanmaras-depremi-aciklamasi-sehirlerimizi-kisa-surede-ayaga-kaldirdik",
+      "published_date": "2026-04-10T18:29:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Minister Gürlek announced! Flash move from Türkiye for Sumud fleet",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/04/10/bakan-gurlek-duyurdu-turkiyeden-sumud-filosu-icin-flas-hamle",
+      "published_date": "2026-04-10T17:53:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "President Erdoğan published a message on the occasion of the 181st anniversary of the Turkish Police Department.",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/04/10/baskan-erdogan-turk-polis-teskilatinin-181-kurulus-yil-donumu-dolayisiyla-mesaj-yayimladi",
+      "published_date": "2026-04-10T17:06:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Visit from AK Party member Yayman to İbrahim Tatlıses! The famous artist sang a folk song in the hospital room",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/yasam/ak-partili-yaymandan-ibrahim-tatlisese-ziyaret-unlu-sanatci-hastane-odasinda-turku-soyledi-7560978",
+      "published_date": "2026-04-10T16:17:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "New development in the bribery operation against CHP's Üsküdar Municipality: 2 new detentions",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/04/10/chpli-uskudar-belediyesine-rusvet-operasyonunda-yeni-gelisme-2-yeni-gozalti",
+      "published_date": "2026-04-10T15:09:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Breaking news: Beşiktaş did not have any difficulties at home! They beat Antalyaspor in a 6-goal match",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/spor/futbol/2026/04/10/son-dakika-haberi-besiktas-evinde-zorlanmadi-6-gollu-macta-antalyasporu-gecti",
+      "published_date": "2026-04-10T14:40:57Z",
+      "category": "Local Events"
     },
     {
       "title": "BREAKING NEWS | CHP's 'expulsion' decision for Hasbi Dede after months!",
@@ -623,83 +700,6 @@
       "source": "Haberturk",
       "url": "https://www.haberturk.com/5g-de-hikayemiz-yeni-basliyor-3876365-teknoloji",
       "published_date": "2026-04-10T12:16:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Permanent project in earthquake zone",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/mercedes-benz-turk-ten-deprem-bolgesine-kalici-proje-3876358-ekonomi",
-      "published_date": "2026-04-10T12:07:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Forbidden love ended with murder in Burdur! The defendant's last words made him say: \"I defended myself.\"",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/yasam/burdurda-yasak-ask-cinayetle-bitti-sanigin-son-sozleri-pes-dedirtti-ben-kendimi-savundum-7560848",
-      "published_date": "2026-04-10T11:55:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arab League Secretary General Gayt: “US-Iran ceasefire should also include Lebanon”",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/arap-birligi-genel-sekreteri-gayt-abd-iran-ateskesi-lubnani-da-kapsamali-7560843",
-      "published_date": "2026-04-10T11:42:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Minister Uraloğlu announced: 5G subscribers exceeded 29 million!",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/ekonomi/bakan-uraloglu-duyurdu-5g-abonesi-29-milyonu-asti-7560809",
-      "published_date": "2026-04-10T10:26:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Flash development in little Leyla's case: The decision has been made about the mother!",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/yasam/minik-leylanin-davasinda-flas-gelisme-anne-hakkinda-o-karar-verildi-7560804",
-      "published_date": "2026-04-10T10:11:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Remarkable messages from Fatih Dönmez",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/istanbul-cumhuriyet-bassavcisi-fatih-donmez-den-dikkat-ceken-mesajlar-3876275",
-      "published_date": "2026-04-10T09:59:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Zero gravity' has come to an end... Death in the amusement park is on camera!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-sifir-yer-cekimi-sonu-oldu-lunaparkta-olum-kamerada-edirne-haberleri-3876192",
-      "published_date": "2026-04-10T09:47:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Islamabad on alert: “Red alert” before US-Iran meeting",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/islamabad-alarmda-abd-iran-gorusmesi-oncesi-kirmizi-alarm-7560765",
-      "published_date": "2026-04-10T08:58:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Operation in Mersin Yenişehir: 30 detained",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-mersin-yenisehir-e-operasyon-30-gozalti-mersin-haberleri-3876207",
-      "published_date": "2026-04-10T08:56:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two people died! The first moments of the disaster!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-iki-kisi-can-verdi-facianin-ilk-anlari-3876252",
-      "published_date": "2026-04-10T08:25:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Praise from Iranian President to Turkey: \"Your solidarity is admirable\"",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/iran-cumhurbaskanindan-turkiyeye-ovgu-dayanismaniz-takdire-sayan-7560739",
-      "published_date": "2026-04-10T08:23:22Z",
       "category": "Local Events"
     }
   ]
