@@ -1,7 +1,49 @@
 {
   "country": "turkey",
-  "last_updated": "2026-04-16T12:08:19Z",
+  "last_updated": "2026-04-16T23:40:15Z",
   "stories": [
+    {
+      "title": "The subject \"Arbitration Center of the Organization of Islamic Cooperation\" is generally published in the Official Gazette.",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/04/16/islam-isbirligi-teskilati-tahkim-merkezi-konulu-genelde-resmi-gazetede",
+      "published_date": "2026-04-16T22:41:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Minister Fidan met with the Prime Minister of Pakistan in Antalya!",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/04/16/bakan-fidan-antalyada-pakistan-basbakani-ile-gorustu",
+      "published_date": "2026-04-16T20:24:37Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "NATO Secretary General: “I am looking forward to the Ankara summit”",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/nato-genel-sekreteri-ankara-zirvesini-sabirsizlikla-bekliyorum-7564967",
+      "published_date": "2026-04-16T18:33:39Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Minister Fidan met with his French counterpart Barrot",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/04/16/bakan-fidan-fransiz-mevkidasi-barrot-ile-gorustu",
+      "published_date": "2026-04-16T17:39:21Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "President Erdoğan: The biggest obstacle to peace is Israel",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/04/16/baskan-erdogandan-onemli-mesajlar",
+      "published_date": "2026-04-16T16:49:53Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "President Erdoğan met with Somali President Mahmud! Here are the topics covered...",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/04/16/baskan-erdogan-somali-cumhurbaskani-mahmud-ile-gorustu",
+      "published_date": "2026-04-16T16:48:33Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Credit volume in the banking sector exceeded 25 trillion TL: The decline in KKM continues!",
       "source": "Sabah",
@@ -28,6 +70,20 @@
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/ekonomi/abdden-o-ulkeye-yeni-yaptirim-paketi-listede-3-kisi-9-gemi-ve-17-kurulus-var-7564720",
       "published_date": "2026-04-16T09:57:47Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "20 detained in high school attack in Şanlıurfa",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/sanliurfa-daki-lise-saldirisina-iliskin-20-supheliye-gozalti-3877701",
+      "published_date": "2026-04-16T08:31:22Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Karakuş, President of the Anatolian Africans Association, passed away.",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/anadolu-afrikalilar-dernegi-baskani-karakus-vefat-etti-3877783",
+      "published_date": "2026-04-16T08:18:20Z",
       "category": "Diplomacy"
     },
     {
@@ -87,63 +143,63 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Remarkable \"PUBG\" detail in two bloody school attacks! Experts warn: It may be linked to \"lone wolf\" style attacks",
+      "title": "The statement of the guidance counselor who identified the perpetrator of the attack in Kahramanmaraş was revealed: \"The magazine fell off him and fell to the ground.\"",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/yasam/iki-kanli-okul-saldirisinda-dikkat-ceken-pubg-detayi-uzmanlar-uyardi-yalniz-kurt-tarzi-saldirilarla-baglantili-olabilir-7564297",
-      "published_date": "2026-04-15T18:48:11Z",
-      "category": "Diplomacy"
+      "url": "https://www.sabah.com.tr/yasam/kahramanmarastaki-saldirinin-failini-teshis-eden-rehber-ogretmenin-ifadesi-ortaya-cikti-uzerinden-sarjor-yere-dustu-7565203",
+      "published_date": "2026-04-16T22:47:06Z",
+      "category": "Military"
     },
     {
-      "title": "Middle East meeting between Saudi Arabia and Russia: 'Security and stability' were discussed!",
+      "title": "221 arrests made in the operation against the “Bayğaralar” criminal organization",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/suudi-arabistan-ve-rusyadan-orta-dogu-gorusmesi-guvenlik-ve-istikrar-ele-alindi-7564296",
-      "published_date": "2026-04-15T18:46:02Z",
-      "category": "Diplomacy"
+      "url": "https://www.sabah.com.tr/gundem/2026/04/16/baygaralar-suc-orgutune-yonelik-operasyonda-221-tutuklama",
+      "published_date": "2026-04-16T18:25:15Z",
+      "category": "Military"
     },
     {
-      "title": "Pakistani Prime Minister is in Saudi Arabia, his first stop within the scope of negotiation tours",
+      "title": "Cuban leader evaluated the possibility of a US military attack: \"If it is inevitable...\"",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/pakistan-basbakani-muzakere-turlari-kapsaminda-ilk-duragi-olan-suudi-arabistanda-7564280",
-      "published_date": "2026-04-15T17:58:08Z",
-      "category": "Diplomacy"
+      "url": "https://www.sabah.com.tr/dunya/kuba-lideri-abdnin-askeri-saldiri-ihtimalini-degerlendirdi-eger-kacinilmaz-olursa-7564893",
+      "published_date": "2026-04-16T16:26:13Z",
+      "category": "Military"
     },
     {
-      "title": "Peace summit in Tehran: Araqchi met with Pakistani Chief of General Staff",
+      "title": "BREAKING NEWS...He lost his life in a school attack: The wife of teacher Ayla spoke: \"I love school very much,\" she said",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/tahranda-baris-zirvesi-arakci-pakistan-genelkurmay-baskani-ile-gorustu-7564275",
-      "published_date": "2026-04-15T17:48:49Z",
-      "category": "Diplomacy"
+      "url": "https://www.sabah.com.tr/yasam/okul-saldirisinda-hayatini-kaybetmisti-ayla-ogretmenin-esi-konustu-okulu-cok-seviyorum-diyordu-7564855",
+      "published_date": "2026-04-16T14:47:49Z",
+      "category": "Military"
     },
     {
-      "title": "Speaker of the Turkish Grand National Assembly Kurtulmuş: \"Israel's UN membership should be suspended\"",
+      "title": "Critical time in Hasakah: USA withdrew! The base passed to the Syrian army",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/04/15/tbmm-baskani-kurtulmus-israilin-bm-uyeligi-askiya-alinmalidir",
-      "published_date": "2026-04-15T16:55:51Z",
-      "category": "Diplomacy"
+      "url": "https://www.sabah.com.tr/dunya/hasekede-kritik-devir-abd-cekildi-us-suriye-ordusuna-gecti-7564848",
+      "published_date": "2026-04-16T14:21:00Z",
+      "category": "Military"
     },
     {
-      "title": "Will schools be closed today or will there be classes?",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-bugun-okullar-tatil-mi-15-nisan-carsamba-istanbul-ankara-izmir-ve-sanliurfa-da-okul-var-mi-yok-mu-ders-yapilacak-mi-3877389",
-      "published_date": "2026-04-15T16:14:18Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran: “We are not a country that can be surrounded”",
+      "title": "Armed attack on police in Iran: 3 dead",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/iran-kusatilabilecek-bir-ulke-degiliz-7564184",
-      "published_date": "2026-04-15T15:12:52Z",
-      "category": "Diplomacy"
+      "url": "https://www.sabah.com.tr/dunya/iranda-polise-silahli-saldiri-3-olu-7564840",
+      "published_date": "2026-04-16T14:10:02Z",
+      "category": "Military"
     },
     {
-      "title": "How much is the Vakıf Katılım retirement promotion?",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/vakif-katilim-emekli-promosyonu-2026-vakif-katilim-emekli-promosyonu-ne-kadar-basvuru-sartlari-neler-kac-yilda-bir-veriyor-3877379",
-      "published_date": "2026-04-15T15:04:36Z",
-      "category": "Diplomacy"
+      "title": "USA's \"USS Gerald R. Ford\" aircraft carrier broke the duty duration record",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/abdnin-uss-gerald-r-ford-ucak-gemisi-gorev-suresi-rekorunu-kirdi-7564837",
+      "published_date": "2026-04-16T13:59:47Z",
+      "category": "Military"
     },
     {
-      "title": "BREAKING NEWS... The stance of the US and Iranian delegations has been revealed! When are the second round of negotiations?",
+      "title": "Iran: UAV production increased 10 times",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/iran-iha-uretimi-10-katina-cikti-7564831",
+      "published_date": "2026-04-16T13:44:26Z",
+      "category": "Military"
+    },
+    {
+      "title": "BREAKING NEWS... Remarkable \"nuclear\" claim from the USA for Iran! Trump: We agreed on many issues",
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/yasam/canli-son-dakika-abdisrail-iran-savasinda-ateskes-cikmazi-abdnin-askeri-sevkiyat-hamlesi-sonrasi-irandan-rest-hepsini-batiririz-7564517",
       "published_date": "2026-04-16T11:22:00Z",
@@ -192,94 +248,38 @@
       "category": "Military"
     },
     {
+      "title": "He made the plan for the massacre on April 11!",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/son-dakika-11-nisan-da-katliamin-planini-yapmis-3877729",
+      "published_date": "2026-04-16T08:34:25Z",
+      "category": "Military"
+    },
+    {
+      "title": "Drug operation: 12 arrests",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/agri-ve-hatay-da-uyusturucu-operasyonu-12-tutuklama-3877779",
+      "published_date": "2026-04-16T08:03:36Z",
+      "category": "Military"
+    },
+    {
+      "title": "He clashed with the police for 3 streets",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/sakarya-da-polisle-3-sokak-boyunca-catisan-adam-okul-onunde-vurularak-etkisiz-hale-getirildi-3877744",
+      "published_date": "2026-04-16T07:06:59Z",
+      "category": "Military"
+    },
+    {
+      "title": "13 effective measures",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/13-etkili-tedbir-3877731",
+      "published_date": "2026-04-16T07:05:27Z",
+      "category": "Military"
+    },
+    {
       "title": "'Oil price' warning from IMF President",
       "source": "Haberturk",
       "url": "https://www.haberturk.com/imf-baskanindan-petrol-fiyati-uyarisi-3877734-ekonomi",
       "published_date": "2026-04-16T06:49:41Z",
-      "category": "Military"
-    },
-    {
-      "title": "General Directorate of Security: \"The father of the person involved in the armed attack on the school in Kahramanmaraş was arrested\"",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/04/16/emniyet-genel-mudurlugu-kahramanmarasta-okula-silahli-saldiri-olayina-iliskin-sahsin-babasi-tutuklandi",
-      "published_date": "2026-04-16T06:29:38Z",
-      "category": "Military"
-    },
-    {
-      "title": "China's economy grew by 5 percent in the first quarter",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/cin-ekonomisi-ilk-ceyrekte-beklentilerin-uzerinde-buyudu-3877710-ekonomi",
-      "published_date": "2026-04-16T04:44:13Z",
-      "category": "Military"
-    },
-    {
-      "title": "What is the Gülistan Doku incident?",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/gulistan-doku-olayi-son-dakika-gulistan-doku-kimdir-olduruldu-mu-ne-zaman-kayboldu-gulistan-doku-olayi-nedir-bulundu-mu-3877462",
-      "published_date": "2026-04-16T04:41:51Z",
-      "category": "Military"
-    },
-    {
-      "title": "Are schools closed today?",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/bugun-okullar-tatil-mi-16-nisan-persembe-gunu-okullar-tatil-mi-kahramanmaras-sanliurfa-istanbul-ankara-izmirde-okul-var-mi-ders-yapilacak-mi-3877600",
-      "published_date": "2026-04-16T04:41:45Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran: Extending the ceasefire is not in our favor",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/iran-ateskesin-uzatilmasi-lehimize-degil-3877706",
-      "published_date": "2026-04-16T04:35:48Z",
-      "category": "Military"
-    },
-    {
-      "title": "Avalanche warning to 2 areas, dust transport warning to 2 areas",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-meteoroloji-den-2-bolgeye-cig-2-bolgeye-toz-tasinimi-uyarisi-16-nisan-hava-durumu-3877705",
-      "published_date": "2026-04-16T04:16:31Z",
-      "category": "Military"
-    },
-    {
-      "title": "Shooting attack at school in K.Maraş: 9 dead, 13 injured!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-kmaras-ta-okulda-silah-sesleri-3877569",
-      "published_date": "2026-04-16T03:50:35Z",
-      "category": "Military"
-    },
-    {
-      "title": "Ministers will hold a meeting with governors",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/bakanlar-valilerle-toplanti-yapacak-3877676",
-      "published_date": "2026-04-16T02:59:52Z",
-      "category": "Military"
-    },
-    {
-      "title": "DMM denied the claims of missing children as a result of the armed attack in Kahramanmaraş!",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/04/15/dmm-kahramanmarastaki-silahli-saldiri-sonucu-kayip-cocuklarin-oldugu-iddialarini-yalanladi",
-      "published_date": "2026-04-15T22:49:21Z",
-      "category": "Military"
-    },
-    {
-      "title": "Statement from the Ministry of Internal Affairs regarding the school attack in Kahramanmaraş: Necessary steps will be taken quickly",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/yasam/icisleri-bakanligindan-kahramanmarastaki-okul-saldirisina-iliskin-aciklama-gerekli-adimlar-suratle-hayata-gecirilecek-7564391",
-      "published_date": "2026-04-15T21:21:22Z",
-      "category": "Military"
-    },
-    {
-      "title": "'Golden man' caught",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/196-ulkede-aranan-altin-adam-yakayi-istanbul-da-ele-verdi-3877684",
-      "published_date": "2026-04-15T20:14:05Z",
-      "category": "Military"
-    },
-    {
-      "title": "\"We need to be in unity and solidarity\"",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/emine-erdogan-dan-sanliurfa-ve-kahramanmaras-taki-silahli-saldirilara-iliskin-aciklama-3877681",
-      "published_date": "2026-04-15T19:42:57Z",
       "category": "Military"
     },
     {
@@ -423,6 +423,55 @@
       "category": "Energy"
     },
     {
+      "title": "Netflix's revenue increased by 16.2 percent",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/netflix-in-geliri-yuzde-16-2-artti-3877969-ekonomi",
+      "published_date": "2026-04-16T22:54:15Z",
+      "category": "Economy"
+    },
+    {
+      "title": "CMB approved the capital increase of 7 companies",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/spk-7-sirketin-sermaye-artirimini-onayladi-3877936-ekonomi",
+      "published_date": "2026-04-16T19:38:30Z",
+      "category": "Economy"
+    },
+    {
+      "title": "The stock market ended the day with a decline",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/borsa-gunu-dususle-tamamladi-3877905-ekonomi",
+      "published_date": "2026-04-16T16:22:02Z",
+      "category": "Economy"
+    },
+    {
+      "title": "End of the day in the markets: Thursday, April 16, 2026 Latest situation in Borsa Istanbul, dollar, gold and cryptocurrencies",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/piyasalarda-gun-sonu-16-nisan-2026-persembe-borsa-istanbul-dolar-altin-ve-kripto-paralarda-son-durum-fai-3877889-ekonomi",
+      "published_date": "2026-04-16T15:30:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "18th Türkiye Investment Conference was held in New York",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/18-turkiye-yatirim-konferansi-new-york-ta-duzenlendi-3877865-ekonomi",
+      "published_date": "2026-04-16T13:20:49Z",
+      "category": "Economy"
+    },
+    {
+      "title": "The decline in KKM balance continues",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/kkm-bakiyesindeki-dusus-devam-ediyor-3877860-ekonomi",
+      "published_date": "2026-04-16T12:53:43Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Increase in CBRT reserves",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/tcmb-rezervlerinde-artis-3877849-ekonomi",
+      "published_date": "2026-04-16T11:53:48Z",
+      "category": "Economy"
+    },
+    {
       "title": "Central Bank reserves increased!",
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/ekonomi/merkez-bankasi-rezervleri-artti-7564768",
@@ -479,13 +528,6 @@
       "category": "Economy"
     },
     {
-      "title": "What will be the minimum pension?",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/emekli-maasi-son-dakika-2026-temmuz-en-dusuk-emekli-maasi-ne-kadar-olacak-enflasyon-farki-ile-emekliye-yuzde-kac-zam-gelecek-3877644",
-      "published_date": "2026-04-16T04:41:50Z",
-      "category": "Economy"
-    },
-    {
       "title": "Gold is rising!",
       "source": "Haberturk",
       "url": "https://www.haberturk.com/canli-altin-fiyatlari-16-nisan-2026-altin-yukseliste-bugun-14-22-ayar-bilezik-tam-yarim-ceyrek-altin-gram-altin-alis-satis-fiyati-ne-kadar-3877708",
@@ -507,6 +549,13 @@
       "category": "Economy"
     },
     {
+      "title": "What will be the minimum pension?",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/emekli-maasi-son-dakika-2026-temmuz-en-dusuk-emekli-maasi-ne-kadar-olacak-enflasyon-farki-ile-emekliye-yuzde-kac-zam-gelecek-3877644",
+      "published_date": "2026-04-15T21:38:16Z",
+      "category": "Economy"
+    },
+    {
       "title": "European stock markets closed lower, except Germany",
       "source": "Haberturk",
       "url": "https://www.haberturk.com/avrupa-borsalari-almanya-haric-dususle-kapandi-3877659-ekonomi",
@@ -514,53 +563,67 @@
       "category": "Economy"
     },
     {
-      "title": "The stock market finished the day with an increase",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/borsa-gunu-yukselisle-tamamladi-3877641-ekonomi",
-      "published_date": "2026-04-15T15:51:11Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Market closing: Wednesday, April 15, 2026 What happened today in the stock market, dollar, gold and cryptocurrencies?",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/piyasa-kapanisi-15-nisan-2026-carsamba-borsa-dolar-altin-ve-kripto-paralarda-bugun-ne-oldu-fai-3877637-ekonomi",
-      "published_date": "2026-04-15T15:30:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Second hand price increase expectation",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/ikinci-el-arac-fiyatlari-artacak-mi-3877559-ekonomi",
-      "published_date": "2026-04-15T12:47:01Z",
-      "category": "Economy"
-    },
-    {
-      "title": "What will be the minimum wage in July?",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/asgari-ucret-zammi-son-dakika-2026-temmuz-asgari-zam-gelecek-mi-asgari-ucret-ne-kadar-olacak-3877548",
-      "published_date": "2026-04-15T12:40:10Z",
-      "category": "Economy"
-    },
-    {
-      "title": "The Ministry authorized 4 financial institutions",
+      "title": "SGK announced: 100 assistant auditors will be recruited!",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/ekonomi/bakanlik-4-finans-kurulusuna-yetki-verdi-7564079",
-      "published_date": "2026-04-15T11:51:10Z",
-      "category": "Economy"
+      "url": "https://www.sabah.com.tr/ekonomi/sgk-duyurdu-100-denetmen-yardimcisi-alinacak-7565206",
+      "published_date": "2026-04-16T23:17:10Z",
+      "category": "Local Events"
     },
     {
-      "title": "Message from Cevdet Yılmaz about economic cooperation between Türkiye and Kazakhstan",
+      "title": "Appointment decisions are in the Official Gazette! Flag change at embassies",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/ekonomi/cevdet-yilmazdan-turkiye-kazakistan-ekonomik-isbirligi-mesaji-7564071",
-      "published_date": "2026-04-15T11:30:13Z",
-      "category": "Economy"
+      "url": "https://www.sabah.com.tr/gundem/2026/04/16/atama-kararlari-resmi-gazetede-7-ulkenin-buyukelcisi-degisti",
+      "published_date": "2026-04-16T21:39:50Z",
+      "category": "Local Events"
     },
     {
-      "title": "When will the CBRT interest rate decision be announced?",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/merkez-bankasi-nisan-ayi-faiz-karari-ne-zaman-aciklanacak-faiz-beklentileri-ne-yonde-3877563",
-      "published_date": "2026-04-15T10:36:10Z",
-      "category": "Economy"
+      "title": "Condolence visit to the family of martyr teacher Ayla Kara from ministers and Bilal Erdoğan",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/04/16/bakanlardan-ve-bilal-erdogandan-sehit-ogretmen-ayla-karanin-ailesine-taziye-ziyareti",
+      "published_date": "2026-04-16T20:15:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Message of unity and solidarity from the Presidency of Religious Affairs in the Friday sermon: \"Our children are under siege from many directions\"",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/yasam/diyanet-isleri-baskanligindan-cuma-hutbesinde-birlik-ve-beraberlik-mesaji-cocuklarimiz-cok-yonlu-kusatma-altinda-7565036",
+      "published_date": "2026-04-16T20:13:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Swedish singer Felicia Eriksson announced that she received death threats after the \"Israel\" reaction",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/isvecli-sarkici-felicia-eriksson-israil-tepkisi-sonrasi-olum-tehditleri-aldigini-acikladi-7565034",
+      "published_date": "2026-04-16T20:10:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Minister Çiftçi: “Content that normalizes violence leaves deep effects”",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/04/16/bakan-ciftci-siddeti-normallestiren-icerikler-derin-etkiler-birakmaktadir",
+      "published_date": "2026-04-16T19:25:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Minister Gürlek spoke to A Haber: The punishment of children dragged into crime will be increased",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/04/16/bakan-gurlek-a-habere-konustu-suca-suruklenen-cocuklarin-cezasi-artirilacak",
+      "published_date": "2026-04-16T19:00:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Minister Göktaş announced by saying \"We are determined\": New regulation on social media use",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/04/16/bakan-goktastan-kahramanmarastaki-okul-saldirisina-iliskin-aciklama",
+      "published_date": "2026-04-16T18:33:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Important meeting between Iran and Pakistan",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/iran-ve-pakistan-arasinda-onemli-gorusme-7564856",
+      "published_date": "2026-04-16T14:48:30Z",
+      "category": "Local Events"
     },
     {
       "title": "Speaker of the Grand National Assembly of Turkey Kurtulmuş: Political bargaining can never be made over the right to life of civilians",
@@ -626,80 +689,17 @@
       "category": "Local Events"
     },
     {
-      "title": "He was found guilty of aiding the murder of Narin Güran…Nevzat Bahtiyar was sentenced to 17 years in prison",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/04/16/son-dakika-nevzat-bahtiyara-17-yil-hapis-cezasi",
-      "published_date": "2026-04-16T08:33:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The activities of Magdeburger Sigorta were stopped",
+      "title": "Detention for those who create panic by sharing",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/magdeburger-sigorta-nin-faaliyetleri-durduruldu-3877790-ekonomi",
-      "published_date": "2026-04-16T08:31:10Z",
+      "url": "https://www.haberturk.com/istanbul-da-okul-ismi-vererek-panige-sevk-eden-paylasim-yapan-6-supheli-gozaltina-alindi-3877763",
+      "published_date": "2026-04-16T08:41:43Z",
       "category": "Local Events"
     },
     {
-      "title": "BREAKING NEWS! Important meeting with the governors of 81 provinces from the Ministry of Internal Affairs and National Education! \"School safety practices will be made more effective\"",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/yasam/son-dakika-icisleri-ve-milli-egitim-bakanligindan-81-ilin-valisi-ile-onemli-toplanti-okul-guvenligi-uygulamalari-daha-etkin-hale-getirilecek-7564672",
-      "published_date": "2026-04-16T08:28:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Return to the top in dollar terms",
+      "title": "Nevzat Bahtiyar was sentenced to 17 years in prison!",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/dolar-bazinda-zirveye-donus-3877762-ekonomi",
-      "published_date": "2026-04-16T08:20:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "BREAKING NEWS: After the school attack in Kahramanmaraş, security has been increased in schools across the country! The Ministry of Internal Affairs pressed the button: At least 2 police officers...",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/yasam/son-dakika-kahramanmarasta-okul-saldirisi-sonrasi-yurt-genelinde-okullarda-guvenlik-artirildi-icisleri-bakanligi-dugmeye-basti-en-az-2-polis-7564647",
-      "published_date": "2026-04-16T08:00:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "BREAKING NEWS… SABAH Gulistan Doku reached the statement of the secret witness in her file! The governor's son killed him, his bodyguard buried him",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/yasam/son-dakika-sabah-gulistan-doku-dosyasinda-gizli-tanigin-ifadesine-ulasti-uyusturucu-tecavuz-organize-cinayet-7564637",
-      "published_date": "2026-04-16T07:47:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Ministry of Family and Social Services created a special team after the school attack in Kahramanmaraş.",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/yasam/aile-ve-sosyal-hizmetler-bakanligi-kahramanmarastaki-okul-saldirisinin-ardindan-ozel-ekip-olusturdu-7564620",
-      "published_date": "2026-04-16T07:28:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The real decline in housing continues",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-konutta-reel-dusus-suruyor-3877746-ekonomi",
-      "published_date": "2026-04-16T07:25:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Investigation into 'threatening' posts on virtual media in Istanbul: 6 detained",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/04/16/istanbulda-sanal-medyada-tehdit-paylasimlarina-sorusturma-6-gozalti",
-      "published_date": "2026-04-16T06:42:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Detention orders for 83 people following school attacks in Şanlıurfa and Kahramanmaraş",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/04/16/sanliurfa-ve-kahramanmarastaki-okul-saldirilari-sonrasi-83-kisi-hakkinda-gozalti-karari",
-      "published_date": "2026-04-16T06:29:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "There is a discount on diesel",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/akaryakit-fiyatlarindaki-oynak-seyir-devam-ediyor-motorine-bu-kez-indirim-geldi-iste-16-nisan-guncel-benzin-motorin-lpg-fiyatlari-3877720-ekonomi",
-      "published_date": "2026-04-16T06:19:11Z",
+      "url": "https://www.haberturk.com/son-dakika-narin-guran-cinayeti-gelismesi-nevzat-bahtiyar-hakim-karsisinda-3877742",
+      "published_date": "2026-04-16T08:39:39Z",
       "category": "Local Events"
     }
   ]
