@@ -1,7 +1,21 @@
 {
   "country": "turkey",
-  "last_updated": "2026-04-26T11:50:22Z",
+  "last_updated": "2026-04-26T23:37:10Z",
   "stories": [
+    {
+      "title": "President Erdoğan talked to Trump on the phone: What happened is a heinous act against the freedom of democracy",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/04/26/baskan-erdogan-trump-ile-telefonda-gorustu-yasananlar-demokrasi-hurriyetine-yapilmis-menfur-bir-eylem",
+      "published_date": "2026-04-26T18:29:18Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "\"Red line\" message from Iran to the USA! Transmitted via Pakistan",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/yasam/irandan-abdye-kirmizi-cizgi-mesaji-pakistan-araciligiyla-iletildi-7571554",
+      "published_date": "2026-04-26T18:11:45Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Deepseek warning from the USA!",
       "source": "Haberturk",
@@ -129,18 +143,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Here is the secret of Bafra's geographically indicated Turkish delight",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/iste-bafra-nin-cografi-isaretli-lokumunun-sirri-3880111",
-      "published_date": "2026-04-25T09:11:44Z",
-      "category": "Diplomacy"
+      "title": "Director of Communications Duran: Manipulated contents constitute the new front lines of today's conflicts",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/04/26/iletisim-baskani-duran-manipule-edilmis-icerikler-gunumuz-catismalarinin-yeni-cephe-hatlarini-olusturmaktadir",
+      "published_date": "2026-04-26T21:53:37Z",
+      "category": "Military"
     },
     {
-      "title": "US and Iranian delegation in Islamabad",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/muzakerelerden-sonuc-cikar-mi-abd-ve-iran-heyeti-islamabad-da-3880074",
-      "published_date": "2026-04-25T07:00:07Z",
-      "category": "Diplomacy"
+      "title": "He committed an armed attack at the White House dinner: The manifesto of that attacker was shared! “Friendly federal assassin”",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/beyaz-saray-yemeginde-silahli-saldirida-bulunmustu-o-saldirganin-manifestosu-paylasildi-dost-canlisi-federal-suikastci-7571570",
+      "published_date": "2026-04-26T18:55:04Z",
+      "category": "Military"
+    },
+    {
+      "title": "Remarkable statement from Trump about Iran: \"We would have been blown up, Israel would have been destroyed in minutes\"",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/trumptan-dikkat-ceken-iran-cikisi-biz-havaya-ucardik-israil-dakikalar-icinde-yok-edilirdi-7571521",
+      "published_date": "2026-04-26T16:49:34Z",
+      "category": "Military"
     },
     {
       "title": "Attack on the UN mission in Haiti: Belgian military plane was hit with bullets",
@@ -150,7 +171,7 @@
       "category": "Military"
     },
     {
-      "title": "BREAKING NEWS| Hopes for peace in the US/Israel-Iran war have diminished: Response from Tehran to Washington's threats: Any attack will be met with a response",
+      "title": "BREAKING NEWS| Hopes for peace in the US/Israel-Iran war have diminished: Trump's nuclear stance on Iran! \"We will not allow it\"",
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/yasam/canli-son-dakika-abdisrail-iran-savasinda-baris-umutlari-azaldi-tahrandan-muzakere-aciklamasi-kusatma-altinda-gorusmelere-katilmayacagiz-7571303",
       "published_date": "2026-04-26T08:30:22Z",
@@ -262,25 +283,11 @@
       "category": "Military"
     },
     {
-      "title": "He had turned the military entertainment in Esenler into blood! It was revealed that the 17-year-old attacker threatened the grieving mother: \"He was going to shoot my other children too.\"",
+      "title": "EMRA granted 12 thousand licenses in 2025",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/yasam/esenlerdeki-asker-eglencesini-kana-bulamisti-17-yasindaki-saldirganin-acili-anneyi-tehdit-ettigi-ortaya-cikti-diger-cocuklarimi-da-vuracakmis-7570719",
-      "published_date": "2026-04-25T09:22:15Z",
-      "category": "Military"
-    },
-    {
-      "title": "16 people, including one Mossad spy, were detained in Iran",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/iranda-biri-mossad-casusu-olmak-uzere-16-kisi-gozaltina-alindi-7570717",
-      "published_date": "2026-04-25T09:13:54Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran: We did not use a significant part of our missile power",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/iran-savunma-bakanligi-sozcusu-fuze-gucunun-onemli-bir-kismi-kullanilmadi-3880110",
-      "published_date": "2026-04-25T08:56:26Z",
-      "category": "Military"
+      "url": "https://www.sabah.com.tr/ekonomi/epdk-2025te-12-bin-lisans-verdi-7571403",
+      "published_date": "2026-04-26T11:46:39Z",
+      "category": "Energy"
     },
     {
       "title": "A bubble burned down the state: A single spark destroyed dozens of houses",
@@ -416,11 +423,11 @@
       "category": "Energy"
     },
     {
-      "title": "About climate change",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/iklim-degisikligi-hakkinda-3879623",
-      "published_date": "2026-04-23T10:38:14Z",
-      "category": "Energy"
+      "title": "Incentive move to the Southeast: Investment will be supported",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/ekonomi/guneydoguya-tesvik-hamlesi-yatirim-desteklenecek-7571450",
+      "published_date": "2026-04-26T13:34:19Z",
+      "category": "Economy"
     },
     {
       "title": "Export from Türkiye to 72 countries in 3 months! Passenger car sales data has been announced",
@@ -444,6 +451,13 @@
       "category": "Economy"
     },
     {
+      "title": "My First Home Mortgage Loan application requirements",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/ilk-evim-konut-kredisi-ne-kadar-sartlari-neler-2026-dusuk-faizli-ilk-evim-konut-kredisi-basvurulari-ne-zaman-ve-kimler-basvurabilir-3879784",
+      "published_date": "2026-04-26T06:17:40Z",
+      "category": "Economy"
+    },
+    {
       "title": "CMB extended the short selling ban",
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/ekonomi/spk-aciga-satis-yasagini-uzatti-7571237",
@@ -455,13 +469,6 @@
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/ekonomi/ekonomiye-formula-1-dopingi-7571059",
       "published_date": "2026-04-26T03:58:09Z",
-      "category": "Economy"
-    },
-    {
-      "title": "My First Home Mortgage Loan application requirements",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/ilk-evim-konut-kredisi-ne-kadar-sartlari-neler-2026-dusuk-faizli-ilk-evim-konut-kredisi-basvurulari-ne-zaman-ve-kimler-basvurabilir-3879784",
-      "published_date": "2026-04-25T21:03:48Z",
       "category": "Economy"
     },
     {
@@ -556,11 +563,60 @@
       "category": "Economy"
     },
     {
-      "title": "The stock market finished the day with an increase",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/borsa-gunu-yukselisle-tamamladi-3879986-ekonomi",
-      "published_date": "2026-04-24T15:45:34Z",
-      "category": "Economy"
+      "title": "Apology shared from Ederson in Fenerbahçe! 'I believe we were treated unfairly'",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/spor/futbol/2026/04/26/fenerbahcede-edersondan-ozur-paylasimi-haksizliga-ugradigimiza-inaniyorum",
+      "published_date": "2026-04-26T22:31:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Forest fire in Beykoz: Flames rose again due to the wind",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/yasam/beykozdaki-orman-yangini-alevler-ruzgarin-etkisiyle-yeniden-yukseldi-7571599",
+      "published_date": "2026-04-26T19:55:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Breaking news: Galatasaray is the critical derby in the Super League! The yellow-reds beat Fenerbahçe with 3 goals…",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/spor/futbol/2026/04/26/galatasaray-fenerbahce-canli-super-ligde-kritik-derbi-iste-galatasaray-fenerbahce-macinin-11leri",
+      "published_date": "2026-04-26T15:57:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Interesting event in Istanbul: People in the coffeehouse took to the streets!",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/yasam/istanbulda-ilginc-olay-kahvehanedekiler-sokaga-dokuldu-7571484",
+      "published_date": "2026-04-26T15:10:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Day of reckoning in Syria after 13 years: The person who shed blood in Daraa is on trial",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/suriyede-13-yil-sonra-hesap-gunu-derayi-kana-bulayan-isim-yargilaniyor-7571469",
+      "published_date": "2026-04-26T14:34:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "From AK Party member Sarıbaş to CHP leader Özel: Our president's heel sounds frightened you...",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/04/26/ak-partili-saribastan-chp-lideri-ozele-baskanimizin-topuk-sesleri-sizleri-urkutmus",
+      "published_date": "2026-04-26T13:27:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cevdet Yılmaz: We will develop scientific and technological advances together with human values",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/ekonomi/cevdet-yilmaz-bilimsel-ve-teknolojik-ilerlemeleri-insani-degerlerle-birlikte-gelistirecegiz-7571416",
+      "published_date": "2026-04-26T12:17:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "BREAKING NEWS| Minister Göktaş spoke to A Haber: How will the social media ban for people under the age of 15 be implemented? How many days has maternity leave been increased?",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/04/26/son-dakika-bakan-goktas-a-habere-konusuyor-15-yas-alti-sosyal-medya-yasagi-nasil-uygulanacak",
+      "published_date": "2026-04-26T11:38:57Z",
+      "category": "Local Events"
     },
     {
       "title": "Sword residue fight in CHP! Özgür Özel's 'delayed' condemnation further escalated the crisis",
@@ -644,62 +700,6 @@
       "source": "Haberturk",
       "url": "https://www.haberturk.com/yolcu-kapasitesi-400-milyona-yaklasti-3880251-ekonomi",
       "published_date": "2026-04-26T06:49:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "BREAKING NEWS WEATHER WARNING! Meteorology gave a time: Don't be fooled by the sun! Night storm in Istanbul, flood warning in 3 provinces",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/yasam/son-dakika-hava-durumu-uyarisi-meteoroloji-saat-verdi-gunese-aldanmayin-istanbula-gece-firtinasi-3-ile-sel-uyarisi-7571243",
-      "published_date": "2026-04-26T06:10:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Horror in Bolu: She killed her 2-month-old baby",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/boluda-bir-anne-2-aylik-bebegini-oldurdu-3880228",
-      "published_date": "2026-04-26T04:46:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Parental bullying has entered the classroom",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/yazarlar/pazar/pinar-yildizyuksel/2026/04/26/veli-zorbaligi-sinifa-kadar-girdi",
-      "published_date": "2026-04-26T03:58:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mutlucan, who touched President Erdoğan, spoke to SABAH: \"I love him very much because he rebuilt the country.\"",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/04/26/onu-cok-seviyorum-cunku-ulkeyi-bastan-insa-etti",
-      "published_date": "2026-04-26T03:58:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The only solution is urban transformation",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/04/26/tek-cozum-kentsel-donusum",
-      "published_date": "2026-04-26T03:58:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The ring turned into a battlefield in Trabzon",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/trabzon-da-olayli-boks-maci-3880237",
-      "published_date": "2026-04-26T01:10:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "BREAKING NEWS I Gunshots at US President Trump's dinner: Trump and his cabinet members were removed from the hall! The attacker was caught...",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/son-dakika-i-abd-baskani-trumpin-yemeginde-silah-sesleri-trump-ve-kabine-uyeleri-salondan-cikarildi-7571216",
-      "published_date": "2026-04-26T01:06:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arrangement of Yıldız-Mahmutbey metro line services",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/yildiz-mahmutbey-metro-hatti-seferlerine-duzenleme-3880236",
-      "published_date": "2026-04-26T00:10:59Z",
       "category": "Local Events"
     }
   ]
