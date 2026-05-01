@@ -1,7 +1,77 @@
 {
   "country": "turkey",
-  "last_updated": "2026-05-01T12:08:39Z",
+  "last_updated": "2026-05-01T23:49:48Z",
   "stories": [
+    {
+      "title": "UN Deputy Secretary General will visit Turkey!",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/bm-genel-sekreter-yardimcisi-turkiyeyi-ziyaret-edecek-7574919",
+      "published_date": "2026-05-01T18:45:36Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Donald Trump's move to impose customs duties on the EU: \"It will be increased to 25 percent\"",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/abd-baskani-donald-trumptan-gumruk-vergisi-karari-yuzde-25e-cikarilacak-7574876",
+      "published_date": "2026-05-01T15:57:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Minister Fidan met with the Chairman of Hashd al-Shaabi Commission!",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/05/01/bakan-fidan-hasdi-sabi-komisyonu-baskani-ile-bir-araya-geldi",
+      "published_date": "2026-05-01T15:40:52Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hayrat Aid started its sacrifice activities in more than 30 countries",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/ekonomi/hayrat-yardim-30dan-fazla-ulkede-kurban-calismalarina-basladi-7574842",
+      "published_date": "2026-05-01T14:28:26Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Latin Patriarchate of Jerusalem: \"Vile and extremely dangerous\"",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/kudus-latin-patrikhanesi-asagilik-ve-son-derece-tehlikeli-7574837",
+      "published_date": "2026-05-01T14:17:40Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Inhumane treatment from Zionist Israel! Turkish citizen was beaten, they even coveted his money",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/siyonist-israilden-insanlik-disi-muamele-turk-vatandasi-darp-edildi-parasina-bile-goz-diktiler-7574820",
+      "published_date": "2026-05-01T14:00:45Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Ministry of Family and Social Services will object to the sentence given to former Görele Mayor Dede.",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/05/01/aile-ve-sosyal-hizmetler-bakanligi-eski-gorele-belediye-baskani-dedeye-verilen-cezaya-itiraz-edecek",
+      "published_date": "2026-05-01T13:58:38Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "New initiative from Iran: A new draft proposal was presented to the USA through Pakistan",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/irandan-yeni-girisim-pakistan-araciligiyla-abdye-yeni-bir-taslak-teklif-sunuldu-7574778",
+      "published_date": "2026-05-01T12:59:51Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU begins provisionally implementing trade agreement with MERCOSUR",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/ab-mercosur-ile-ticaret-anlasmasini-gecici-olarak-uygulamaya-basladi-3881609-ekonomi",
+      "published_date": "2026-05-01T12:41:15Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Bilal Erdoğan, Deputy Chairman of the Board of Trustees of Ibn Haldun University, visited Malaysia",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/05/01/ibn-haldun-universitesi-mutevelli-heyeti-baskan-vekili-bilal-erdogan-malezyayi-ziyaret-etti",
+      "published_date": "2026-05-01T12:11:11Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Minister Fidan met with Arakchi",
       "source": "Sabah",
@@ -45,73 +115,10 @@
       "category": "Diplomacy"
     },
     {
-      "title": "He killed 2 women with whom he had an argument... There is news about the murderer!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-tartistigi-2-kadini-oldurmustu-katilden-haber-var-mugla-haberleri-3881493",
-      "published_date": "2026-05-01T06:43:42Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Sexual harassment of girls... Perverted grocer with a criminal record!",
       "source": "Haberturk",
       "url": "https://www.haberturk.com/son-dakika-kiz-cocuklarina-cinsel-taciz-bakkal-degil-sapik-denizli-haberleri-3881503",
       "published_date": "2026-05-01T06:36:04Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Are barbers open on May 1?",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/1-mayis-berberler-acik-mi-1-mayis-cuma-gunu-berberler-ve-kuaforler-hizmet-verecek-mi-3880846",
-      "published_date": "2026-05-01T06:24:04Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Are private schools closed on May 1?",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/1-mayista-ozel-okullar-tatil-mi-1-mayis-gunu-ozel-okullarda-ders-var-mi-yok-mu-1-mayis-resmi-tatil-mi-hangi-gune-denk-geliyor-3880558",
-      "published_date": "2026-05-01T06:24:03Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Are libraries open on May 1?",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/1-mayis-kutuphaneler-acik-mi-1-mayis-cuma-gunu-belediye-kutuphaneleri-kapali-mi-3880850",
-      "published_date": "2026-05-01T06:24:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The most beautiful, illustrated May 1 messages",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/resimli-1-mayis-mesajlari-2026-en-guzel-resimli-anlamli-kurumsal-farkli-kisa-uzun-1-mayis-emek-ve-dayanisma-gunu-kutlama-mesajlari-ve-gorselleri-3881202",
-      "published_date": "2026-05-01T06:23:56Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "1 May Marmaray hours",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/1-mayis-marmaray-saatleri-nasil-1-mayis-cuma-marmaray-seferler-degisecek-mi-kaca-kadar-calisiyor-3881113",
-      "published_date": "2026-05-01T06:22:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Are banks open on May 1?",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/1-mayis-bankalar-acik-mi-kapali-mi-1-mayis-2026-cuma-gunu-bankalar-calisiyor-mu-eft-ve-havale-yapilir-mi-3880942",
-      "published_date": "2026-05-01T06:21:43Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Are notaries open on May 1?",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/1-mayis-noterler-acik-mi-kapali-mi-olacak-1-mayis-2026-cuma-noterler-calisiyor-mu-nobetci-noter-var-mi-3881197",
-      "published_date": "2026-05-01T06:21:27Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Is PTT open on May 1?",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/1-mayis-ptt-acik-mi-kapali-mi-1-mayis-2026-cuma-gunu-ptt-subeleri-calisiyor-mu-kargo-dagitimi-var-mi-3881200",
-      "published_date": "2026-05-01T06:20:59Z",
       "category": "Diplomacy"
     },
     {
@@ -122,25 +129,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Will notary publics be on duty on May 1?",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/1-mayis-nobetci-noter-sorgulama-nasil-yapilir-1-mayis-cuma-nobetci-noterler-calisiyor-mu-3881119",
-      "published_date": "2026-05-01T06:18:27Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Are schools closed on May 1?",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/1-mayis-ta-okul-var-mi-yok-mu-1-mayis-cuma-gunu-okullar-tatil-mi-ders-var-mi-1-mayis-resmi-tatil-mi-3880875",
-      "published_date": "2026-05-01T06:15:07Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Operation against the criminal organization! The confiscated assets of \"Hell Necati\" have been revealed!",
       "source": "Haberturk",
       "url": "https://www.haberturk.com/son-dakika-cehennem-necati-nin-el-konulan-mal-varligi-belli-oldu-3881496",
       "published_date": "2026-05-01T05:54:03Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Istanbul May 1 measures! Taksim, Şişli and Kadıköy...",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/son-dakika-haberi-istanbul-1-mayis-onlemleri-taksim-sisli-ve-kadikoy-guncel-haber-3881491",
+      "published_date": "2026-05-01T05:31:41Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israelis also target Christians",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/israillilerin-hedefinde-hiristiyanlar-da-var-7574833",
+      "published_date": "2026-05-01T14:14:02Z",
+      "category": "Military"
+    },
+    {
+      "title": "Temperatures will crash at the weekend: Cold and rainy weather warning across the country!",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/yasam/hafta-sonu-sicakliklar-cakilacak-yurt-genelinde-soguk-ve-yagisli-hava-uyarisi-7574779",
+      "published_date": "2026-05-01T13:00:54Z",
+      "category": "Military"
     },
     {
       "title": "The \"nervous system\" of military platforms will be strengthened with domestic solutions",
@@ -189,6 +203,27 @@
       "source": "Haberturk",
       "url": "https://www.haberturk.com/yarin-satista-bim-1-mayis-2026-aktuel-katalogunda-neler-var-bu-cuma-bim-marketlere-espresso-makinesi-televizyon-ve-sarjli-supurge-geliyor-3881397",
       "published_date": "2026-04-30T16:12:04Z",
+      "category": "Military"
+    },
+    {
+      "title": "Who is Ali Fidan?",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/ali-fidan-kimdir-yeni-emniyet-genel-muduru-ali-fidan-kac-yasinda-nereli-ali-fidan-hayati-ve-kariyeri-3881271",
+      "published_date": "2026-04-30T14:51:10Z",
+      "category": "Military"
+    },
+    {
+      "title": "Who came first in My Bride in the Kitchen?",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/gelinim-mutfakta-bugun-birinci-kim-oldu-yarim-altini-kim-kazandi-30-nisan-2026-persembe-gelinim-mutfakta-puan-tablosu-3881388",
+      "published_date": "2026-04-30T14:50:35Z",
+      "category": "Military"
+    },
+    {
+      "title": "When is the Shakhtar Donetsk - Crystal Palace match?",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/shakhtar-donetsk-crystal-palace-maci-ne-zaman-saat-kacta-hangi-kanalda-3881289",
+      "published_date": "2026-04-30T14:43:07Z",
       "category": "Military"
     },
     {
@@ -248,39 +283,11 @@
       "category": "Military"
     },
     {
-      "title": "Russian Ministry of Defense: We shot down 189 Ukrainian UAVs over our regions",
+      "title": "Capacity payment of 1.11 billion lira for 16 power plants",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/rusya-savunma-bakanligi-ukraynaya-ait-189-ihayi-bolgelerimiz-uzerinde-vurduk-7573969",
-      "published_date": "2026-04-30T07:21:57Z",
-      "category": "Military"
-    },
-    {
-      "title": "Horror in Muğla! Armed attack in front of hotel: 2 women lost their lives",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/yasam/muglada-dehset-otel-onunde-silahli-saldiri-2-kadin-hayatini-kaybetti-7573966",
-      "published_date": "2026-04-30T07:17:12Z",
-      "category": "Military"
-    },
-    {
-      "title": "Meteorology gave a watch and warned! There is rain in 6 regions!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-haberi-istanbul-hava-durumu-meteoroloji-saat-verip-uyardi-6-bolgede-yagis-var-3881220",
-      "published_date": "2026-04-30T06:51:05Z",
-      "category": "Military"
-    },
-    {
-      "title": "UAV operation: 471 kilos of drugs",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/van-ve-edirnede-iha-li-operasyon-471-kilo-uyusturucu-ele-gecirildi-3881238",
-      "published_date": "2026-04-30T06:23:23Z",
-      "category": "Military"
-    },
-    {
-      "title": "BREAKING NEWS... Latest situation in the USA/Israel-Iran War! 'Hormuz' message from Iranian leader Khamenei! 'Without the presence of the USA...'",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/yasam/canli-son-dakika-abdisrail-iran-savasinda-son-durum-tahrandan-trumpa-3-gun-resti-6-milyar-dolarlik-zarar-iddiasi-7573894",
-      "published_date": "2026-04-30T05:29:57Z",
-      "category": "Military"
+      "url": "https://www.sabah.com.tr/ekonomi/16-santrale-111-milyar-liralik-kapasite-odeme-7574787",
+      "published_date": "2026-05-01T13:07:27Z",
+      "category": "Energy"
     },
     {
       "title": "99 percent of the electricity capacity commissioned in 2025 will be from renewable sources",
@@ -416,11 +423,39 @@
       "category": "Energy"
     },
     {
-      "title": "Mobility after the two-month blockade in Hormuz: LNG shipment was made",
+      "title": "New York stock market opened with a rise",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/new-york-borsasi-yukselisle-acildi-3881664-ekonomi",
+      "published_date": "2026-05-01T16:58:08Z",
+      "category": "Economy"
+    },
+    {
+      "title": "It dominates most of the world boron market! Minister Bayraktar announced the huge investment",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/ekonomi/hurmuzde-iki-aylik-abluka-sonrasi-hareketlilik-lng-sevkiyati-yapildi-7572688",
-      "published_date": "2026-04-28T10:22:14Z",
-      "category": "Energy"
+      "url": "https://www.sabah.com.tr/ekonomi/dunyadaki-bor-pazarinin-cogunluguna-hakim-bakan-bayraktar-dev-yatirimi-duyurdu-7574824",
+      "published_date": "2026-05-01T14:04:39Z",
+      "category": "Economy"
+    },
+    {
+      "title": "The second stop after Istanbul was Tashkent",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/istanbul-dan-sonra-ikinci-durak-taskent-oldu-3881624-ekonomi",
+      "published_date": "2026-05-01T13:44:20Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Economy management celebrated May 1 Labor and Solidarity Day",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/ekonomi/ekonomi-yonetimi-1-mayis-emek-ve-dayanisma-gununu-kutladi-7574781",
+      "published_date": "2026-05-01T13:02:50Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Giant project from Türkiye that will shake the balance in Saudi Arabia and the Middle East",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/ekonomi/turkiyeden-suudi-arabistan-ile-orta-doguda-dengeyi-sarsacak-dev-proje-7574762",
+      "published_date": "2026-05-01T12:29:06Z",
+      "category": "Economy"
     },
     {
       "title": "Minister Şimşek's emphasis on service exports",
@@ -493,24 +528,17 @@
       "category": "Economy"
     },
     {
-      "title": "Are markets open on May 1?",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/1-mayis-bugun-marketler-acik-mi-1-mayis-2026-cuma-gunu-a101-migros-sok-ve-bim-kacta-aciliyor-kaca-kadar-hizmet-veriyor-3880808",
-      "published_date": "2026-05-01T06:23:49Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Is the stock market open on May 1?",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/1-mayista-borsa-acik-mi-kapali-mi-1-mayis-2026-cuma-gunu-borsa-istanbul-da-islem-yapilacak-mi-3880943",
-      "published_date": "2026-05-01T06:21:34Z",
-      "category": "Economy"
-    },
-    {
       "title": "Live gold prices!",
       "source": "Haberturk",
       "url": "https://www.haberturk.com/canli-altin-fiyatlari-1-mayis-2026-bugun-tam-yarim-ceyrek-altin-ve-gram-altin-ne-kadar-kapalicarsi-altin-alis-satis-fiyati-3881488",
       "published_date": "2026-05-01T04:56:42Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Are markets open on May 1?",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/1-mayis-bugun-marketler-acik-mi-1-mayis-2026-cuma-gunu-a101-migros-sok-ve-bim-kacta-aciliyor-kaca-kadar-hizmet-veriyor-3880808",
+      "published_date": "2026-05-01T04:27:01Z",
       "category": "Economy"
     },
     {
@@ -521,6 +549,13 @@
       "category": "Economy"
     },
     {
+      "title": "1 May Marmaray hours",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/1-mayis-marmaray-saatleri-nasil-1-mayis-cuma-marmaray-seferler-degisecek-mi-kaca-kadar-calisiyor-3881113",
+      "published_date": "2026-04-30T22:01:34Z",
+      "category": "Economy"
+    },
+    {
       "title": "What will be the minimum pension?",
       "source": "Haberturk",
       "url": "https://www.haberturk.com/emekli-maas-zammi-son-dakika-2026-temmuz-en-dusuk-emekli-maasi-ne-kadar-olacak-6-aylik-enflasyon-farki-ile-emekliye-yuzde-kac-zam-gelecek-3881160",
@@ -528,39 +563,109 @@
       "category": "Economy"
     },
     {
-      "title": "How much will the civil servant salary be?",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/memur-maasi-hesaplama-temmuz-2026-memur-maasi-ne-kadar-olacak-6-aylik-enflasyon-farki-ve-toplu-sozlesme-zammi-ile-memura-yuzde-kac-zam-gelecek-3881449",
-      "published_date": "2026-04-30T21:42:13Z",
-      "category": "Economy"
-    },
-    {
-      "title": "My First Home Mortgage Loan application dates",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-durum-ilk-evim-konut-kredisi-basvuru-tarihleri-ne-zaman-2026-dusuk-120-faizli-ilk-evim-konut-kredisi-sartlari-neler-kimler-alabilir-3881306",
-      "published_date": "2026-04-30T21:28:49Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Fed effect under gold!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/canli-altin-fiyatlari-1-mayis-2026-cuma-bugun-tam-yarim-ceyrek-altin-ve-gram-altin-fiyati-ne-kadar-3881228",
-      "published_date": "2026-04-30T21:18:50Z",
-      "category": "Economy"
-    },
-    {
-      "title": "When will inflation rates be announced?",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/enflasyon-oranlari-ne-zaman-aciklanacak-iste-emekli-ve-memur-zamminda-4-aylik-enflasyon-farki-3881426",
-      "published_date": "2026-04-30T18:17:20Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Cevdet Yılmaz: \"We are taking our steps with determination\"",
+      "title": "The Decade of Family and Population was declared: The Circular was published in the Official Gazette!",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/04/30/cevdet-yilmaz-adimlarimizi-kararlilikla-atiyoruz",
-      "published_date": "2026-04-30T16:46:13Z",
-      "category": "Economy"
+      "url": "https://www.sabah.com.tr/yasam/aile-ve-on-yili-ilan-edildi-genelge-resmi-gazetede-yayimlandi-7575047",
+      "published_date": "2026-05-01T21:35:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Artificial intelligence measure from Spotify",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/spotify-dan-yapay-zeka-onlemi-3881679-teknoloji",
+      "published_date": "2026-05-01T18:27:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "His friendship with the fisherman was the subject of the movie: Yaren Stork became a father!",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/yasam/balikci-ile-olan-dostlugu-filme-konu-olmustu-yaren-leylek-baba-oldu-7574901",
+      "published_date": "2026-05-01T17:47:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "President Erdoğan celebrated the 62nd anniversary of TRT",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/05/01/cumhurbaskani-erdogan-trtnin-62-kurulus-yil-donumunu-kutladi",
+      "published_date": "2026-05-01T16:41:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eyüp Can died by falling from a height: Remarkable statement from the witness! “You misbehaved, you will pay the price”",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/yasam/eyup-can-yuksekten-duserek-can-vermisti-taniktan-dikkat-ceken-ifade-terbiyesizlik-yaptin-bedelini-odeyeceksin-dedi-7574858",
+      "published_date": "2026-05-01T15:10:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Small plane crashed in the USA: 5 people died!",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/abdde-kucuk-ucak-dustu-5-kisi-oldu-7574852",
+      "published_date": "2026-05-01T14:50:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Breaking news: Beşiktaş did not make a mistake in Gaziantep FK's away match! Boosted morale before the Turkish Cup",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/spor/futbol/2026/05/01/son-dakika-haberi-besiktas-gaziantep-fk-deplasmaninda-hata-yapmadi-turkiye-kupasi-oncesi-moral-topladi",
+      "published_date": "2026-05-01T14:43:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Minister Mahinur Göktaş is in Belgium: We will continue to stand by European Turks",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/05/01/bakan-mahinur-goktas-belcikada-avrupali-turklerin-yaninda-olmaya-devam-edecegiz",
+      "published_date": "2026-05-01T14:09:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Statement from KADEM regarding the lawsuit process of harasser Hasbi Dede",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/05/01/kademden-tacizci-hasbi-dedenin-dava-surecine-iliskin-aciklama",
+      "published_date": "2026-05-01T13:41:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Karaman Ring Road 1st stage opened to traffic",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/karaman-cevre-yolu-1-etabi-trafige-acildi-3881623-ekonomi",
+      "published_date": "2026-05-01T13:34:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fanatical Israelis' attempt to bring \"sacrificial animals\" into Al-Aqsa Mosque was prevented",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/fanatik-israillilerin-mescid-i-aksaya-kurbanlik-hayvan-sokma-girisimi-engellendi-7574797",
+      "published_date": "2026-05-01T13:31:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "May 1 message from President Recep Tayyip Erdoğan",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/05/01/baskan-recep-tayyip-erdogandan-1-mayis-mesaji",
+      "published_date": "2026-05-01T13:07:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Occupying Israelis attacked Palestinians in the West Bank! Vehicles were set on fire",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/isgalci-israilliler-bati-seriada-filistinlilere-saldirdi-araclar-atese-verildi-7574775",
+      "published_date": "2026-05-01T12:53:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Alarm after knife attack in England! Terrorism threat level raised from 'substantial' to 'serious'",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/ingilterede-bicakli-saldiri-sonrasi-alarm-teror-tehdidi-seviyesi-onemliden-ciddiye-yukseltildi-7574765",
+      "published_date": "2026-05-01T12:37:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "77 provinces were connected to each other, average speed increased to 90 km",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/ekonomi/77-ili-birbirine-baglandi-ortalama-hiz-90-kmye-cikti-7574756",
+      "published_date": "2026-05-01T12:14:48Z",
+      "category": "Local Events"
     },
     {
       "title": "Wind overturned the boat in India: 9 people drowned",
@@ -595,111 +700,6 @@
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/dunya/alikonulan-sumud-filosundaki-turk-aktivistler-istanbula-geliyor-7574712",
       "published_date": "2026-05-01T09:58:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "'May 1 Labor and Solidarity Day' message from First Lady Erdoğan",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/05/01/emine-erdogandan-1-mayis-emek-ve-dayanisma-gunu-mesaji",
-      "published_date": "2026-05-01T09:33:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "BREAKING NEWS... MHP Ordinary Congress will be held on March 7, 2027!",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/05/01/son-dakika-mhp-olagan-kurultayi-7-mart-2027de-yapilacak",
-      "published_date": "2026-05-01T08:36:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "They left a wreath at the Taksim Monument: Unions are in Taksim on May 1!",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/05/01/taksim-anitina-celenk-biraktilar-sendikalar-1-mayista-taksimde",
-      "published_date": "2026-05-01T08:11:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "It turns out that the good news of the 4 new metro shared by ABB is just perception! Ankara's metro deadlock",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/05/01/abbnin-paylastigi-4-yeni-metro-mujdesinin-algidan-ibaret-oldugu-ortaya-cikti-ankaranin-metro-cikmazi",
-      "published_date": "2026-05-01T07:44:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "After the murder of Gülistan Doku, all eyes are on the Rojin Kabaiş case: DNAs of 415 out of 2,500 people were examined!",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/yasam/gulistan-doku-cinayeti-sonrasi-gozler-rojin-kabais-davasinda-2-bin-500-kisiden-415inin-dnasina-bakildi-7574609",
-      "published_date": "2026-05-01T07:27:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "May 1 message from Director of Communications Burhanettin Duran",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/05/01/iletisim-baskani-burhanettin-durandan-1-mayis-mesaji",
-      "published_date": "2026-05-01T07:19:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Treasury land in Ankara was sold to the fuel company",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/ekonomi/ankarada-hazine-arazisi-akaryakit-sirketine-satildi-7574596",
-      "published_date": "2026-05-01T06:54:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "\"Effort is the most sacred value\"",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/unlulerden-1-mayis-emek-ve-dayanisma-gunu-mesajlari-3881494-magazin",
-      "published_date": "2026-05-01T06:49:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "USK announced raw milk sales price",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/usk-cig-sut-satis-fiyatini-acikladi-3881511-ekonomi",
-      "published_date": "2026-05-01T06:48:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Besiktas for Europe's sake!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/gaziantep-fk-besiktas-maci-ne-zaman-saat-kacta-hangi-kanalda-canli-yayinlanacak-3881500-spor",
-      "published_date": "2026-05-01T06:45:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Declared 'sensitive area'",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/agri-dagi-milli-parki-ndaki-bazi-bolumler-hassas-alan-ilan-edildi-3881512",
-      "published_date": "2026-05-01T06:44:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "He beat her to death because \"she didn't cook\"! His punishment has been announced!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-ummuhan-korkut-yemek-yapmadi-diye-doverek-oldurmustu-katil-kocanin-cezasi-aciklandi-3881485",
-      "published_date": "2026-05-01T06:42:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "School attacks commission was established in the Turkish Grand National Assembly",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/tbmm-de-okul-saldirilari-komisyonu-olusturuldu-3881510",
-      "published_date": "2026-05-01T06:39:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chain accident: 1 dead, 4 injured",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/adana-da-zincirleme-trafik-kazasi-1-olu-4-yarali-3881509",
-      "published_date": "2026-05-01T06:38:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Have the rating results been announced?",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/30-nisan-2026-reyting-sonuclari-aciklandi-mi-abc-ab-ve-total-siralamasi-ile-dunun-reyting-birincisi-hangi-yapim-oldu-3881502",
-      "published_date": "2026-05-01T06:37:56Z",
       "category": "Local Events"
     }
   ]
