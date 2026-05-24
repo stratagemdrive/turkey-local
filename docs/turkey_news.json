@@ -1,12 +1,54 @@
 {
   "country": "turkey",
-  "last_updated": "2026-05-24T12:09:34Z",
+  "last_updated": "2026-05-24T23:56:20Z",
   "stories": [
     {
-      "title": "BREAKING NEWS| 60-day agreement between the USA and Iran is on the way: Is Tehran giving up its uranium stock?",
+      "title": "Reaction from Türkiye and 7 countries to Israeli Minister Ben-Gvir's statements",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/05/24/turkiye-ve-7-ulkeden-israilli-bakan-ben-gvirin-aciklamalarina-tepki",
+      "published_date": "2026-05-24T17:56:38Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Minister Fidan met with Rüstem Umerov!",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/05/24/bakan-fidan-rustem-umerov-ile-bir-araya-geldi",
+      "published_date": "2026-05-24T16:44:47Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump's statement on Iran: \"Relations are becoming productive\"",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/trumptan-iran-aciklamasi-iliskiler-verimli-hale-geliyor-7589865",
+      "published_date": "2026-05-24T14:43:21Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Joint condemnation from Türkiye and 17 countries: The 'embassy' step of the so-called Somaliland region is unacceptable",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/turkiye-ve-17-ulkeden-ortak-tepki-sozde-somaliland-bolgesinin-buyukelcilik-adimi-kabul-edilemez-7589842",
+      "published_date": "2026-05-24T13:28:05Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "BREAKING NEWS| Successive statements from the USA and Iran: We will receive some good news in the next few hours",
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/dunya/canli-son-dakika-abd-ile-iran-arasinda-60-gunluk-anlasma-yolda-iran-uranyum-stokundan-vazgeciyor-mu-7589724",
       "published_date": "2026-05-24T08:18:11Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "When will the Eid al-Adha holiday end?",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/kurban-bayrami-tatil-gunleri-2026-kurban-bayrami-tatili-ne-zaman-basliyor-ne-zaman-bitecek-bayram-tatili-kac-gun-olacak-kurban-bayrami-ne-zaman-3886971",
+      "published_date": "2026-05-24T07:54:17Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump said \"a deal is close\", what did Iran say?",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/abd-israil-iran-savasi-nda-anlasma-sinyali-trump-anlasma-yakin-dedi-iran-ne-dedi-3886949",
+      "published_date": "2026-05-24T07:38:16Z",
       "category": "Diplomacy"
     },
     {
@@ -49,13 +91,6 @@
       "source": "Haberturk",
       "url": "https://www.haberturk.com/israil-basini-yazdi-tel-aviv-abd-iran-anlasmasindan-endiseli-3886953",
       "published_date": "2026-05-24T06:17:31Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump said \"a deal is close\", what did Iran say?",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/abd-israil-iran-savasi-nda-anlasma-sinyali-trump-anlasma-yakin-dedi-iran-ne-dedi-3886949",
-      "published_date": "2026-05-24T06:06:24Z",
       "category": "Diplomacy"
     },
     {
@@ -108,39 +143,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Is PTT open on May 25?",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/25-mayis-postaneler-acik-mi-25-mayis-pazartesi-ptt-postaneler-yarim-gun-mu-calisiyor-3886021",
-      "published_date": "2026-05-23T21:29:03Z",
-      "category": "Diplomacy"
+      "title": "Warning from DMM regarding fake victim advertisements: Relevant authorities should be notified without delay",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/05/24/dmmden-sahte-kurban-ilanlarina-iliskin-uyari-ilgili-mercilere-gecikmeksizin-bildirimde-bulunulmali",
+      "published_date": "2026-05-24T16:39:14Z",
+      "category": "Military"
     },
     {
-      "title": "Are pharmacies open on May 25?",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/25-mayis-eczaneler-acik-mi-kapali-mi-25-mayis-pazartesi-gunu-eczane-calisiyor-mu-25-mayis-eczanelerin-calisma-saatleri-3886019",
-      "published_date": "2026-05-23T21:27:16Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Is cargo open on May 25?",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/25-mayis-kargolar-acik-mi-kapali-mi-olacak-calisiyor-mu-yurtici-aras-mng-ptt-ve-surat-kargo-calisma-saatleri-2026-3886143",
-      "published_date": "2026-05-23T21:26:31Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Are pharmacies open on May 25?",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/eczaneler-25-mayis-ta-eczaneler-acik-mi-kapali-mi-25-mayis-pazartesi-gunu-eczane-calisiyor-mu-yarim-gun-mu-3886700",
-      "published_date": "2026-05-23T16:29:54Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "July calculation for civil servant raise!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/memur-zammi-icin-yeni-hesap-ortaya-cikti-temmuz-2026da-memur-maaslari-ne-kadar-artacak-en-dusuk-memur-maasi-ne-kadar-olacak-3886006",
-      "published_date": "2026-05-23T14:51:23Z",
-      "category": "Diplomacy"
+      "title": "Netanyahu sends artificial intelligence to Iran! “He will never have nuclear weapons.”",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/netanyahudan-irana-yapay-zekali-gonderme-asla-nukleer-silaha-sahip-olmayacak-7589883",
+      "published_date": "2026-05-24T15:19:09Z",
+      "category": "Military"
     },
     {
       "title": "Chemical disaster alert in California: Emergency has been activated",
@@ -269,18 +283,11 @@
       "category": "Military"
     },
     {
-      "title": "Kevin Warsh era at the Fed",
+      "title": "International award for environmental activities",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/fed-de-kevin-warsh-donemi-basladi-3886776-ekonomi",
-      "published_date": "2026-05-23T07:36:21Z",
-      "category": "Military"
-    },
-    {
-      "title": "This is how he drove the grizzly bears away from the herd",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/dronla-bozayilari-suruden-uzaklastirdi-3886763",
-      "published_date": "2026-05-23T07:24:48Z",
-      "category": "Military"
+      "url": "https://www.haberturk.com/telekomun-cevresel-faaliyetlerine-uluslararasi-liderlik-odulu-3887017-teknoloji",
+      "published_date": "2026-05-24T13:05:41Z",
+      "category": "Energy"
     },
     {
       "title": "97 km natural gas pipeline from Alanya to TRNC",
@@ -416,11 +423,11 @@
       "category": "Energy"
     },
     {
-      "title": "Has there been an increase in fuel prices?",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/motorin-zammi-son-dakika-motorine-zam-mi-geldi-21-mayis-motorin-benzin-fiyati-ne-kadar-3885985",
-      "published_date": "2026-05-20T22:55:15Z",
-      "category": "Energy"
+      "title": "Reliable food shield from the Ministry! The use of some expressions is prohibited",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/ekonomi/bakanliktan-guvenilir-gida-kalkani-bazi-ifadelerin-kullanimi-yasaklandi-7589822",
+      "published_date": "2026-05-24T12:40:52Z",
+      "category": "Economy"
     },
     {
       "title": "Most shirts sold online",
@@ -556,17 +563,122 @@
       "category": "Economy"
     },
     {
-      "title": "Weekend gold prices",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/hafta-sonu-altin-fiyatlari-23-mayis-2026-bugun-14-22-ayar-bilezik-tam-yarim-ceyrek-altin-ve-gram-altin-ne-kadar-3886756",
-      "published_date": "2026-05-23T06:30:21Z",
-      "category": "Economy"
+      "title": "Some appointment and dismissal decisions signed by President Erdoğan are published in the Official Gazette.",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/05/24/baskan-erdoganin-imzasiyla-bazi-atama-ve-gorevden-alma-kararlari-resmi-gazetede",
+      "published_date": "2026-05-24T21:36:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Published in the Official Gazette! Bilgi University reopened for education",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/05/24/resmi-gazetede-yayimlandi-bilgi-universitesi-yeniden-acildi",
+      "published_date": "2026-05-24T21:03:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "AK Party Deputy Chairman Hüseyin Yayman: Such provocative discourses are never acceptable",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/05/24/ak-parti-genel-baskan-yardimcisi-huseyin-yayman-bu-tur-provokatif-soylemler-asla-kabul-edilemez",
+      "published_date": "2026-05-24T19:46:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "AK Party Deputy Chairman Ahmet Büyükgümüş: We are not a party to CHP's own internal issue",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/05/24/ak-parti-genel-baskan-yardimcisi-ahmet-buyukgumus-biz-chpnin-kendi-ic-meselesinin-tarafi-degiliz",
+      "published_date": "2026-05-24T19:14:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "BREAKING NEWS I The Chief Public Prosecutor's Office announced: Investigation into the events that started in front of the CHP Headquarters!",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/05/24/son-dakika-i-bassavcilik-duyurdu-chp-genel-merkezi-onunde-baslayan-olaylara-sorusturma",
+      "published_date": "2026-05-24T17:11:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "When will Kılıçdaroğlu come to the headquarters? CHP's Müslim Sarı announced: He will convene the Party Assembly",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/05/24/chpli-vekillerden-kilicdarogluna-ziyaret",
+      "published_date": "2026-05-24T16:14:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "1.5 million people said \"The World is Here\" in Etnospor",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/yasam/etnosporda-15-milyon-kisi-dunya-burada-dedi-7589894",
+      "published_date": "2026-05-24T16:00:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "CHP member Mahir Polat: Those who call Kemal Bey a traitor will be dismissed from the party",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/05/24/chpli-mahir-polat-kemal-beye-hain-diyenlerin-partiyle-ilisigi-kesilir",
+      "published_date": "2026-05-24T15:24:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kılıçdaroğlu supporters took down Özgür Özel's poster hanging in the party building",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/05/24/kilicdaroglu-destekcileri-ozgur-ozelin-parti-binasindaki-asili-afisini-indirdi",
+      "published_date": "2026-05-24T15:05:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Flood disaster in China: 17 people missing",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/cinde-sel-faciasi-olu-ve-kayiplar-var-7589860",
+      "published_date": "2026-05-24T14:28:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Çorum FK was promoted to the Super League! Esenler Erokspor lost in the final",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/spor/futbol/2026/05/24/son-dakika-corum-fk-super-lige-yukseldi-esenler-erokspor-finalde-kaybetti",
+      "published_date": "2026-05-24T13:59:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Small plane crashed in Israel: 2 dead",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/israilde-kucuk-ucak-yere-cakildi-2-olu-7589850",
+      "published_date": "2026-05-24T13:56:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Shark horror in Australia: Fishing ends in disaster",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/avustralyada-kopek-baligi-dehseti-balik-avi-faciayla-bitti-7589835",
+      "published_date": "2026-05-24T13:09:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "A building under construction collapsed in the Philippines: Dozens of people are trapped under the rubble",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/filipinlerde-insaat-halindeki-bina-yerle-bir-oldu-onlarca-kisi-enkaz-altinda-7589832",
+      "published_date": "2026-05-24T13:00:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "33 ships passed through the Strait of Hormuz in the last 24 hours",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/ekonomi/hurmuz-bogazindan-son-24-saatte-33-gemi-gecti-7589830",
+      "published_date": "2026-05-24T12:59:30Z",
+      "category": "Local Events"
     },
     {
       "title": "Akçakoca Mayor Fikret Albayrak was suspended from his duty",
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/gundem/2026/05/24/akcakoca-belediye-baskani-fikret-albayrak-gorevinden-uzaklastirildi",
       "published_date": "2026-05-24T11:43:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "\"We demand the surrender of the headquarters\"",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/son-dakika-genel-merkezin-teslimini-talep-ederiz-3886962",
+      "published_date": "2026-05-24T11:29:38Z",
       "category": "Local Events"
     },
     {
@@ -584,122 +696,10 @@
       "category": "Local Events"
     },
     {
-      "title": "Suspicious death in Izmit: He was stabbed to death in the house he went to as a guest!",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/yasam/izmitte-supheli-olum-misafirlige-gittigi-evde-bicaklanarak-hayatini-kaybetti-7589762",
-      "published_date": "2026-05-24T10:19:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "DeepSeek's new price policy",
+      "title": "Akçakoca BB was suspended from duty",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/deepseek-amiral-gemisi-v4-pro-ai-modelinde-kalici-yuzde-75-fiyat-indirimi-karari-aldi-3886990-teknoloji",
-      "published_date": "2026-05-24T09:27:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A whirlwind show from Mahmut Tanal at CHP Headquarters! The size of the fight in CHP is growing",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/05/24/mahmut-tanaldan-chp-genel-merkezinde-hortumlu-sov-chpdeki-kavganin-boyutu-buyuyor",
-      "published_date": "2026-05-24T09:16:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Countdown for YHT to Bursa",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/bursa-ya-yht-icin-geri-sayim-3886978-ekonomi",
-      "published_date": "2026-05-24T08:55:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Super El Nino' ​​statement for Türkiye",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/super-el-ninonun-turkiyede-sira-disi-hava-olaylarini-artirmasi-bekleniyor-3886976",
-      "published_date": "2026-05-24T08:37:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The local internet era begins in the sky with TÜRKSAT",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/ekonomi/turksat-ile-gokyuzunde-yerli-internet-donemi-basliyor-7589731",
-      "published_date": "2026-05-24T08:35:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bursa also gets YHT",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/ekonomi/bursa-da-yhtye-kavusuyor-7589729",
-      "published_date": "2026-05-24T08:31:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "\"We demand the surrender of the headquarters\"",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-genel-merkezin-teslimini-talep-ederiz-3886962",
-      "published_date": "2026-05-24T08:24:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suspicious death of young woman",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-istanbul-da-arkadaslarinin-haber-alamadigi-kadin-evinde-olu-bulundu-3886973",
-      "published_date": "2026-05-24T08:13:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Latest developments after the absolute nullity of CHP",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-haberi-chp-de-mutlak-butlan-sonrasi-son-gelismeler-guncel-haberler-3886948",
-      "published_date": "2026-05-24T07:59:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Breaking news! Call from Kılıçdaroğlu to CHP organizations: Comply with the court decision",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/05/24/kilicdaroglundan-chp-teskilatlarina-cagri-mahkeme-kararina-uyulmali",
-      "published_date": "2026-05-24T07:35:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Knicks took a 3-0 lead in the series!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/knicks-cavaliers-karsisinda-seride-3-0-one-gecti-3886963-spor",
-      "published_date": "2026-05-24T07:30:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pension payment dates",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/emekli-maasi-odeme-tarihleri-mayis-2026-emekli-maaslari-bayramdan-once-yatar-mi-emekli-maasi-ne-zaman-yatacak-maaslar-yatti-mi-3885853",
-      "published_date": "2026-05-24T07:25:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vehicle models that can be purchased without SCT for retirees",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/emekliye-otv-siz-alinabilecek-arac-markalari-fiyat-listesi-2026-emeklilere-otv-siz-arac-cikacak-mi-sartlari-ne-meclis-e-geldi-mi-3886678",
-      "published_date": "2026-05-24T07:24:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jülide Kural's silence in 'Kadir İnanır'",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/julide-kural-in-kadir-inanir-sessizligi-3886958-magazin",
-      "published_date": "2026-05-24T07:19:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "When is the Esenler Erokspor - Çorum FK match?",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/super-lig-e-yukselen-son-takim-kim-olacak-esenler-erokspor-corum-fk-maci-ne-zaman-saat-kacta-hangi-kanalda-3886964",
-      "published_date": "2026-05-24T07:18:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "What matches are there today?",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/gunun-maclari-listesi-24-mayis-pazar-bugun-hangi-maclar-var-kimin-maci-var-saat-kacta-ve-hangi-kanalda-3886961",
-      "published_date": "2026-05-24T07:02:04Z",
+      "url": "https://www.haberturk.com/son-dakika-akcakoca-belediye-baskani-gorevden-uzaklastirildi-3886998",
+      "published_date": "2026-05-24T10:51:16Z",
       "category": "Local Events"
     }
   ]
