@@ -1,7 +1,28 @@
 {
   "country": "turkey",
-  "last_updated": "2026-05-25T14:17:59Z",
+  "last_updated": "2026-05-26T00:01:14Z",
   "stories": [
+    {
+      "title": "Security meeting at the Ministry of Internal Affairs before the NATO Summit!",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/05/25/nato-zirvesi-oncesi-icisleri-bakanliginda-guvenlik-toplantisi",
+      "published_date": "2026-05-25T17:31:22Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "They attacked the Sumud Fleet: Iran-linked hacker group exposed 69 Israeli soldiers!",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/sumud-filosuna-saldirmislardi-iran-baglantili-hacker-grubu-69-israil-askerini-ifsaladi-7590515",
+      "published_date": "2026-05-25T15:16:23Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Eid celebration program in MHP has been announced",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/05/25/mhpde-bayramlasma-programi-belli-oldu",
+      "published_date": "2026-05-25T14:15:23Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Eid al-Adha program of political leaders has been announced: President Erdogan will spend the holiday in Istanbul",
       "source": "Sabah",
@@ -122,25 +143,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Virtue of the day of eve",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/arefe-gunu-nedir-ve-ne-anlama-gelir-arefe-gununun-onemi-ve-fazileti-3886429",
-      "published_date": "2026-05-25T04:22:13Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Remembrances and praises for the day of Eid-al-Adha",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/arefe-gunu-yapilacak-okunacak-ve-cekilecek-zikirler-ile-tesbihler-nelerdir-arefe-gunu-zikirleri-ve-tesbihleri-3886427",
-      "published_date": "2026-05-25T04:21:46Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "How to perform the prayer on the day of Arafa?",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/arefe-gunu-namazi-nasil-kilinir-ve-niyet-edilir-arefe-gunu-namazi-var-mi-3887004",
-      "published_date": "2026-05-25T04:17:07Z",
-      "category": "Diplomacy"
+      "title": "Harsh reaction from AK Party Ankara Provincial Chairman Özcan to Özgür Özel: Provocation is the last refuge of those who spew hatred instead of service",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/05/25/ak-parti-ankara-il-baskani-ozcandan-ozgur-ozele-sert-tepki-hizmet-yerine-nefret-kusanlarin-son-siginagi-provokasyondur",
+      "published_date": "2026-05-25T15:13:13Z",
+      "category": "Military"
     },
     {
       "title": "Critical warning before Eid al-Adha",
@@ -153,6 +160,13 @@
       "title": "Breaking news: Kılıçdaroğlu at the Headquarters on Saturday",
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/yasam/son-dakika-kilicdaroglu-persembe-gunu-genel-merkezde-7590309",
+      "published_date": "2026-05-25T07:15:46Z",
+      "category": "Military"
+    },
+    {
+      "title": "Breaking news: Kılıçdaroğlu at the Headquarters on Saturday",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/yasam/son-dakika-kilicdaroglu-cumartesi-gunu-genel-merkezde-7590309",
       "published_date": "2026-05-25T07:15:46Z",
       "category": "Military"
     },
@@ -266,20 +280,6 @@
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/gundem/2026/05/24/fethiye-belediye-baskani-karacaya-silahli-saldiri-duzenleyen-3-kisi-yakalandi",
       "published_date": "2026-05-24T08:20:42Z",
-      "category": "Military"
-    },
-    {
-      "title": "There's showers everywhere! Warnings from Meteorology!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-hava-durumu-her-yerde-saganak-var-meteoroloji-den-uyarilar-3886954",
-      "published_date": "2026-05-24T06:25:17Z",
-      "category": "Military"
-    },
-    {
-      "title": "BREAKING NEWS WEATHER! 'Yellow' coded alarm from MGM! Attention, those who will go out: A very heavy shower is coming...",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/yasam/son-dakika-hava-durumu-mgmden-sari-kodlu-alarm-disari-cikacaklar-dikkat-cok-kuvvetli-saganak-geliyor-7589663",
-      "published_date": "2026-05-24T06:00:46Z",
       "category": "Military"
     },
     {
@@ -423,6 +423,20 @@
       "category": "Energy"
     },
     {
+      "title": "New prime minister announced in Senegal",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/senegalde-yeni-basbakan-belli-oldu-7590823",
+      "published_date": "2026-05-25T23:18:01Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Market report (Monday, May 25, 2026): Latest situation in the stock market, dollar, gold and cryptocurrencies",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/piyasa-raporu-25-mayis-2026-pazartesi-borsa-dolar-altin-ve-kripto-paralarda-son-durum-fai-3887308-ekonomi",
+      "published_date": "2026-05-25T15:30:00Z",
+      "category": "Economy"
+    },
+    {
       "title": "Statement from DMM regarding posts aimed at creating perception through the economy",
       "source": "Haberturk",
       "url": "https://www.haberturk.com/dmm-den-ekonomi-uzerinden-algi-olusturmaya-yonelik-paylasimlara-iliskin-aciklama-3887276-ekonomi",
@@ -549,18 +563,74 @@
       "category": "Economy"
     },
     {
-      "title": "'Second hand' has doubled in e-commerce",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/e-ticarette-ikinci-el-katlandi-3886987-teknoloji",
-      "published_date": "2026-05-24T09:17:18Z",
-      "category": "Economy"
+      "title": "Israeli air strike on Lebanon: 7 dead",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/israilden-lubnana-hava-saldirisi-7-olu-7590825",
+      "published_date": "2026-05-25T23:24:46Z",
+      "category": "Local Events"
     },
     {
-      "title": "What did the site fee regulation bring?",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/iste-site-aidati-duzenlemesinin-tum-detaylari-3886984-ekonomi",
-      "published_date": "2026-05-24T09:12:06Z",
-      "category": "Economy"
+      "title": "AK Party's holiday program has been announced",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/05/25/ak-partinin-bayramlasma-programi-belli-oldu",
+      "published_date": "2026-05-25T21:05:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Siege X by FETO-CIA: Deliberate interference in the algorithm with digital siege revealed!",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/yasam/feto-ciaden-x-kusatmasi-dijital-kusatmayla-algoritmaya-kasitli-mudahale-ortaya-cikti-7590734",
+      "published_date": "2026-05-25T20:37:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The mystery of confessor Yalçınkaya's statements has been solved! The politician he said \"I can't explain\" turned out to be Müsavat Dervişoğlu.",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/05/25/itirafci-yalcinkayanin-ifadelerindeki-gizem-cozuldu-aciklayamam-dedigi-o-siyasetci-musavat-dervisoglu-cikti",
+      "published_date": "2026-05-25T17:05:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The prosecutor's office's objection was accepted! Veterinarian detained for the second time",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/yasam/savcilik-itirazi-kabul-edildi-veteriner-ikinci-kez-gozaltina-alindi-7590535",
+      "published_date": "2026-05-25T16:00:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "After the bad smell surrounding the hotel, the bitter truth emerged: He died 6 days ago!",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/yasam/oteli-saran-kotu-koku-sonrasi-aci-gercek-ortaya-cikti-6-gun-once-hayatini-kaybetmis-7590526",
+      "published_date": "2026-05-25T15:40:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "\"Fire of Resurrection\" will welcome its visitors on Eid al-Adha! Action choreography and live performances....",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/magazin/bozdag-film-platolarinin-yeni-gosterisi-dirilis-atesi-7590504",
+      "published_date": "2026-05-25T14:58:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "All-time record in cargo! Communication shipments reached 224.1 million by the end of 2025",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/ekonomi/kargoda-tum-zamanlarin-rekoru-2025-yili-sonunda-haberlesme-gonderileri-2241-milyona-ulasti-7590501",
+      "published_date": "2026-05-25T14:45:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Foreign object panic in a shopping mall in Japan: 19 people were hospitalized",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/japonyadaki-avmde-yabanci-madde-panigi-19-kisi-hastaneye-kaldirildi-7590494",
+      "published_date": "2026-05-25T14:25:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The toll from the train attack in Pakistan gets worse: The death toll rises to 47",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/pakistandaki-tren-saldirisinda-bilanco-agirlasiyor-olu-sayisi-47ye-yukseldi-7590489",
+      "published_date": "2026-05-25T14:08:56Z",
+      "category": "Local Events"
     },
     {
       "title": "Strict control of sacrifice sales areas",
@@ -584,7 +654,7 @@
       "category": "Local Events"
     },
     {
-      "title": "Terrible destruction in the Philippines: Death toll rises",
+      "title": "Terrible destruction in the Philippines: Death toll increases",
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/dunya/filipinlerde-korkunc-yikim-can-kaybi-yukseliyor-7590448",
       "published_date": "2026-05-25T12:11:08Z",
@@ -630,76 +700,6 @@
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/ekonomi/bakan-kurumdan-zonguldak-toki-paylasimi-kira-oder-gibi-ev-sahibi-oldular-7590388",
       "published_date": "2026-05-25T09:48:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cruise tourism is growing",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/kruvaziyer-turizmi-buyuyor-3887188-ekonomi",
-      "published_date": "2026-05-25T09:33:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Terrible accident in Pakistan: A minibus traveling at full speed crashed into a bus: 17 dead",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/pakistanda-korkunc-kaza-son-suratle-seyreden-minibus-otobuse-carpti-17-olu-7590380",
-      "published_date": "2026-05-25T09:32:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "\"National Family Week\" post from Director of Communications Duran",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/05/25/iletisim-baskani-durandan-milli-aile-haftasi-paylasimi",
-      "published_date": "2026-05-25T09:21:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "All-time record in cargo… More than 1.45 billion postal cargo delivered in 2025",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/ekonomi/kargoda-tum-zamanlarin-rekoru2025-yilinda-145-milyardan-fazla-posta-kargosu-teslim-edildi-7590329",
-      "published_date": "2026-05-25T08:04:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zeugma good news from Minister Ersoy! The lost panel of the \"Gypsy Girl\" mosaic is back in Turkey after many years",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/yasam/bakan-ersoydan-zeugma-mujdesi-cingene-kizi-mozaginin-kayip-paneli-yillar-sonra-yeniden-turkiyede-7590314",
-      "published_date": "2026-05-25T07:27:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fugitive Umut Altaş, captured in the USA, appears before the judge",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/05/25/abdde-yakalanan-firari-umut-altas-hakim-karsisina-cikiyor",
-      "published_date": "2026-05-25T07:13:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Don't quit' regulation for cheap car insurance",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/gen-haritasina-gore-sigorta-primi-3887029-ekonomi",
-      "published_date": "2026-05-25T07:10:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A new grandchild comes on top of 8 children",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/8-cocuklu-alec-baldwin-in-ikinci-torunu-oluyor-ireland-baldwin-hamile-3887130-magazin",
-      "published_date": "2026-05-25T07:04:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "She was wanted as missing... Woman's body in the pond in the nature park!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-haberi-kayip-olarak-araniyordu-tabiat-parkindaki-golette-kadin-cesedi-3887132",
-      "published_date": "2026-05-25T07:00:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "From rainforests to Erzurum",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/yagmur-ormanlarinda-yasayan-baykus-kelebegi-erzurum-da-goruntulendi-3887133",
-      "published_date": "2026-05-25T06:57:05Z",
       "category": "Local Events"
     }
   ]
