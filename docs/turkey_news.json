@@ -1,7 +1,21 @@
 {
   "country": "turkey",
-  "last_updated": "2026-05-27T14:36:52Z",
+  "last_updated": "2026-05-27T23:57:47Z",
   "stories": [
+    {
+      "title": "Eid celebration program at Turkey's Cairo Embassy",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/05/27/turkiyenin-kahire-buyukelciliginde-bayramlasma-programi",
+      "published_date": "2026-05-27T21:40:49Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "When will the 12th Judicial Package be released?",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/12-yargi-paketi-son-durum-gelismesi-12-yargi-paketi-ne-zaman-cikacak-maddeleri-neler-12-yargi-paketi-af-ve-infaz-duzenlemesi-var-mi-3887668",
+      "published_date": "2026-05-27T21:05:04Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Is a US-Iran deal on the way? Draft text revealed",
       "source": "Sabah",
@@ -14,6 +28,13 @@
       "source": "Haberturk",
       "url": "https://www.haberturk.com/ab-mobil-uydu-frekanslarinda-kendi-sirketlerini-one-cikaracak-3887694-ekonomi",
       "published_date": "2026-05-27T13:33:33Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "BREAKING NEWS| The White House denies the Iranian media's \"memorandum of understanding\" news: Completely fabricated!",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/canli-son-dakika-iran-istihbaratindan-dikkat-ceken-uyari-dusman-yumusak-savasa-yoneldi-mutabakat-zaptinin-taslak-metni-hazir-7591776",
+      "published_date": "2026-05-27T12:38:07Z",
       "category": "Diplomacy"
     },
     {
@@ -122,25 +143,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Is Gratis open on holidays?",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/bayramda-gratis-acik-mi-kacta-aciliyor-ve-kapaniyor-2026-kurban-bayraminda-gratis-calisma-saatleri-3886547",
-      "published_date": "2026-05-27T04:08:06Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Are File Market, Carrefour, Tarım Kredi and Gimsa open during the holiday?",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/bayramda-file-market-carrefour-tarim-kredi-ve-gimsa-acik-mi-kacta-aciliyor-ve-kapaniyor-2026-kurban-bayrami-calisma-saatleri-3886847",
-      "published_date": "2026-05-27T04:07:20Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Eid al-Adha message from Minister Gürlek: I hope it brings peace, peace and well-being to all humanity.",
+      "title": "The death toll in the attacks carried out by the Israeli army in Lebanon reached 3 thousand 269",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/05/26/bakan-gurlekten-kurban-bayrami-mesaji-tum-insanliga-huzur-baris-ve-esenlik-getirmesini-diliyorum",
-      "published_date": "2026-05-26T21:47:49Z",
-      "category": "Diplomacy"
+      "url": "https://www.sabah.com.tr/dunya/israil-ordusunun-lubnana-duzenledigi-saldirilarda-olu-sayisi-3-bin-269a-ulasti-7591887",
+      "published_date": "2026-05-27T17:51:36Z",
+      "category": "Military"
     },
     {
       "title": "A cooperation agreement in the field of defense and security was signed between Poland and England",
@@ -161,13 +168,6 @@
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/dunya/siyonist-israilden-lubnanin-guneyindeki-5-belde-icin-saldiri-tehdidi-7591781",
       "published_date": "2026-05-27T12:51:06Z",
-      "category": "Military"
-    },
-    {
-      "title": "BREAKING NEWS| Remarkable warning from Iranian intelligence: The enemy has turned to soft war! 'The draft text of the memorandum of understanding is ready'",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/canli-son-dakika-iran-istihbaratindan-dikkat-ceken-uyari-dusman-yumusak-savasa-yoneldi-mutabakat-zaptinin-taslak-metni-hazir-7591776",
-      "published_date": "2026-05-27T12:38:07Z",
       "category": "Military"
     },
     {
@@ -281,6 +281,13 @@
       "url": "https://www.sabah.com.tr/gundem/2026/05/26/bakan-ciftciden-chp-genel-merkezi-aciklamasi-sureci-biz-baslatmadik",
       "published_date": "2026-05-26T08:54:18Z",
       "category": "Military"
+    },
+    {
+      "title": "$150 million fuel support from Saudi Arabia to Yemen",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/suudi-arabistandan-yemene-150-milyon-dolarlik-akaryakit-destegi-7592001",
+      "published_date": "2026-05-27T21:08:11Z",
+      "category": "Energy"
     },
     {
       "title": "Electricity consumption of data centers will double by 2030",
@@ -416,11 +423,11 @@
       "category": "Energy"
     },
     {
-      "title": "Natural gas and LNG cooperation between BOTAŞ and Italian Edison",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/botas-ile-italyan-edison-arasinda-dogalgaz-ve-lng-isbirligi-3886762-ekonomi",
-      "published_date": "2026-05-23T06:47:43Z",
-      "category": "Energy"
+      "title": "Sharing from Director of Communications Duran regarding the May 27 coup: Law and politics are under heavy pressure",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/05/27/iletisim-baskani-durandan-27-mayis-darbesine-iliskin-paylasim-hukuk-ve-siyaset-agir-baski-altinda-kalmistir",
+      "published_date": "2026-05-27T15:11:14Z",
+      "category": "Economy"
     },
     {
       "title": "Financial risk warning from ECB",
@@ -556,11 +563,95 @@
       "category": "Economy"
     },
     {
-      "title": "New borrowing move from the Treasury",
+      "title": "CHP's Güzelbahçe Mayor Mustafa Günay was suspended from office",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/ekonomi/hazineden-yeni-borclanma-hamlesi-7591065",
-      "published_date": "2026-05-26T09:21:35Z",
-      "category": "Economy"
+      "url": "https://www.sabah.com.tr/gundem/2026/05/27/chpli-guzelbahce-belediye-baskani-mustafa-gunay-gorevden-uzaklastirildi",
+      "published_date": "2026-05-27T22:14:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "President Erdoğan congratulated the pilgrims' holiday",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/05/27/baskan-erdogan-hacilarin-bayramini-kutladi",
+      "published_date": "2026-05-27T21:43:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The most beautiful Eid al-Adha messages",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/yeni-bayram-mesajlari-2026-anlamli-resimli-uzun-ve-kisa-en-guzel-kurban-bayrami-mesaji-seceneklerini-sevdiklerinize-gonderin-3887650",
+      "published_date": "2026-05-27T21:05:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Killer Israel launched an air strike on Gaza: 7 dead, 18 injured",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/katil-israil-gazzeye-hava-saldirisi-duzenledi-en-az-4-kisi-hayatini-kaybetti-15-kisi-yaralandi-7591984",
+      "published_date": "2026-05-27T20:11:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eid visit to the family of martyrs",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/icisleri-bakani-ciftciden-sehit-ailesine-bayram-ziyareti-3887734",
+      "published_date": "2026-05-27T19:51:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Champion Crystal Palace in the Conference League!",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/spor/futbol/2026/05/27/canli-crystal-palace-rayo-vallecano-uefa-konferans-liginde-kupa-sahibini-buluyor",
+      "published_date": "2026-05-27T19:02:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Statement from MHP leader Bahçeli about CHP and 'Absolute nullity'",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/son-dakika-haberi-devlet-bahceli-nin-chp-ve-mutlak-butlan-aciklamasi-3887581",
+      "published_date": "2026-05-27T17:19:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "New party statement from CHP Group Chairman Özgür Özel",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/son-dakika-haberi-ozgur-ozel-kimse-partisinden-istifa-etmesin-yeni-parti-kurmayacagiz-3887600",
+      "published_date": "2026-05-27T17:17:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kılıçdaroğlu's response to Özel's suggestion that \"let's hold an election with the members\"",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/kilicdaroglu-dan-bayram-aciklamasi-3887625",
+      "published_date": "2026-05-27T17:16:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "President Erdoğan will meet with citizens on the anniversary of the Conquest of Istanbul",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/05/27/baskan-erdogan-istanbulun-fethinin-yil-donumunde-vatandaslarla-bulusacak",
+      "published_date": "2026-05-27T16:44:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "A tool was found to solve the knot in the Gulistan Doku incident! DNA samples will be examined",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/yasam/gulistan-doku-olayinda-dugumu-cozecek-arac-tuncelide-bulundu-dna-ornekleri-incelenecek-7591858",
+      "published_date": "2026-05-27T16:41:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Yellow code warning from Meteorology for 15 provinces: Heavy showers are coming: An alarm has been issued for Istanbul",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/yasam/meteorolojiden-15-il-icin-sari-kodlu-uyari-kuvvetli-saganak-geliyor-7591851",
+      "published_date": "2026-05-27T16:22:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eid massacre from genocidal Israel! Air strike in southern Lebanon",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/soykirimci-israilden-bayramda-katliam-lubnanin-guneyine-hava-saldirisi-7591845",
+      "published_date": "2026-05-27T15:53:02Z",
+      "category": "Local Events"
     },
     {
       "title": "Holiday crowd on the beaches",
@@ -598,13 +689,6 @@
       "category": "Local Events"
     },
     {
-      "title": "Kılıçdaroğlu's response to Özel's suggestion that \"let's hold an election with the members\"",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/kilicdaroglu-dan-bayram-aciklamasi-3887625",
-      "published_date": "2026-05-27T12:36:56Z",
-      "category": "Local Events"
-    },
-    {
       "title": "Great pain on the morning of Eid... Saying goodbye to life on the cliff at the age of 10!",
       "source": "Haberturk",
       "url": "https://www.haberturk.com/son-dakika-haberi-bayram-sabahi-buyuk-aci-10-yasinda-hayata-ucurumda-veda-mersin-haberleri-3887621",
@@ -616,90 +700,6 @@
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/dunya/laosta-sel-faciasi-magarada-8-gundur-mahsur-kalan-5-kisi-kurtarildi-7591774",
       "published_date": "2026-05-27T12:27:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Statement from MHP leader Bahçeli about CHP and 'Absolute nullity'",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-haberi-devlet-bahceli-nin-chp-ve-mutlak-butlan-aciklamasi-3887581",
-      "published_date": "2026-05-27T12:20:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "New party statement from CHP Group Chairman Özgür Özel",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-haberi-ozgur-ozel-kimse-partisinden-istifa-etmesin-yeni-parti-kurmayacagiz-3887600",
-      "published_date": "2026-05-27T12:12:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "\"27 May\" message from Ömer Çelik",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/05/27/omer-celikten-27-mayis-mesaji",
-      "published_date": "2026-05-27T12:10:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "MHP leader Devlet Bahçeli visits the Idealist Martyrs' Monument",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/05/27/mhp-lideri-devlet-bahceli-ulkucu-sehitler-anitini-ziyaret-ediyor",
-      "published_date": "2026-05-27T12:09:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The attack file against Fenerbahçe will be re-examined!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-bakan-gurlek-acikladi-fenerbahce-ye-saldiri-dosyasi-tekrardan-incelenecek-3887627",
-      "published_date": "2026-05-27T11:35:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Second case of non-prosecution in death in skyscraper",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/gokdelenden-dusen-semanur-arslanin-olumunde-2-nci-takipsizlik-en-son-haberler-3887640",
-      "published_date": "2026-05-27T11:13:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two brothers shared the same fate 4 years apart!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-haberi-iki-kardes-4-yil-arayla-ayni-kaderi-paylasti-bursa-haberleri-3887591",
-      "published_date": "2026-05-27T09:48:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Murder in inheritance fight! He killed his relative!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/izmir-haberleri-miras-kavgasinda-cinayet-akrabasini-oldurdu-3887644",
-      "published_date": "2026-05-27T09:44:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "After his nephew, his uncle was also found dead",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-giresun-da-derenin-akintisinda-kaybolan-yegeninin-ardindan-amcasinin-da-cansiz-bedenine-ulasildi-3887641",
-      "published_date": "2026-05-27T09:36:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "He killed his uncle and stayed with his corpse for 3 days!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-haberi-vahset-evi-dayisini-oldurdu-cesediyle-3-gun-kaldi-3887626",
-      "published_date": "2026-05-27T09:16:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Remarkable claim from the US press: Former Minister of Justice Bondi's new position has been announced",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/abd-basinindan-dikkat-ceken-iddia-eski-adalet-bakani-bondinin-yeni-gorevi-belli-oldu-7591697",
-      "published_date": "2026-05-27T09:12:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "TÜRGEV ​​hosted its visitors at its stand at the 8th Ethnosport Culture Festival",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/05/27/turgev-8-etnospor-kultur-festivalindeki-standinda-ziyaretcilerini-agirladi",
-      "published_date": "2026-05-27T09:03:06Z",
       "category": "Local Events"
     }
   ]
