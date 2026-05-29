@@ -1,7 +1,21 @@
 {
   "country": "turkey",
-  "last_updated": "2026-05-28T14:46:52Z",
+  "last_updated": "2026-05-29T00:08:10Z",
   "stories": [
+    {
+      "title": "When will the 12th Judicial Package be released?",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/12-yargi-paketi-son-durum-gelismesi-12-yargi-paketi-ne-zaman-cikacak-maddeleri-neler-12-yargi-paketi-af-ve-infaz-duzenlemesi-var-mi-3887668",
+      "published_date": "2026-05-28T21:05:33Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "President Erdoğan met with the President of Algeria",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/05/28/baskan-erdogan-cezayir-cumhurbaskani-ile-gorustu",
+      "published_date": "2026-05-28T17:06:25Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Financial blow from the Italian police to the former mafia leader! Assets worth 200 million euros were seized, simultaneous operation in 9 countries!",
       "source": "Sabah",
@@ -28,13 +42,6 @@
       "source": "Haberturk",
       "url": "https://www.haberturk.com/lahmacunu-bin-450-liraya-satan-isletmeye-dev-ceza-3887833-ekonomi",
       "published_date": "2026-05-28T10:52:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "When will the 12th Judicial Package be released?",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/12-yargi-paketi-son-durum-gelismesi-12-yargi-paketi-ne-zaman-cikacak-maddeleri-neler-12-yargi-paketi-af-ve-infaz-duzenlemesi-var-mi-3887668",
-      "published_date": "2026-05-28T10:24:03Z",
       "category": "Diplomacy"
     },
     {
@@ -80,13 +87,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pay attention to noon hours... Showers in 6 regions! 'Yellow' alert for 15 cities!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-haberi-hava-durumu-istanbul-6-bolgede-saganak-15-kent-icin-sari-alarm-3887757",
-      "published_date": "2026-05-28T07:38:15Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Shocking detail in the painful incident in Kahramanmaraş: He was shot while \"loading and unloading\" during a video call! The punishment requested for that defendant has been determined",
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/yasam/kahramanmarastaki-aci-olayda-sok-detay-goruntulu-aramada-doldur-bosalt-yaparken-vurmus-o-sanik-icin-istenen-ceza-belli-oldu-7592209",
@@ -98,6 +98,13 @@
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/dunya/canli-son-dakika-washington-vurdu-iran-misillemeye-gecti-abd-hava-ussu-hedef-alindi-7592182",
       "published_date": "2026-05-28T06:18:37Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pay attention to noon hours... Showers in 6 regions! 'Yellow' alert for 15 cities!",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/son-dakika-haberi-hava-durumu-istanbul-6-bolgede-saganak-15-kent-icin-sari-alarm-3887757",
+      "published_date": "2026-05-28T05:25:04Z",
       "category": "Diplomacy"
     },
     {
@@ -136,11 +143,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Martyrs of democracy were commemorated with prayers",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/05/28/demokrasi-sehitleri-dualarla-anildi",
-      "published_date": "2026-05-28T04:00:11Z",
-      "category": "Diplomacy"
+      "title": "3 arrests in the murder in Kozan",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/kozan-daki-arazi-anlasmazligi-cinayetinde-3-zanli-tutuklandi-3887941",
+      "published_date": "2026-05-28T22:43:26Z",
+      "category": "Military"
+    },
+    {
+      "title": "Armed fight in Akyazı: 2 injured, 7 detained",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/akyazi-da-silahli-kavga-2-yarali-7-gozalti-3887939",
+      "published_date": "2026-05-28T22:07:30Z",
+      "category": "Military"
     },
     {
       "title": "BREAKING NEWS| Scandalous Gaza instruction from murderer Netanyahu: The occupied area will be increased to 70 percent",
@@ -213,17 +227,17 @@
       "category": "Military"
     },
     {
-      "title": "The most mysterious laughter epidemic in history",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/gunlerce-suren-kahkaha-nobetleri-yuzunden-okullar-kapandi-tarihin-en-gizemli-kahkaha-salgini-3886868",
-      "published_date": "2026-05-28T06:43:20Z",
-      "category": "Military"
-    },
-    {
       "title": "New attacks on the US-Iran line while ceasefire talks continue",
       "source": "Haberturk",
       "url": "https://www.haberturk.com/ateskes-gorusmeleri-surerken-abd-iran-hattinda-yeni-saldirilar-3887766",
       "published_date": "2026-05-28T06:03:15Z",
+      "category": "Military"
+    },
+    {
+      "title": "The most mysterious laughter epidemic in history",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/gunlerce-suren-kahkaha-nobetleri-yuzunden-okullar-kapandi-tarihin-en-gizemli-kahkaha-salgini-3886868",
+      "published_date": "2026-05-28T05:16:50Z",
       "category": "Military"
     },
     {
@@ -266,20 +280,6 @@
       "source": "Haberturk",
       "url": "https://www.haberturk.com/israil-ordusu-lubnan-da-bir-evi-vurdu-2-olu-3887751",
       "published_date": "2026-05-28T02:53:16Z",
-      "category": "Military"
-    },
-    {
-      "title": "The death toll in the attacks carried out by the Israeli army in Lebanon reached 3 thousand 269",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/israil-ordusunun-lubnana-duzenledigi-saldirilarda-olu-sayisi-3-bin-269a-ulasti-7591887",
-      "published_date": "2026-05-27T17:51:36Z",
-      "category": "Military"
-    },
-    {
-      "title": "A cooperation agreement in the field of defense and security was signed between Poland and England",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/polonya-ingiltere-arasinda-savunma-ve-guvenlik-alaninda-is-birligi-anlasmasi-imzalandi-7591811",
-      "published_date": "2026-05-27T14:04:18Z",
       "category": "Military"
     },
     {
@@ -423,6 +423,20 @@
       "category": "Energy"
     },
     {
+      "title": "\"We will have a positive first half of the year\"",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/bakan-bolat-yilin-ilk-yarisini-pozitif-sekilde-gecirmis-olacagiz-3887895-ekonomi",
+      "published_date": "2026-05-28T15:49:01Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Minister Yumaklı announced: The Meat and Milk Institution will receive the remaining sacrificial animals from the producers.",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/yasam/bakan-yumakli-duyurdu-ureticilerin-elinde-kalan-kurbanliklari-et-ve-sut-kurumu-alacak-7592411",
+      "published_date": "2026-05-28T15:32:46Z",
+      "category": "Economy"
+    },
+    {
       "title": "Minister Bolat pointed to June: We expect a big increase in exports",
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/ekonomi/bakan-bolat-hazirani-isaret-etti-ihracatta-buyuk-artis-bekliyoruz-7592392",
@@ -549,18 +563,109 @@
       "category": "Economy"
     },
     {
-      "title": "16 billion 839 million lira resources were used for mobile education of disabled students",
+      "title": "He opened fire on his father's house",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/engelli-ogrencilerin-tasimali-egitimi-icin-16-milyar-839-milyon-lira-kaynak-kullanildi-3887604",
-      "published_date": "2026-05-27T06:57:42Z",
-      "category": "Economy"
+      "url": "https://www.haberturk.com/babasinin-evine-ates-acti-3887940",
+      "published_date": "2026-05-28T22:14:35Z",
+      "category": "Local Events"
     },
     {
-      "title": "10 billion dollar agreement between Türkiye and Ghana",
+      "title": "\"Banknote with Trump picture\" edition from the US administration",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/ekonomi/turkiye-ile-gana-arasinda-10-milyar-dolarlik-anlasma-7591594",
-      "published_date": "2026-05-27T06:53:03Z",
-      "category": "Economy"
+      "url": "https://www.sabah.com.tr/dunya/abd-yonetiminden-trump-resimli-banknot-baskisi-7592604",
+      "published_date": "2026-05-28T21:50:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "PM meeting description",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/kilicdaroglu-ndan-pm-toplantisi-aciklamasi-3887936",
+      "published_date": "2026-05-28T21:20:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The most beautiful Eid al-Adha messages",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/yeni-bayram-mesajlari-2026-anlamli-resimli-uzun-ve-kisa-en-guzel-kurban-bayrami-mesaji-seceneklerini-sevdiklerinize-gonderin-3887650",
+      "published_date": "2026-05-28T21:05:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Holidaymakers flocked... A 22 km vehicle convoy formed in one of our provinces!",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/son-dakika-haberi-tatilciler-akin-etti-bir-kentte-22-km-lik-arac-konvoyu-olustu-mugla-haberleri-3887825",
+      "published_date": "2026-05-28T19:05:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "President Erdoğan spoke to Turkish pilgrims on the phone: Do not forget us in your prayers",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/05/28/baskan-erdogan-turk-hacilarla-telefonda-gorustu",
+      "published_date": "2026-05-28T18:46:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The death toll in Sivas has increased to 3... The nightmare does not end!",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/son-dakika-haberi-sivas-ta-olu-sayisi-3-e-cikti-kbus-bitmiyor-sivas-haberleri-3887834",
+      "published_date": "2026-05-28T18:30:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Great Ankara Meeting with the participation of President Erdoğan will be held on June 16",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/05/28/ak-parti-ankara-il-baskanliginda-geleneksel-bayramlasma-programi-duzenlendi",
+      "published_date": "2026-05-28T17:40:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Terrible accident in Amasya! Two cars collided: Grandfather and grandson lost their lives, 2 injured",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/yasam/amasyada-korkunc-kaza-iki-otomobil-carpisti-dede-ve-torun-hayatini-kaybetti-2-yarali-7592453",
+      "published_date": "2026-05-28T17:13:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "AK Party Deputy Chairman Ahmet Büyükgümüş: The seat fight in CHP does not concern us",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/05/28/ak-parti-genel-baskan-yardimcisi-ahmet-buyukgumus-chpdeki-koltuk-kavgasi-bizi-ilgilendirmiyor",
+      "published_date": "2026-05-28T16:26:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Message from Bahçeli about the conquest of Istanbul: The mortar of the Turkish nation mixed with faith has been declared to the whole world",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/05/28/bahceliden-istanbulun-fethi-mesaji-turk-milletinin-imanla-karilmis-harci-butun-cihana-ilan-edilmistir",
+      "published_date": "2026-05-28T16:14:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Greeting flight from SOLOTURK! Unforgettable moments on the Bosphorus",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/yasam/soloturkten-selamlama-ucusu-istanbul-bogazinda-unutulmaz-anlar-7592420",
+      "published_date": "2026-05-28T16:06:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Minister Bolat: Türkiye is now a pioneer and founding country in the world",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/05/28/bakan-bolat-turkiye-artik-dunyada-oncu-ve-kurucu-bir-ulke-dikkate-alinan-saygin-ve-itibarli-bir-ulke-haline-geldi",
+      "published_date": "2026-05-28T16:04:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Flood hit Edirne! Streets turned into lakes, workplaces were flooded",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/yasam/edirneyi-sel-vurdu-caddeler-gole-dondu-is-yerlerini-su-basti-7592407",
+      "published_date": "2026-05-28T15:14:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bahçeli accepted his party's delegations celebrating with political parties",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/05/28/bahceli-partisinin-siyasi-partilerle-bayramlasan-heyetlerini-kabul-etti",
+      "published_date": "2026-05-28T14:53:34Z",
+      "category": "Local Events"
     },
     {
       "title": "THY will reach a record number of passengers on May 31",
@@ -577,129 +682,24 @@
       "category": "Local Events"
     },
     {
-      "title": "Gürsel Tekin visited Kemal Kılıçdaroğlu: Remarkable congress historical message",
+      "title": "Blood was shed in a road fight in Mardin: 2 dead, 7 injured in a fight with stones and sticks",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/05/28/gursel-tekin-kemal-kilicdaroglunu-ziyaret-etti-dikkat-ceken-kurultay-tarihi-mesaji",
-      "published_date": "2026-05-28T12:55:34Z",
+      "url": "https://www.sabah.com.tr/yasam/mardinde-yol-verme-kavgasinda-kan-dokuldu-tasli-sopali-kavgada-2-olu-7-yarali-7592377",
+      "published_date": "2026-05-28T13:45:25Z",
       "category": "Local Events"
     },
     {
-      "title": "BREAKING NEWS... CHP Chairman Kemal Kılıçdaroğlu: The Grand National Assembly of Turkey CHP Group General Assembly will not be held!",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/05/28/son-dakika-chp-genel-baskani-kemal-kilicdaroglu-tbmm-chp-grup-genel-kurulu-yapilmayacaktir",
-      "published_date": "2026-05-28T12:37:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Celebration between political parties at CHP Headquarters",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/05/28/chp-genel-merkezinde-siyasi-partiler-arasi-bayramlasma",
-      "published_date": "2026-05-28T12:25:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reached a speed of 240 kilometers per hour",
+      "title": "Kılıçdaroğlu celebrated with party members",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/saatte-240-kilometre-hiza-ulasti-3887850-ekonomi",
-      "published_date": "2026-05-28T12:12:56Z",
+      "url": "https://www.haberturk.com/chp-genel-baskani-kilicdaroglu-partililerle-bayramlasti-3887835",
+      "published_date": "2026-05-28T13:31:58Z",
       "category": "Local Events"
     },
     {
-      "title": "Azerbaijan's Independence Day message from Director of Communications Duran",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/05/28/iletisim-baskani-durandan-azerbaycanin-bagimsizlik-gunu-mesaji",
-      "published_date": "2026-05-28T11:19:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Temperature at record level in France: Alarm level increased to orange in 14 provinces",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/fransada-sicaklik-rekor-seviyede-14-vilayette-alarm-seviyesi-turuncuya-yukseltildi-7592310",
-      "published_date": "2026-05-28T11:11:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "High level summit in Istanbul for global food security",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/ekonomi/kuresel-gida-guvenligi-icin-istanbulda-yuksek-duzey-zirve-7592302",
-      "published_date": "2026-05-28T10:37:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gucci enters Formula 1",
+      "title": "\"We see crime nesting in digital channels\"",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/gucci-formula-1e-alpine-ile-giriyor-3887826-ekonomi",
-      "published_date": "2026-05-28T10:36:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Holidaymakers flocked... A 22 km vehicle convoy formed in one of our provinces!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-haberi-tatilciler-akin-etti-bir-kentte-22-km-lik-arac-konvoyu-olustu-mugla-haberleri-3887825",
-      "published_date": "2026-05-28T10:25:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The most beautiful Eid al-Adha messages",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/yeni-bayram-mesajlari-2026-anlamli-resimli-uzun-ve-kisa-en-guzel-kurban-bayrami-mesaji-seceneklerini-sevdiklerinize-gonderin-3887650",
-      "published_date": "2026-05-28T10:23:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The statement of the murderer of the father was revealed!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-haberi-baba-katili-caninin-ifadesi-ortaya-cikti-kayseri-haberleri-3887804",
-      "published_date": "2026-05-28T10:15:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Minister Yumaklı reminded everyone of their responsibility against forest fires",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/ekonomi/bakan-yumakli-orman-yanginlarina-karsi-sorumlulugu-herkese-bastan-hatirlatti-7592293",
-      "published_date": "2026-05-28T10:09:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Minister Uraloğlu announced: New speed record from Turkey's first high-speed train",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/ekonomi/bakan-uraloglu-acikladi-turkiyenin-ilk-hizli-treninden-yeni-hiz-rekoru-7592291",
-      "published_date": "2026-05-28T10:07:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "He was wanted for 10 years for murder... 'Face recognition' camera caught the killer!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-haberi-cinayetten-10-yildir-araniyordu-yuz-tanima-kamerasi-katili-yakaladi-3887760",
-      "published_date": "2026-05-28T09:58:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "He was found dead in his home",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-kayseride-52-yasindaki-adam-evinde-olu-bulundu-3887821",
-      "published_date": "2026-05-28T09:57:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Invitation to Conquest anniversary events",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/istanbul-valisi-gul-den-istanbul-un-fethi-nin-573-yil-donumu-etkinliklerine-davet-3887817",
-      "published_date": "2026-05-28T09:36:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Invitation from Istanbul Governor Gül to the 573rd anniversary events of the Conquest of Istanbul",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/05/28/istanbul-valisi-gulden-istanbulun-fethinin-573-yil-donumu-etkinliklerine-davet",
-      "published_date": "2026-05-28T09:18:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "THY increases its flights to Tivat",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/ekonomi/thy-tivat-seferlerini-artiriyor-7592262",
-      "published_date": "2026-05-28T08:52:26Z",
+      "url": "https://www.haberturk.com/arastirma-komisyonu-baskani-beyazit-dijital-mecralarda-suc-yuvalanmasi-goruyoruz-3887844",
+      "published_date": "2026-05-28T13:04:14Z",
       "category": "Local Events"
     }
   ]
