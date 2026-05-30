@@ -1,12 +1,19 @@
 {
   "country": "turkey",
-  "last_updated": "2026-05-29T14:18:22Z",
+  "last_updated": "2026-05-30T00:08:43Z",
   "stories": [
+    {
+      "title": "Details of the UN report revealed: Israel subjected 31 Palestinians, including 10 children, to sexual violence",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/bm-raporunun-detaylari-ortaya-cikti-israil-10u-cocuk-31-filistinliye-cinsel-siddet-uyguladi-7593005",
+      "published_date": "2026-05-29T14:34:10Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "He cut 3-year-old Poyraz into pieces! The moment when a mother is finished!",
       "source": "Haberturk",
       "url": "https://www.haberturk.com/son-dakika-haberi-3-yasindaki-poyraz-i-parcalara-ayirmis-bir-annenin-bittigi-an-3887974",
-      "published_date": "2026-05-29T12:10:43Z",
+      "published_date": "2026-05-29T13:11:59Z",
       "category": "Diplomacy"
     },
     {
@@ -136,11 +143,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "When will the scholarship exam results be announced?",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/bursluluk-sinavi-sonuclari-ne-zaman-aciklanacak-2026-iokbs-bursluluk-sinavi-sonuc-sorgulama-ekrani-erisime-acildi-mi-sonuclar-nasil-sorgulanir-3887897",
-      "published_date": "2026-05-28T16:27:32Z",
-      "category": "Diplomacy"
+      "title": "Israeli army attacked the Gaza Strip: 2 Palestinians lost their lives, 5 people were injured",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/israil-ordusu-gazze-seridine-saldirdi-2-filistinli-hayatini-kaybetti-5-kisi-yaralandi-7593104",
+      "published_date": "2026-05-29T18:12:20Z",
+      "category": "Military"
+    },
+    {
+      "title": "Statement from DMM regarding the application of the National Anthem in matches!",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/spor/futbol/2026/05/29/dmmden-maclardaki-istiklal-marsi-uygulamasina-dair-aciklama",
+      "published_date": "2026-05-29T17:28:27Z",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli army hit the south of Lebanon! New attack threat",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/israil-ordusu-lubnanin-guneyini-vurdu-yeni-saldiri-tehdidi-7593033",
+      "published_date": "2026-05-29T16:17:33Z",
+      "category": "Military"
+    },
+    {
+      "title": "The number of deaths in Israeli attacks in Lebanon since March 2 has increased to 3 thousand 355.",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/israilin-lubnanda-2-marttan-bu-yana-duzenledigi-saldirilarda-olenlerin-sayisi-3-bin-355e-yukseldi-7593001",
+      "published_date": "2026-05-29T14:13:59Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran: 24 ships passed through the Strait of Hormuz in the last 24 hours with the coordination and permission of the navy",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/iran-son-24-saatte-donanmanin-koordinasyonu-ve-izniyle-hurmuz-bogazindan-24-gemi-gecti-7592999",
+      "published_date": "2026-05-29T14:11:12Z",
+      "category": "Military"
     },
     {
       "title": "Haaretz newspaper: Netanyahu continues wars for his political and personal interests",
@@ -245,41 +280,6 @@
       "source": "Haberturk",
       "url": "https://www.haberturk.com/basarisiz-bir-cia-projesi-kedilere-dinleme-cihazi-yerlestirdiler-ama-kedilerin-cok-baska-planlari-vardi-3887240",
       "published_date": "2026-05-29T04:54:34Z",
-      "category": "Military"
-    },
-    {
-      "title": "Russia wants US troops to withdraw from Europe",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/rusya-abd-askerinin-avrupa-dan-cekilmesini-istiyor-3887947",
-      "published_date": "2026-05-29T02:29:49Z",
-      "category": "Military"
-    },
-    {
-      "title": "3 arrests in the murder in Kozan",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/kozan-daki-arazi-anlasmazligi-cinayetinde-3-zanli-tutuklandi-3887941",
-      "published_date": "2026-05-28T22:43:26Z",
-      "category": "Military"
-    },
-    {
-      "title": "Armed fight in Akyazı: 2 injured, 7 detained",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/akyazi-da-silahli-kavga-2-yarali-7-gozalti-3887939",
-      "published_date": "2026-05-28T22:07:30Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran fired missiles",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/iran-dan-fuze-saldirisi-3887929",
-      "published_date": "2026-05-28T21:20:32Z",
-      "category": "Military"
-    },
-    {
-      "title": "Who won the Survivor 4th immunity game?",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/survivor-4-dokunulmazlik-oyunu-kim-kazandi-survivor-eleme-potasina-giren-4-eleme-adayi-kim-oldu-survivor-eleme-adaylari-kimler-3887926",
-      "published_date": "2026-05-28T21:17:29Z",
       "category": "Military"
     },
     {
@@ -423,7 +423,14 @@
       "category": "Energy"
     },
     {
-      "title": "New trade measures coming from the EU to China",
+      "title": "European stock markets closed on a mixed note",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/avrupa-borsalari-karisik-seyirle-kapandi-3888087-ekonomi",
+      "published_date": "2026-05-29T17:19:02Z",
+      "category": "Economy"
+    },
+    {
+      "title": "New trade measures are coming from the EU to China",
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/ekonomi/abden-cine-yeni-ticaret-tedbirleri-geliyor-7592966",
       "published_date": "2026-05-29T12:58:53Z",
@@ -483,6 +490,13 @@
       "source": "Haberturk",
       "url": "https://www.haberturk.com/petrol-fiyatlarinda-son-durum-ne-3887993-ekonomi",
       "published_date": "2026-05-29T07:59:47Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Current gold prices on the third day of Eid",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/bayramda-son-dakika-altin-fiyati-canli-takip-bayramda-29-mayis-2026-cuma-gunu-guncel-altin-fiyatlari-bayramda-altin-fiyatlari-ne-kadar-oldu-ceyrek-altin-gram-altin-bugun-ne-kadar-oldu-3887952",
+      "published_date": "2026-05-29T07:55:33Z",
       "category": "Economy"
     },
     {
@@ -549,18 +563,81 @@
       "category": "Economy"
     },
     {
-      "title": "Minister Bolat pointed to June: We expect a big increase in exports",
+      "title": "The 573rd anniversary of the conquest of Istanbul was celebrated with enthusiasm! Mehter band concerts, light mapping show and ship cortege...",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/ekonomi/bakan-bolat-hazirani-isaret-etti-ihracatta-buyuk-artis-bekliyoruz-7592392",
-      "published_date": "2026-05-28T14:12:18Z",
-      "category": "Economy"
+      "url": "https://www.sabah.com.tr/yasam/istanbulun-fethinin-573-yil-donumu-coskuyla-kutlandi-mehteran-konserleri-fetih-yuruyusu-ve-gemi-korteji-7593247",
+      "published_date": "2026-05-29T21:49:08Z",
+      "category": "Local Events"
     },
     {
-      "title": "Economic confidence index increased in Europe",
+      "title": "Former US Attorney General Bondi was questioned about Epstein: He did not answer Trump's questions",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/eski-abd-adalet-bakani-bondiye-epstein-sorgusu-trump-sorularina-yantsiz-kaldi-7593244",
+      "published_date": "2026-05-29T21:46:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chain accident in Mut: 1 dead, 5 injured",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/euro-bolgesi-nde-ekonomik-guven-endeksi-artti-3887869-ekonomi",
-      "published_date": "2026-05-28T13:52:07Z",
-      "category": "Economy"
+      "url": "https://www.haberturk.com/mut-ta-zincirleme-kaza-1-olu-5-yarali-3888119",
+      "published_date": "2026-05-29T21:28:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The most beautiful Eid al-Adha messages",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/yeni-bayram-mesajlari-2026-anlamli-resimli-uzun-ve-kisa-en-guzel-kurban-bayrami-mesaji-seceneklerini-sevdiklerinize-gonderin-3887650",
+      "published_date": "2026-05-29T21:24:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Double holiday crisis in CHP! Headquarters is preparing for Kemal Kılıçdaroğlu: What will he announce?",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/05/29/chpde-cifte-bayramlasma-krizi-genel-merkez-kemal-kilicdaroglu-icin-hazirlaniyor-ne-aciklayacak",
+      "published_date": "2026-05-29T18:34:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "President Erdoğan: The conquest of Istanbul is the brightest link in our series of conquests...",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/05/29/baskan-erdogan-istanbulun-fethi-fetihler-silsilemizin-en-parlak-halkasi",
+      "published_date": "2026-05-29T18:27:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "President Erdoğan accompanied the song \"Turks are coming\" sung by Azerin",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/05/29/baskan-erdogan-azerinin-seslendirdigi-turkler-geliyor-sarkisina-eslik-etti",
+      "published_date": "2026-05-29T17:09:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Everyone thought he was swimming... But he wasn't moving!",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/son-dakika-haberi-herkes-onun-yuzdugunu-saniyordu-ama-hareket-etmiyordu-3888022",
+      "published_date": "2026-05-29T16:45:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Great enthusiasm on the 573rd anniversary of the conquest of Istanbul",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/istanbul-un-fethinin-573-yil-donumunde-buyuk-cosku-3888014",
+      "published_date": "2026-05-29T16:20:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "A meaningful holiday visit from Minister Uraloğlu",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/05/29/bakan-uraloglundan-anlamli-bayram-ziyareti",
+      "published_date": "2026-05-29T15:35:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "BREAKING NEWS | Frightening incident in Muğla: Tour boat sank! There were 148 passengers...",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/yasam/son-dakika-muglada-korkutan-olay-tur-teknesi-batti-7592992",
+      "published_date": "2026-05-29T13:59:33Z",
+      "category": "Local Events"
     },
     {
       "title": "24-hour strike in Italy! Transportation, education and health sectors were protested",
@@ -619,87 +696,10 @@
       "category": "Local Events"
     },
     {
-      "title": "Everyone thought he was swimming... But he wasn't moving!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-haberi-herkes-onun-yuzdugunu-saniyordu-ama-hareket-etmiyordu-3888022",
-      "published_date": "2026-05-29T12:09:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Governor Gül: \"This year, the Conquest will be celebrated more lively than the previous year.\"",
+      "title": "Governor Gül: “The Conquest will be celebrated more lively this year than the previous year.”",
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/gundem/2026/05/29/istanbulun-fethinin-573-yil-donumune-coskulu-kutlama",
       "published_date": "2026-05-29T12:08:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Minister Uraloğlu: There was a record passage on the highways!",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/ekonomi/bakan-uraloglu-otoyollarda-rekor-gecis-oldu-7592934",
-      "published_date": "2026-05-29T12:01:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "An event in Muş that is like a horror movie! Snakes surrounded the whole house: 'Some of them are 3 meters long'",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/yasam/musta-korku-filmlerini-aratmayan-olay-yilanlar-tum-evi-sardi-bazilarinin-boylari-3-metre-7592926",
-      "published_date": "2026-05-29T11:49:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "He died a day after the heartbreaking post!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-haberi-yurek-burkan-paylasimdan-bir-gun-sonra-hayatini-kaybetti-osmaniye-haberleri-3887962",
-      "published_date": "2026-05-29T11:27:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Breaking news | Important statements from President Erdoğan: Istanbul will be even more beautiful tonight",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/05/29/son-dakika-baskan-erdogandan-onemli-aciklamalar",
-      "published_date": "2026-05-29T11:25:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "France stands up: Israel's inhumane treatment is under scrutiny",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/fransa-ayaga-kalkti-israilin-insanlik-disi-muamelesi-inceleme-altinda-7592907",
-      "published_date": "2026-05-29T11:22:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Terrible death for the sake of cherries!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-haberi-kiraz-ugruna-feci-olum-corum-haberleri-3888031",
-      "published_date": "2026-05-29T11:05:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "e-Hearing system will expand",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/e-durusma-sistemi-bolge-adliye-mahkemelerinde-de-kullanilacak-3888027-teknoloji",
-      "published_date": "2026-05-29T10:51:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Liquid and electronic device restrictions will be relaxed at the airport",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/bruksel-havalimani-nda-sivi-ve-elektronik-cihaz-kisitlamalari-2028-den-itibaren-gevsetilecek-3888025-teknoloji",
-      "published_date": "2026-05-29T10:47:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Great enthusiasm on the 573rd anniversary of the conquest of Istanbul",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/istanbul-un-fethinin-573-yil-donumunde-buyuk-cosku-3888014",
-      "published_date": "2026-05-29T10:40:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "HÜRJET wind in the skies of Istanbul: Those who saw those moments in the Bosphorus could not believe their eyes!",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/yasam/istanbul-semalarinda-hurjet-ruzgari-bogazdaki-o-anlari-gorenler-gozlerine-inanamadi-7592890",
-      "published_date": "2026-05-29T10:40:28Z",
       "category": "Local Events"
     }
   ]
