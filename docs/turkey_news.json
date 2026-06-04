@@ -1,7 +1,21 @@
 {
   "country": "turkey",
-  "last_updated": "2026-06-03T15:52:29Z",
+  "last_updated": "2026-06-04T00:27:18Z",
   "stories": [
+    {
+      "title": "BREAKING NEWS | US President Donald Trump will attend the NATO Summit in Türkiye",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/son-dakika-abd-baskani-donald-trump-turkiyedeki-nato-zirvesinde-katilacak-7596084",
+      "published_date": "2026-06-03T16:38:15Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukraine move from NATO: Mark Rutte met with Zelenski!",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/natodan-ukrayna-hamlesi-mark-rutte-zelenski-ile-bir-araya-geldi-7596058",
+      "published_date": "2026-06-03T16:07:51Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Missile rain from Iran to Kuwait: 1 dead, 63 injured",
       "source": "Sabah",
@@ -10,7 +24,7 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Immigration from Israel in droves! The number of people settling abroad is increasing",
+      "title": "Immigration influx from Israel! The number of people settling abroad is increasing",
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/dunya/israilden-akin-akin-goc-yurt-disina-yerlesenlerin-sayisi-giderek-artiyor-7595955",
       "published_date": "2026-06-03T12:33:43Z",
@@ -129,18 +143,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "President Erdoğan met with Sudan Council President Burhan",
+      "title": "'Daltons' trace in Can Polat murder: Remarkable posts on social media...",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/06/02/baskan-erdogan-sudan-konsey-baskani-burhan-ile-gorustu",
-      "published_date": "2026-06-02T15:41:49Z",
-      "category": "Diplomacy"
+      "url": "https://www.sabah.com.tr/yasam/can-polat-cinayetinde-daltonlar-izi-sosyal-medyada-dikkat-ceken-paylasimlar-7596100",
+      "published_date": "2026-06-03T17:10:50Z",
+      "category": "Military"
     },
     {
-      "title": "Message of cooperation with Singapore from Minister Fidan: \"Our close work will continue\"",
+      "title": "Investment move by Otokar in Romania: It purchased the 'Automecanica' company!",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/06/02/bakan-fidandan-singapur-ile-is-birligi-mesaji-yakin-calismalarimiz-surecek",
-      "published_date": "2026-06-02T15:25:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.sabah.com.tr/ekonomi/otokardan-romanyada-yatirim-hamlesi-automecanica-sirketini-satin-aldi-7596082",
+      "published_date": "2026-06-03T16:32:52Z",
+      "category": "Military"
     },
     {
       "title": "Shocking detail in the murder of Başak Gürkan: He stood and watched while his wife was stabbed! Brazen defense from murderous father-in-law",
@@ -266,20 +280,6 @@
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/gundem/2026/06/02/son-dakika-i-baskan-erdogan-hollanda-basbakani-ile-gorustu-diyalog-ve-is-birligi-mesaji",
       "published_date": "2026-06-02T15:30:27Z",
-      "category": "Military"
-    },
-    {
-      "title": "When will MSU preference results be announced?",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/msu-tercih-sonuclari-aciklandi-mi-ne-zaman-aciklanacak-2026-msu-tercih-sonuclari-nereden-nasil-sorgulanacak-3888843",
-      "published_date": "2026-06-02T14:42:57Z",
-      "category": "Military"
-    },
-    {
-      "title": "They wanted to cause panic in the markets! DMM clearly warned the citizen",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/ekonomi/piyasalarda-panige-yol-acmak-istediler-dmm-vatandasi-net-bir-sekilde-uyardi-7595347",
-      "published_date": "2026-06-02T13:58:16Z",
       "category": "Military"
     },
     {
@@ -423,6 +423,27 @@
       "category": "Energy"
     },
     {
+      "title": "Important contacts from Minister Bolat at the OECD meeting in Paris",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/ekonomi/bakan-bolattan-paristeki-oecd-toplantisinda-onemli-temaslar-7596173",
+      "published_date": "2026-06-03T18:40:17Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Cevdet Yılmaz's emphasis on cooperation in Turkmenistan: \"We aim for permanent investments\"",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/06/03/cevdet-yilmazdan-turkmenistanda-is-birligi-vurgusu-kalici-yatirimlari-hedefliyoruz",
+      "published_date": "2026-06-03T16:46:30Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Minister Kacır: \"We are leaving the stage of history much more assertively\"",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/06/03/bakan-kacir-tarih-sahnesinden-cok-daha-iddiali-cikiyoruz",
+      "published_date": "2026-06-03T16:26:07Z",
+      "category": "Economy"
+    },
+    {
       "title": "Private sector employment in the USA exceeded expectations in May",
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/ekonomi/abdde-ozel-sektor-istihdami-mayista-beklentileri-asti-7595982",
@@ -542,25 +563,32 @@
       "category": "Economy"
     },
     {
-      "title": "The stock market finished the day with an increase",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/borsa-gunu-yukselisle-tamamladi-3888860-ekonomi",
-      "published_date": "2026-06-02T16:16:25Z",
-      "category": "Economy"
-    },
-    {
-      "title": "The stock market finished the day with an increase",
+      "title": "Electrical disaster at the iron and steel factory in Samsun: 3 workers lost their lives after being electrocuted!",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/ekonomi/borsa-gunu-yukselisle-tamamladi-7595392",
-      "published_date": "2026-06-02T15:44:41Z",
-      "category": "Economy"
+      "url": "https://www.sabah.com.tr/yasam/samsunda-demir-celik-fabrikasinda-elektrik-faciasi-akima-kapilan-3-isci-hayatini-kaybetti-7596282",
+      "published_date": "2026-06-03T21:55:14Z",
+      "category": "Local Events"
     },
     {
-      "title": "End of the day in the markets: Tuesday, June 02, 2026 Latest situation in Borsa Istanbul, dollar, gold and cryptocurrencies",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/piyasalarda-gun-sonu-02-haziran-2026-sali-borsa-istanbul-dolar-altin-ve-kripto-paralarda-son-durum-fai-3888854-ekonomi",
-      "published_date": "2026-06-02T15:30:00Z",
-      "category": "Economy"
+      "title": "Özgür Özel and Veli Ağbaba file was sent to Ankara",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/06/03/ozgur-ozel-ve-veli-agbaba-dosyasi-ankaraya-gonderildi",
+      "published_date": "2026-06-03T19:00:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The 14th International Fetih Cup brought young athletes together: Minister Ersoy's emphasis on 'Türkiye century'!",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/06/03/14-uluslararasi-fetih-kupasi-genc-sporculari-bulusturdu-bakan-ersoydan-turkiye-yuzyili-vurgusu",
+      "published_date": "2026-06-03T18:55:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iranian Parliament Speaker Qalibaf's response to the world: \"The era of empty threats against Iran is over\"",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/iran-meclis-baskani-kalibaftan-dunyaya-rest-irana-yonelik-bos-tehditler-donemi-sona-erdi-7596179",
+      "published_date": "2026-06-03T18:44:42Z",
+      "category": "Local Events"
     },
     {
       "title": "Minister Gürlek announced: 140 new courts will be established!",
@@ -672,34 +700,6 @@
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/gundem/2026/06/03/son-dakika-bolu-belediyesine-irtikap-davasinda-iddianame-kabul-edildi-iste-tanju-ozcan-icin-istenen-ceza",
       "published_date": "2026-06-03T11:03:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "He killed his mother! He head-butted the taxi!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-haberi-anne-katili-taksiye-kafa-atti-bursa-haberleri-3888925",
-      "published_date": "2026-06-03T10:15:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "\"I gave 1 million TL to Özgür Özel\"",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-ozkan-yalim-in-38-olagan-kurultay-icin-ek-ifadesi-ortaya-cikti-ozgur-ozel-e-1-milyon-tl-verdim-3889014",
-      "published_date": "2026-06-03T10:09:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "AJet fleet is growing! 4 new aircraft joined in 10 days",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/ekonomi/ajet-filosu-giderek-buyuyor-10-gunde-4-yeni-ucak-daha-katildi-7595869",
-      "published_date": "2026-06-03T10:04:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "BREAKING NEWS... CHP objected to the absolute nullity decision! YSK explained the reason for the rejection",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/06/03/son-dakika-chp-mutlak-butlan-kararina-itiraz-etmisti-ysk-reddin-gerekcesini-acikladi",
-      "published_date": "2026-06-03T09:55:09Z",
       "category": "Local Events"
     }
   ]
