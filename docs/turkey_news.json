@@ -1,7 +1,35 @@
 {
   "country": "turkey",
-  "last_updated": "2026-06-14T13:06:09Z",
+  "last_updated": "2026-06-15T00:07:17Z",
   "stories": [
+    {
+      "title": "Sharing from Director of Communications Duran regarding the US-Iran peace agreement",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/06/14/iletisim-baskani-durandan-abd-iran-baris-anlasmasina-iliskin-paylasim",
+      "published_date": "2026-06-14T23:59:07Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "BREAKING NEWS I President Erdoğan's call for peace and stability: \"We will continue to contribute to permanent solutions\"",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/06/14/son-dakika-i-baskan-erdogandan-baris-ve-istikrar-cagrisi-kalici-cozumlere-katki-sunmaya-devam-edecegiz",
+      "published_date": "2026-06-14T23:27:08Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "BREAKING NEWS I Peace message from Minister Fidan: \"We welcome the agreement between the USA and Iran\"",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/06/14/son-dakika-i-bakan-fidandan-baris-mesaji-abd-ile-iran-arasindaki-mutabakati-memnuniyetle-karsiliyoruz",
+      "published_date": "2026-06-14T23:12:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The election victory of the party led by Pashinyan in Armenia has been confirmed",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/ermenistanda-pasinyanin-liderligindeki-partinin-secim-galibiyeti-kesinlesti-7603050",
+      "published_date": "2026-06-14T17:43:24Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Meta terminates $2 billion Manus deal",
       "source": "Haberturk",
@@ -45,7 +73,7 @@
       "category": "Diplomacy"
     },
     {
-      "title": "BREAKING NEWS| Iranian official announced the details of the agreement: Tehran agreed to dilute uranium",
+      "title": "BREAKING NEWS| US President Trump: US-Iran agreement signed!",
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/dunya/canli-son-dakika-abd-iran-barisi-icin-geri-sayim-olasi-anlasma-israili-endiselendirdi-tahran-yonetimi-guclenecek-7602768",
       "published_date": "2026-06-14T06:12:03Z",
@@ -73,7 +101,7 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Armed attack on KADES report: 3 seriously injured, including 1 police officer",
+      "title": "Armed attack on KADES report: 3 seriously injured, including a police officer",
       "source": "Haberturk",
       "url": "https://www.haberturk.com/mugla-da-kades-ihbarina-silahli-saldiri-1-i-polis-3-agir-yarali-3891490",
       "published_date": "2026-06-13T23:59:29Z",
@@ -115,32 +143,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iranian Foreign Ministry: Although the agreement may not happen tomorrow, it may happen in the coming days",
+      "title": "Pakistan announced that an agreement was reached between the USA and Iran",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/iran-disisleri-bakanligi-mutabakat-yarin-olmasa-da-onumuzdeki-gunlerde-olabilir-7602317",
-      "published_date": "2026-06-13T13:58:14Z",
-      "category": "Diplomacy"
+      "url": "https://www.sabah.com.tr/dunya/pakistan-abd-ve-iran-arasinda-anlasmaya-varildigini-duyurdu-7603178",
+      "published_date": "2026-06-14T21:59:21Z",
+      "category": "Military"
     },
     {
-      "title": "It fluctuated sharply as Trump said 'deal'! Oil is at its lowest level since March",
+      "title": "Minister Çiftçi addressed the Gendarmerie over the radio: You have an indelible place in the hearts of our nation.",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/ekonomi/trump-anlasma-dedikce-sert-dalgalandi-petrol-marttan-bu-yana-en-dusuk-seviyede-7602316",
-      "published_date": "2026-06-13T13:56:56Z",
-      "category": "Diplomacy"
+      "url": "https://www.sabah.com.tr/gundem/2026/06/14/bakan-ciftci-telsizden-jandarma-teskilatina-seslendi-milletimizin-gonlunde-silinmez-bir-yere-sahipsiniz",
+      "published_date": "2026-06-14T15:25:18Z",
+      "category": "Military"
     },
     {
-      "title": "Is OBP added to LGS score?",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/lgs-obp-nedir-obp-lgs-puanina-ekleniyor-mu-iste-meb-aciklamasi-ile-2026-lgs-puanina-obp-etkisi-3891367",
-      "published_date": "2026-06-13T12:58:54Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Erdoğan announced the Artificial Intelligence Action Plan",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-cumhurbaskani-erdogan-dan-aciklamalar-3891404-teknoloji",
-      "published_date": "2026-06-13T12:47:01Z",
-      "category": "Diplomacy"
+      "title": "Alarm in the US army: F/A-18 fighter plane crashed! 12 people lost their lives",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/abd-ordusunda-alarm-fa-18-savas-ucagi-dustu-7602968",
+      "published_date": "2026-06-14T14:14:17Z",
+      "category": "Military"
     },
     {
       "title": "AK Party Spokesperson Ömer Çelik's reaction to AP Akın Gürlek: We reject his targeting of Turkey with 'political bigotry'",
@@ -259,27 +280,6 @@
       "source": "Haberturk",
       "url": "https://www.haberturk.com/son-dakika-haberi-hamile-esi-ve-amcasini-oldurmustu-rastgele-katliam-siirt-haberleri-3891356",
       "published_date": "2026-06-13T12:01:40Z",
-      "category": "Military"
-    },
-    {
-      "title": "It happened 6 years ago! Military Axe murder was revealed!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-6-yil-once-olmustu-askeri-balta-cinayeti-aydinlatildi-3891378",
-      "published_date": "2026-06-13T10:05:59Z",
-      "category": "Military"
-    },
-    {
-      "title": "Operation from MIT to credit card network",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-haberi-mit-ten-kredi-karti-sebekesine-operasyon-3-gozalti-3891327",
-      "published_date": "2026-06-13T09:51:56Z",
-      "category": "Military"
-    },
-    {
-      "title": "Meteorology gave the time... Shower all over the country! 'Yellow' alert for 30 cities!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-haberi-meteoroloji-saat-verdi-tum-yurtta-saganak-30-kent-icin-sari-alarm-3891323",
-      "published_date": "2026-06-13T09:06:30Z",
       "category": "Military"
     },
     {
@@ -563,6 +563,69 @@
       "category": "Economy"
     },
     {
+      "title": "Unmanned aerial vehicle found on the beach",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/bartinda-sahilde-insansiz-hava-araci-bulundu-3891623",
+      "published_date": "2026-06-14T20:29:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Plane carrying paratroopers crashed in the USA: 12 people died",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/abdde-parasutculeri-tasiyan-ucak-dustu-12-kisi-hayatini-kaybetti-7603142",
+      "published_date": "2026-06-14T20:17:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump lashed out at Netanyahu: He has no judgment",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/trump-netanyahuya-ates-puskurdu-hicbir-muhakeme-yetenegi-yok-7603102",
+      "published_date": "2026-06-14T18:44:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bitter farewell to AFAD staff! Tears flooded: His wife hugged his coffin for the last time, the grieving father performed the funeral prayer.",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/yasam/afad-personeline-aci-veda-gozyaslari-sel-oldu-esi-tabutuna-son-kez-sarildi-cenaze-namazini-acili-baba-kildirdi-7603011",
+      "published_date": "2026-06-14T16:51:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Call from Director of Communications Duran to fight disinformation: We need to say 'stop' together",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/06/14/iletisim-baskani-durandan-dezenformasyonla-mucadele-cagrisi-hep-birlikte-dur-dememiz-gerekiyor",
+      "published_date": "2026-06-14T16:51:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "He ripped off the ear of the person who kidnapped his daughter!",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/kizini-kaciran-kisinin-kulagini-kopardi-3891553",
+      "published_date": "2026-06-14T14:40:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The dog ripped off the arm of the woman it attacked!",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/dinlenme-tesisinde-dehset-kopek-saldirdigi-kadinin-kolunu-kopardi-3891547",
+      "published_date": "2026-06-14T14:20:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Critical referendum in Switzerland: 10 million population limit rejected",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/isvicrede-kritik-referandum-10-milyon-nufus-siniri-reddedildi-7602941",
+      "published_date": "2026-06-14T13:01:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Special sergeant murdered his family: 4 dead",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/son-dakika-hakkari-de-aile-katliami-kayinpederinin-evini-basan-uzman-cavus-esi-dahil-4-kisiyi-oldurdu-3891543",
+      "published_date": "2026-06-14T12:49:07Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Palestinian groups agreed in Cairo: Joint plan presented to mediators",
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/dunya/filistinli-gruplar-kahirede-anlasti-ortak-plan-arabuluculara-sunuldu-7602933",
@@ -591,10 +654,31 @@
       "category": "Local Events"
     },
     {
+      "title": "Czech tourist died in accident",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/son-dakika-antalyada-otomobilin-carptigi-cek-turist-hayatini-kaybetti-3891580",
+      "published_date": "2026-06-14T12:18:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "They thought they were pigs and shot their relatives!",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/gelen-sesi-domuz-zannedip-akrabalarini-vurdular-1-olu-2-gozalti-3891562",
+      "published_date": "2026-06-14T12:16:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "\"It is not anyone's place to target\"",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/son-dakika-celik-saygisiz-bir-dille-hedef-gostermek-kimsenin-haddi-degildir-3891576",
+      "published_date": "2026-06-14T12:12:03Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Horror! He murdered his wife and beat his daughter!",
       "source": "Haberturk",
       "url": "https://www.haberturk.com/dehset-esini-katledip-kizini-darp-etti-3891575",
-      "published_date": "2026-06-14T11:45:36Z",
+      "published_date": "2026-06-14T11:52:27Z",
       "category": "Local Events"
     },
     {
@@ -616,90 +700,6 @@
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/yasam/antalyada-vahset-ogretmen-koca-3-cocuk-annesi-ogretmen-esini-ve-kayinpederini-oldurdu-7602884",
       "published_date": "2026-06-14T10:25:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "140-meter new bridge to the heart of Ankara",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/ekonomi/ankaranin-kalbine-140-metrelik-yeni-kopru-7602878",
-      "published_date": "2026-06-14T10:06:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Neighbor attack on disabled mother! He hit his head with a shovel!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/engelli-annesine-komsu-saldirisi-kurekle-basina-vurdu-3891533",
-      "published_date": "2026-06-14T09:47:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The last image in the double disaster!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/2-din-gorevlisinin-hayatini-kaybettigi-olayin-goruntuleri-ortaya-cikti-3891560",
-      "published_date": "2026-06-14T09:33:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The dog ripped off the arm of the woman it attacked!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/dinlenme-tesisinde-dehset-kopek-saldirdigi-kadinin-kolunu-kopardi-3891547",
-      "published_date": "2026-06-14T09:27:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sad incident in Artvin! Two imams lost their lives after they nearly drowned in the pond: Their last devastating images have emerged!",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/yasam/artvinde-aci-olay-golette-bogulma-tehlikesi-geciren-2-imam-hayatini-kaybetmisti-kahreden-son-goruntuleri-ortaya-cikti-7602858",
-      "published_date": "2026-06-14T09:09:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Which fruits and vegetables are consumed most in Istanbul?",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/istanbul-dan-en-cok-hangi-meyve-sebzeler-tuketiliyor-son-veriler-aciklandi-3891552-ekonomi",
-      "published_date": "2026-06-14T09:05:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "He ripped off the ear of the person who kidnapped his daughter!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/kizini-kaciran-kisinin-kulagini-kopardi-3891553",
-      "published_date": "2026-06-14T09:02:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Investigation against 8 people in Ayşe's death",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-ankara-haberleri-ayse-yavuz-un-olumunde-8-belediye-gorevli-hakkinda-sorusturma-izni-verildi-3891551",
-      "published_date": "2026-06-14T08:58:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Minister Kurum dived into Izmit Bay with scuba",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/bakan-kurum-izmit-korfezi-ne-tuple-daldi-3891550-ekonomi",
-      "published_date": "2026-06-14T08:54:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Special sergeant murdered his family: 4 dead",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-hakkari-de-aile-katliami-kayinpederinin-evini-basan-uzman-cavus-esi-dahil-4-kisiyi-oldurdu-3891543",
-      "published_date": "2026-06-14T08:46:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "When is Father's Day?",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/2026-babalar-gunu-babalar-gunu-ne-zaman-babalar-gunu-hangi-gun-kutlaniyor-haziranin-kacinci-pazari-babalar-gunu-babalar-gunu-nasil-ortaya-cikti-3891548",
-      "published_date": "2026-06-14T08:43:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ALS patient Mina found hope thanks to her genetic map",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/als-hastasi-mina-genetik-haritasi-sayesinde-umut-buldu-3891545",
-      "published_date": "2026-06-14T08:33:12Z",
       "category": "Local Events"
     }
   ]
