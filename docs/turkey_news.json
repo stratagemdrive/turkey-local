@@ -1,7 +1,35 @@
 {
   "country": "turkey",
-  "last_updated": "2026-06-16T16:05:54Z",
+  "last_updated": "2026-06-17T00:15:42Z",
   "stories": [
+    {
+      "title": "The partners of the massacre came together! Harsh response from Israel to Trump: \"Without us, there would be no USA\"",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/israilden-abdye-tarihi-rest-biz-olmasak-abd-olmazdi-7604497",
+      "published_date": "2026-06-16T20:17:20Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Arab press leaked it! 14-article agreement between the USA and Iran revealed",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/arap-basini-sizdirdi-abd-ile-iran-arasindaki-14-maddelik-anlasma-ortaya-cikti-7604494",
+      "published_date": "2026-06-16T20:10:55Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Killer Israel hit Lebanon despite the ceasefire: 4 people lost their lives",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/katil-israil-ateskese-ragmen-lubnani-vurdu-4-kisi-hayatini-kaybetti-7604420",
+      "published_date": "2026-06-16T18:27:54Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Bilal Erdoğan: Türkiye should walk the path with African countries",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/06/16/bilal-erdogan-turkiye-afrika-ulkeleri-ile-yol-yurumeli",
+      "published_date": "2026-06-16T17:39:51Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump threatened Iran during the deal process: If they do this, the consequences will be incredible",
       "source": "Sabah",
@@ -59,7 +87,7 @@
       "category": "Diplomacy"
     },
     {
-      "title": "The punishment requested for the murderer in the parking fight in Hatay has been determined",
+      "title": "The punishment requested for the murderer in the parking fight in Hatay has been announced",
       "source": "Haberturk",
       "url": "https://www.haberturk.com/son-dakika-hatay-da-dugun-sonrasi-cikan-otopark-kavgasinda-katile-istenen-ceza-belli-oldu-haberler-3891996",
       "published_date": "2026-06-16T09:34:56Z",
@@ -87,7 +115,7 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Breaking news | 'Election' message from MHP leader Devlet Bahçeli: Our President is on duty, we stand behind him",
+      "title": "Last minute | 'Election' message from MHP leader Devlet Bahçeli: Our President is on duty, we stand behind him",
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/gundem/2026/06/16/son-dakika-mhp-lideri-devlet-bahceliden-onemli-aciklamalar",
       "published_date": "2026-06-16T07:41:47Z",
@@ -112,34 +140,6 @@
       "source": "Haberturk",
       "url": "https://www.haberturk.com/hicri-yilbasi-mesajlari-2026-resimli-muharrem-hicri-yilbasiniz-kutlu-olsun-tikla-ucretsiz-indir-iste-feyiz-dolu-duali-yeni-farkli-kisa-hicri-yilbasi-mesajlari-3891923",
       "published_date": "2026-06-16T07:31:11Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Gradual retirement conditions",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/kademeli-emeklilik-cikacak-mi-erken-emeklilik-duzenlemesi-ne-zaman-gelecek-kademeli-emeklilik-sartlari-neler-3891850",
-      "published_date": "2026-06-16T07:28:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Celebrities' Bodrum work continues",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/unlulerin-bodrum-mesaisi-devam-ediyor-3891912-magazin",
-      "published_date": "2026-06-16T06:24:29Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Uncertainty continues in the US-Iran agreement",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/abd-iran-anlasmasinda-belirsizlik-suruyor-3891906",
-      "published_date": "2026-06-16T04:50:19Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The temperature reaches 30 degrees, rainfall decreases... Weather in our provinces",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/hava-durumu-istanbul-bugun-hava-nasil-olacak-16-haziran-mgm-hava-durumu-son-dakika-haberi-3891904",
-      "published_date": "2026-06-16T04:37:11Z",
       "category": "Diplomacy"
     },
     {
@@ -423,6 +423,20 @@
       "category": "Energy"
     },
     {
+      "title": "76 days for debtors",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/borcu-olana-76-gunluk-sure-3892062-ekonomi",
+      "published_date": "2026-06-16T21:01:38Z",
+      "category": "Economy"
+    },
+    {
+      "title": "The stock market finished the day with an increase",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/borsa-gunu-yukselisle-tamamladi-3892082-ekonomi",
+      "published_date": "2026-06-16T16:04:31Z",
+      "category": "Economy"
+    },
+    {
       "title": "Borsa Istanbul finished the day with an increase",
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/ekonomi/borsa-istanbul-gunu-yukselisle-tamamladi-7604302",
@@ -493,7 +507,7 @@
       "category": "Economy"
     },
     {
-      "title": "Competition violation fine worth billions of liras to tire giants",
+      "title": "Competition violation fine worth billions of lira to tire giants",
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/ekonomi/lastik-devlerine-milyarlarca-liralik-rekabet-ihlali-cezasi-7604092",
       "published_date": "2026-06-16T08:52:10Z",
@@ -549,18 +563,102 @@
       "category": "Economy"
     },
     {
-      "title": "How much will the pension be?",
+      "title": "8 arrests in sexual abuse case",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/emekli-maasi-son-dakika-2026-temmuz-zammi-en-dusuk-emekli-maasi-ne-kadar-olacak-emekli-maasinda-zam-orani-ne-zaman-belli-olacak-hangi-gun-3891612",
-      "published_date": "2026-06-16T07:21:46Z",
-      "category": "Economy"
+      "url": "https://www.haberturk.com/cinsel-istismar-davasinda-8-tutuklama-3892144",
+      "published_date": "2026-06-16T22:39:51Z",
+      "category": "Local Events"
     },
     {
-      "title": "Interest rates in Japan are at their highest level in 31 years",
+      "title": "Civil Administration Chiefs Appointment Decree in the Official Gazette",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/japonya-faizi-31-yilin-en-yuksek-seviyesinde-3891909-ekonomi",
-      "published_date": "2026-06-16T06:40:30Z",
-      "category": "Economy"
+      "url": "https://www.haberturk.com/mulki-idare-amirleri-atama-kararnamesi-resmi-gazete-de-3892142",
+      "published_date": "2026-06-16T22:29:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The working period of the Turkish Grand National Assembly has been extended",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/tbmm-nin-calisma-suresi-uzatildi-3892139",
+      "published_date": "2026-06-16T21:50:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Negotiations on police organization regulations have been completed",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/emniyet-teskilati-duzenlemeleri-gorusmeleri-tamamlandi-3892133",
+      "published_date": "2026-06-16T21:49:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Father who killed his son after an argument was caught",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/gaziantep-te-tartistigi-oglunu-olduren-baba-yakalandi-3892134",
+      "published_date": "2026-06-16T21:41:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "BREAKING NEWS I Decree on appointment of Civil Administrative Chiefs was published in the Official Gazette",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/06/16/son-dakika-i-mulki-idari-amirleri-atama-kararnamesi-resmi-gazetede-yayimlandi",
+      "published_date": "2026-06-16T21:28:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "BREAKING NEWS | The decision is in the Official Gazette! The Turkish Grand National Assembly will not go on recess on July 1",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/06/16/son-dakika-karar-resmi-gazetede-tbmm-1-temmuzda-tatile-girmeyecek",
+      "published_date": "2026-06-16T21:23:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gebze Public Prosecutor Ayhan uymaz passed away as a result of a heart attack during the hearing.",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/06/16/gebze-cumhuriyet-savcisi-ayhan-uyumaz-durusmada-gecirdigi-kalp-krizi-sonucu-vefat-etti",
+      "published_date": "2026-06-16T20:31:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Istanbul Governorship announced: Elections in Silivri Municipality will be held on that date",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/06/16/istanbul-valiligi-duyurdu-silivri-belediyesinde-secim-o-tarihte-yapilacak",
+      "published_date": "2026-06-16T20:02:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "\"Ankara Saraçoğlu Neighborhood\" post from Minister Kurum: It suits our capital very well",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/06/16/bakan-kurumdan-ankara-saracoglu-mahallesi-paylasimi-baskentimize-cok-yakisti",
+      "published_date": "2026-06-16T18:32:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "BREAKING NEWS | He was arrested in a corruption investigation! Silivri Mayor Bora Balcıoğlu was suspended from office",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/06/16/son-dakika-yolsuzluk-sorusturmasinda-tutuklana-siliviri-belediye-baskani-bora-balcioglu-gorevden-uzaklastirildi",
+      "published_date": "2026-06-16T17:51:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Minister Göktaş announced! \"6 million lira support was transferred for Kırşehir, which was affected by the flood\"",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/06/16/bakan-goktas-duyurdu-selden-etkilenen-kirsehir-icin-6-milyon-liralik-destek-aktarildi",
+      "published_date": "2026-06-16T16:18:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Minister Gürlek: Drug use is one of the biggest problems of today",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/06/16/bakan-gurlek-uyusturucu-madde-kullanimi-gunumuzun-en-buyuk-sorunlarindan-biri",
+      "published_date": "2026-06-16T16:17:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "A compromise was reached with the workers",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/bakanlik-duyurdu-iscilerle-uzlasma-saglandi-3892085-ekonomi",
+      "published_date": "2026-06-16T16:10:51Z",
+      "category": "Local Events"
     },
     {
       "title": "They were married for 67 years... They had 11 children... Death came 6 hours apart!",
@@ -602,104 +700,6 @@
       "source": "Haberturk",
       "url": "https://www.haberturk.com/son-dakika-haberi-adalet-bakani-akin-gurlek-ten-12-yargi-paketi-aciklamasi-3892013",
       "published_date": "2026-06-16T13:34:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Minister Göktaş: We will strengthen the service bond between our citizens abroad and our state!",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/06/16/bakan-goktas-yurt-disindaki-vatandaslarimizla-devletimiz-arasindaki-hizmet-bagini-guclendirecegiz",
-      "published_date": "2026-06-16T13:21:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "President Erdoğan received Fener Greek Patriarch Bartholomeos",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/06/16/baskan-erdogan-fener-rum-patrigi-bartholomeosu-kabul-etti",
-      "published_date": "2026-06-16T13:14:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Strait of Hormuz will open by Friday",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/ekonomi/hurmuz-bogazi-cuma-gunune-kadar-acilacak-7604234",
-      "published_date": "2026-06-16T13:07:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "6.3 magnitude earthquake in China! 1 dead, 4 injured",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/cinde-63-buyuklugunde-deprem-1-olu-4-yarali-7604214",
-      "published_date": "2026-06-16T12:30:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "China sent 'Shijian-31' satellite into space",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/cin-shijian-31-uydusunu-uzaya-gonderdi-7604205",
-      "published_date": "2026-06-16T12:23:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Breaking news | Shocking details in the operation against Silivri Municipality! CHP mayor Bora Balcıoğlu received a bribe of 450 thousand dollars",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/yasam/son-dakika-silivri-belediyesine-operasyonda-sok-detaylar-chpli-belediye-baskani-bora-balcioglu-450-bin-dolar-rusvet-almis-7604186",
-      "published_date": "2026-06-16T11:55:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Factory fire in Ankara!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-ankara-da-alci-fabrikasinda-yangin-cikti-haberler-3892020",
-      "published_date": "2026-06-16T11:43:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "$60 billion AI purchase from SpaceX",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/spacex-cursor-ainin-gelistiricisi-anyspherei-60-milyar-dolara-satin-aliyor-3892019-teknoloji",
-      "published_date": "2026-06-16T11:21:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "DEM Party received the İmralı Delegation",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-tbmm-baskani-kurtulmus-dem-parti-imrali-heyeti-ni-kabul-etti-3892001",
-      "published_date": "2026-06-16T11:18:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Its image has emerged... The punch that killed the taxi driver!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/dehset-ani-kamerada-son-dakika-haberi-goruntusu-ortaya-cikti-taksiciyi-olduren-yumruk-3891977",
-      "published_date": "2026-06-16T11:13:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "He opposed their marriage and was killed!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/evliliklerine-karsi-cikti-olduruldu-3892016",
-      "published_date": "2026-06-16T10:43:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The financial impact of cybercrime will increase by 50 percent",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/siber-suclarin-finansal-etkisi-yuzde-50-artacak-3892017-teknoloji",
-      "published_date": "2026-06-16T10:29:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mustafa was murdered with 6 bullets in Bursa! Camera footage revealed the instigator: It turns out that he called the hospital and…",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/yasam/bursada-mustafa-6-kursunla-katledilmisti-kamera-goruntuleri-azmettiricileri-ortaya-cikardi-meger-hastaneyi-arayip-7604132",
-      "published_date": "2026-06-16T10:05:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "He died in the house where he was visiting",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-haberi-misafirlige-gittigi-evde-oldu-sinop-haberleri-3892007",
-      "published_date": "2026-06-16T09:59:41Z",
       "category": "Local Events"
     }
   ]
