@@ -1,7 +1,21 @@
 {
   "country": "turkey",
-  "last_updated": "2026-06-20T12:58:57Z",
+  "last_updated": "2026-06-21T00:05:05Z",
   "stories": [
+    {
+      "title": "Critical contacts from Minister Fidan in Cairo",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/bakan-fidandan-kahirede-kritik-temaslar-7607168",
+      "published_date": "2026-06-20T19:29:11Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "New crisis between the USA and Iran! Response to Tehran: There will be no fee from the Strait of Hormuz",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/abd-ile-iran-arasinda-yeni-kriz-tahrana-yanit-hurmuz-bogazinda-trafik-akisi-suruyor-7607081",
+      "published_date": "2026-06-20T16:45:44Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Türkiye and New Zealand signed a memorandum of understanding in the field of aviation",
       "source": "Sabah",
@@ -129,30 +143,30 @@
       "category": "Diplomacy"
     },
     {
-      "title": "\"Memorandum of understanding with the USA\" meeting between Iran and Pakistan",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/iran-ve-pakistan-arasinda-abd-ile-mutabakat-gorusmesi-7606428",
-      "published_date": "2026-06-19T16:04:23Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "\"Photo\" crisis between US President Trump and Italian Prime Minister Meloni: \"We do not beg anyone\"",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/abd-baskani-trump-ile-italya-basbakani-meloni-arasinda-fotograf-krizi-biz-kimseye-yalvarmayiz-7606407",
-      "published_date": "2026-06-19T14:56:05Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "\"The world is experiencing a radical change\"",
       "source": "Haberturk",
       "url": "https://www.haberturk.com/cumhurbaskani-erdogan-dan-aciklamalar-3892995-ekonomi",
-      "published_date": "2026-06-20T11:47:31Z",
+      "published_date": "2026-06-20T15:00:17Z",
+      "category": "Military"
+    },
+    {
+      "title": "Sprayed mugging!",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/mersinde-spreyle-250-bin-dolarlik-gasp-kamerada-3893021",
+      "published_date": "2026-06-20T13:59:13Z",
       "category": "Military"
     },
     {
       "title": "Last minute | President Erdoğan: We are one of the countries that build the most warships at the same time",
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/yasam/son-dakika-baskan-erdogandan-onemli-aciklamalar-7606965",
+      "published_date": "2026-06-20T11:25:27Z",
+      "category": "Military"
+    },
+    {
+      "title": "Last minute | President Erdoğan: We are one of the countries that build the most warships at the same time",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/06/20/son-dakika-baskan-erdogan-ayni-anda-en-fazla-savas-gemisi-yapan-ulkelerden-biriyiz",
       "published_date": "2026-06-20T11:25:27Z",
       "category": "Military"
     },
@@ -266,20 +280,6 @@
       "source": "Haberturk",
       "url": "https://www.haberturk.com/survivor-finalisti-nagihan-kimdir-kac-yasinda-nereli-nagihan-karadere-meslegi-nedir-survivor-a-kac-kez-katildi-3892887",
       "published_date": "2026-06-19T21:34:39Z",
-      "category": "Military"
-    },
-    {
-      "title": "Items prohibited to be taken to YKS",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/yks-de-yasak-olan-esyalar-osym-uyardi-2026-yks-ye-girerken-cep-telefonu-para-toka-kupe-su-getirmek-yasak-mi-3892769",
-      "published_date": "2026-06-19T21:32:37Z",
-      "category": "Military"
-    },
-    {
-      "title": "Purification message from Kemal Kılıçdaroğlu: The party needs to be purified from pollution! He gave a date for the congress",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/06/19/kemal-kilicdaroglundan-arinma-mesaji-partinin-kirlilikten-arinmasi-lazim-kurultay-icin-tarih-verdi",
-      "published_date": "2026-06-19T19:10:49Z",
       "category": "Military"
     },
     {
@@ -423,7 +423,14 @@
       "category": "Energy"
     },
     {
-      "title": "A 35 minute journey becomes 10 minutes! Huge investment in valleys that were once considered 'inaccessible'",
+      "title": "\"Zero Waste for a Sustainable Future\" exhibition welcomes its visitors in Taksim",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/06/20/surdurulebilir-bir-gelecek-icin-sifir-atik-sergisi-taksimde-ziyaretcilerini-agirliyor",
+      "published_date": "2026-06-20T13:35:32Z",
+      "category": "Economy"
+    },
+    {
+      "title": "A 35 minute journey is reduced to 10 minutes! Huge investment in valleys that were once considered 'inaccessible'",
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/ekonomi/35-dakikalik-yol-10-dakikaya-dusuyor-bir-zamanlar-girilmez-denilen-sehre-dev-yatirim-7606964",
       "published_date": "2026-06-20T11:24:19Z",
@@ -444,14 +451,14 @@
       "category": "Economy"
     },
     {
-      "title": "Turkish investors' assets abroad exceeded 72 billion dollars",
+      "title": "Turkish investors' assets abroad exceeded $72 billion",
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/ekonomi/turk-yatirimcilarin-yurt-disindaki-varligi-72-milyar-dolari-asti-7606940",
       "published_date": "2026-06-20T10:09:52Z",
       "category": "Economy"
     },
     {
-      "title": "Minister Şimşek: Energy transformation is a necessity for Türkiye",
+      "title": "Energy transformation message from Minister Şimşek: It will accelerate further with 400 million euros",
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/ekonomi/bakan-simsek-enerjide-donusum-turkiye-icin-zorunluluk-7606934",
       "published_date": "2026-06-20T09:47:37Z",
@@ -556,150 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "AK Party Deputy Chairman Zeybekçi visited AK Party Afyonkarahisar Provincial Headquarters",
+      "title": "Technical failure at Erzurum Airport: The plane landed in Trabzon",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/erzurum-havalimani-nda-teknik-ariza-3893077",
+      "published_date": "2026-06-20T23:24:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "\"Trump\" instruction from Netanyahu to his ministers",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/06/19/ak-parti-genel-baskan-yardimcisi-zeybekci-ak-parti-afyonkarahisar-il-baskanligini-ziyaret-etti",
-      "published_date": "2026-06-19T08:12:35Z",
-      "category": "Economy"
-    },
-    {
-      "title": "His son took his life! Murderer son wanted!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-haberi-oglu-hayatini-aldi-katil-evlat-araniyor-diyarbakir-haberleri-3892976",
-      "published_date": "2026-06-20T11:33:14Z",
+      "url": "https://www.sabah.com.tr/dunya/netanyahudan-bakanlarina-trump-talimati-7607382",
+      "published_date": "2026-06-20T22:59:04Z",
       "category": "Local Events"
     },
     {
-      "title": "\"Shot him in the head. They won't find his body for 45 days.\" Death order for the hitman!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-haberi-erhan-karaal-icin-olum-talimati-3892978",
-      "published_date": "2026-06-20T11:32:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "He was going to take the YKS exam... Tears flooded!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-haberi-yks-sinavina-girecekti-gozyaslari-sel-oldu-gaziantep-haberleri-3892983",
-      "published_date": "2026-06-20T11:32:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The first session of YKS, TYT, has ended! There are AYT and YDT exams tomorrow",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-yks-yks-sinavi-saat-kacta-ilk-oturum-temel-yeterlilik-testi-3892969",
-      "published_date": "2026-06-20T11:30:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The water level rose and the current became stronger... Last image before death!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-haberi-su-seviyesi-yukseldi-akinti-guclendi-olmeden-son-goruntu-3892999",
-      "published_date": "2026-06-20T11:29:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Atrocity in Istanbul... He crushed his girlfriend's head with a stone! He strangled him with a rope!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-haberi-istanbul-da-vahset-sevgilisinin-basini-tasla-ezdi-iple-bogdu-3893005",
-      "published_date": "2026-06-20T11:13:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Swimming in a city was banned for 2 days",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-haberi-bir-kentte-denize-girmek-2-gun-yasaklandi-ordu-haberleri-3893001",
-      "published_date": "2026-06-20T10:36:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "They blocked the engineer's path and beat him as a family!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-haberi-muhendisin-yolunu-kesip-ailece-dovduler-kocaeli-haberleri-3892960",
-      "published_date": "2026-06-20T10:28:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Forest fire in the USA: 2 thousand hectares of land burned to ashes",
+      "title": "FIFA 2026 World Cup: Germany defeated Ivory Coast 2-1",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/abdde-orman-yangini-2-bin-hektarlik-alan-kul-oldu-7606937",
-      "published_date": "2026-06-20T09:56:43Z",
+      "url": "https://www.sabah.com.tr/dunya-kupasi/2026/06/20/fifa-2026-dunya-kupasi-almanya-fildisi-sahilini-2-1-maglup-etti",
+      "published_date": "2026-06-20T22:54:46Z",
       "category": "Local Events"
     },
     {
-      "title": "Samsun, the city of the War of Independence, hosts the Turkish Culture Road Festival for the third time.",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/yasam/milli-mucadelenin-sehri-samsun-turkiye-kultur-yolu-festivaline-ucuncu-kez-ev-sahipligi-yapiyor-7606935",
-      "published_date": "2026-06-20T09:48:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deputy chairman was announced in Silivri",
+      "title": "Attention Istanbulites! Some roads will be closed to traffic",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-haberi-silivri-de-baskan-vekili-belli-oldu-3892996",
-      "published_date": "2026-06-20T09:41:18Z",
+      "url": "https://www.haberturk.com/beyoglu-ve-sisli-de-bazi-yollar-trafige-kapatilacak-3893074",
+      "published_date": "2026-06-20T22:09:38Z",
       "category": "Local Events"
     },
     {
-      "title": "Train disaster in Germany: 2 wagons fell off the bridge",
+      "title": "Scandalous statements from Fearless author Mustafa Mutlu! He targeted children attending the Quran course by calling them \"wearing skullcaps and veils\"",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/almanyada-tren-faciasi-2-vagon-kopruden-dustu-7606931",
-      "published_date": "2026-06-20T09:38:46Z",
+      "url": "https://www.sabah.com.tr/yasam/korkusuz-yazari-mustafa-mutludan-skandal-ifadeler-kuran-kursuna-giden-cocuklari-takkeli-ortulu-diyerek-hedef-aldi-7607226",
+      "published_date": "2026-06-20T20:12:40Z",
       "category": "Local Events"
     },
     {
-      "title": "Horror in Ankara: Turkist İsmail Altunsaray was attacked by the person he had an argument with in traffic!",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/yasam/ankarada-dehset-turkucu-ismail-altunsaray-trafikte-tartistigi-kisinin-saldirisina-ugradi-7606919",
-      "published_date": "2026-06-20T09:26:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two separate attacks took place in Pakistan: 7 dead, 3 injured",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/pakistanda-iki-ayri-saldiri-duzenlendi-7-olu-3-yarali-7606908",
-      "published_date": "2026-06-20T09:05:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iranian Foreign Ministry Spokesperson Bekayi: New talks with the USA are planned in the coming days",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/iran-disisleri-bakanligi-sozcusu-bekayi-abd-ile-yeni-gorusmeler-onumuzdeki-gunlerde-planlaniyor-7606904",
-      "published_date": "2026-06-20T08:56:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Antalya, Europe's holiday favorite",
+      "title": "Condolence message for Yücel Paşmakçı",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/avrupa-nin-tatil-gozdesi-antalya-3892990-ekonomi",
-      "published_date": "2026-06-20T08:56:03Z",
+      "url": "https://www.haberturk.com/cumhurbaskani-erdogan-dan-sanatci-yucel-pasmakci-icin-bassagligi-mesaji-3893062",
+      "published_date": "2026-06-20T20:05:31Z",
       "category": "Local Events"
     },
     {
-      "title": "Last minute | 10 more critical names on the extradition list of FETO traitors that Turkey wants have been revealed! SABAH reached the details",
+      "title": "Condolence message from President Erdoğan for Yücel Paşmakçı",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/yasam/turkiyenin-istedigi-fetocu-hainlerin-iade-listesinde-10-kritik-isim-daha-desifre-oldu-balyoz-kuryesi-dink-perdeleyicisi-ve-nato-haini-7606884",
-      "published_date": "2026-06-20T08:26:00Z",
+      "url": "https://www.sabah.com.tr/gundem/2026/06/20/baskan-erdogandan-yucel-pasmakci-icin-taziye-mesaji",
+      "published_date": "2026-06-20T19:29:11Z",
       "category": "Local Events"
     },
     {
-      "title": "Tekirdağ's lavender gardens welcome their visitors",
+      "title": "They crashed into the rocks with a parachute: 2 injured",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/tekirdag-in-lavanta-bahceleri-ziyaretcilerini-agirliyor-3892981",
-      "published_date": "2026-06-20T08:25:26Z",
+      "url": "https://www.haberturk.com/catalca-da-yamac-parasutu-yapan-2-kisi-kayaliklara-carparak-yaralandi-3893055",
+      "published_date": "2026-06-20T19:12:33Z",
       "category": "Local Events"
     },
     {
-      "title": "Bild, Germany's most influential newspaper, chose: Antalya, Europe's holiday favorite",
+      "title": "Attack on Gaza Strip by Israel: 4 people lost their lives",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/yasam/almanyanin-en-etkin-gazetesi-bild-secti-avrupanin-tatil-gozdesi-antalya-7606890",
-      "published_date": "2026-06-20T08:21:53Z",
+      "url": "https://www.sabah.com.tr/dunya/israilden-gazze-seridine-saldiri-4-kisi-hayatini-kaybetti-7607170",
+      "published_date": "2026-06-20T19:04:18Z",
       "category": "Local Events"
     },
     {
-      "title": "BREAKING NEWS: Crack is growing in CHP! ABB hung a banner, Haymana Municipality removed it! Allegation of mobbing after the Minister's visit to the Institution...",
+      "title": "Scholarship defense against bribery allegations",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/seferihisar-sorusturmasinda-tutuklanan-ozlem-akyilmaz-dan-rusvet-iddialarina-burs-savunmasi-3893037",
+      "published_date": "2026-06-20T18:45:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thief hunting with 120 cameras",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/motosiklet-hirsizligi-suphelisi-120-guvenlik-kamerasi-incelenerek-yakalandi-3893050",
+      "published_date": "2026-06-20T18:42:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Astroturf field fight spread to 3 provinces",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/sanliurfada-baslayan-hali-saha-kavgasi-uc-ile-daha-yayildi-3893046",
+      "published_date": "2026-06-20T18:12:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Accident in Isparta! There are dead and injured",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/ispartada-tur-minibusu-sarampole-yuvarlandi-4-olu-5i-agir-toplam-16-yarali-3893042",
+      "published_date": "2026-06-20T17:49:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "BREAKING NEWS| Depressing news from Isparta! Tour minibus had an accident: 5 dead, 25 injured",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/06/20/son-dakika-chpde-catlak-buyuyor-abb-pankart-asti-haymana-belediyesi-kaldirdi-bakan-kurum-ziyareti-sonrasi-mobbing-iddiasi",
-      "published_date": "2026-06-20T08:07:57Z",
+      "url": "https://www.sabah.com.tr/yasam/son-dakika-ispartadan-kahreden-haber-tur-minibusu-kaza-yapti-4-olu-16-yarali-7607086",
+      "published_date": "2026-06-20T16:56:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rent by neighborhood in Istanbul",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/yeni-sezonda-21-daire-kiralarinda-ulasim-ve-bina-yasi-belirleyici-3893034-ekonomi",
+      "published_date": "2026-06-20T16:14:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Father's horror in Malatya",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/tabancayla-kizini-oldurup-esini-ve-diger-kizini-yaraladi-3893031",
+      "published_date": "2026-06-20T15:58:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "'TÜRGEV ​​has reached 7 continents'",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/cumhurbaskani-erdogan-turgev-30-yilda-devasa-bir-cinar-oldu-40-bini-askin-mezun-verdi-3893028",
+      "published_date": "2026-06-20T15:33:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "BREAKING NEWS | President Erdoğan: Strong Türkiye is at the core of TÜRGEV",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/06/20/son-dakika-turgevin-30-kurulus-yil-donumu-programi-baskan-erdogandan-onemli-aciklamalar",
+      "published_date": "2026-06-20T14:30:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "A snake fell into the baby carriage!",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/sanliurfa-da-agactan-bebek-arabasina-dusen-yilan-itfaiye-ekiplerince-cikarildi-3893023",
+      "published_date": "2026-06-20T14:17:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Message from Kurtulmuş to a terror-free Türkiye",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/kurtulmus-terorsuz-turkiye-surecinde-meclisi-isaret-etti-3893019",
+      "published_date": "2026-06-20T13:34:57Z",
       "category": "Local Events"
     }
   ]
