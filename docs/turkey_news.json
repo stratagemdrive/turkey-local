@@ -1,7 +1,63 @@
 {
   "country": "turkey",
-  "last_updated": "2026-06-26T13:19:44Z",
+  "last_updated": "2026-06-27T00:00:07Z",
   "stories": [
+    {
+      "title": "Minister Gürlek: We will continue our fight against drugs and all kinds of harmful substances with determination.",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/06/26/bakan-gurlek-uyusturucu-ve-her-turlu-zararli-maddeyle-mucadelemizi-kararlilikla-surdurecegiz",
+      "published_date": "2026-06-26T20:59:48Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Statement from Canadian Foreign Minister Anand regarding the NATO Summit in Ankara: Expectations are extremely high",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/kanada-disisleri-bakani-ananddan-ankaradaki-nato-zirvesine-iliskin-aciklama-beklenti-son-derece-yuksek-7611253",
+      "published_date": "2026-06-26T18:59:46Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "President Erdoğan attended the Marmara Anatolian Imam Hatip High School Graduation Ceremony! He presented his diploma to his grandchild",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/06/26/baskan-erdogan-marmara-anadolu-imam-hatip-lisesi-mezuniyet-torenine-katildi-torununa-diplomasini-takdim-etti",
+      "published_date": "2026-06-26T18:47:44Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Critical agreement between the USA, Israel and Lebanon! \"The first step of a long and difficult process\"",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/abd-israil-ve-lubnan-arasinda-uclu-cerceve-anlasmasi-imzalandi-7611175",
+      "published_date": "2026-06-26T18:00:24Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Condolence messages for Kadir İnanır from President Erdoğan and politicians: I learned with great sadness",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/06/26/siyasilerden-kadir-inanir-icin-pes-pese-taziye-mesajlari",
+      "published_date": "2026-06-26T17:27:50Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Minister Fidan: NATO summit in Ankara will be a historic summit",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/06/26/bakan-fidan-ankaradaki-nato-zirvesi-tarihi-bir-zirve-olacak",
+      "published_date": "2026-06-26T16:37:35Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Statement from DMM regarding the NATO Summit arrangements allegedly announced by Ankara Governorship",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/06/26/dmmden-ankara-valiligince-duyuruldugu-iddia-edilen-nato-zirvesi-duzenlemelerine-iliskin-aciklama",
+      "published_date": "2026-06-26T16:22:11Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "DMM denied the claim that \"there will be a 2-day curfew in Ankara due to the NATO Summit\"",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/06/26/dmm-nato-zirvesi-nedeniyle-ankarada-2-gun-sokaga-cikma-yasagi-uygulanacagi-iddiasini-yalanladi",
+      "published_date": "2026-06-26T14:02:58Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "It will be hosted by the Speaker of the Grand National Assembly of Turkey, Numan Kurtulmuş: 20 Speakers of Parliament are expected to attend the NATO Parliamentary Summit.",
       "source": "Sabah",
@@ -87,63 +143,56 @@
       "category": "Diplomacy"
     },
     {
-      "title": "3 people who shot a bank ATM were caught",
+      "title": "Psycho-social support to convicts and detainees",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-diyarbakir-da-banka-atm-si-ve-bazi-is-yerlerini-kursunlayan-3-kisi-yakalandi-haberler-3894291",
-      "published_date": "2026-06-26T07:15:01Z",
-      "category": "Diplomacy"
+      "url": "https://www.haberturk.com/bakan-gurlek-acikladi-hukumlu-ve-tutuklulara-psiko-sosyal-destek-3894500",
+      "published_date": "2026-06-26T21:47:22Z",
+      "category": "Military"
     },
     {
-      "title": "At what time will the report cards be given?",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/okullarda-karne-gunu-saati-meb-2026-karneler-ne-zaman-saat-kacta-verilecek-yarin-karneler-saat-kacta-alinacak-karne-gunu-tarihi-3894107",
-      "published_date": "2026-06-26T06:55:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Heavy rain, wind and temperature warnings",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-meteoroloji-den-saganak-yagmur-ruzgar-ve-sicaklik-uyarilari-son-dakika-haberleri-3894260",
-      "published_date": "2026-06-26T06:13:39Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "\"We saved our honor with this victory!\"",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/orkun-kokcu-bu-galibiyetle-onurumuzu-kurtardik-3894264-spor",
-      "published_date": "2026-06-26T05:11:29Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Don't do these bad things to your skin!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/yaza-arinmis-ve-parlak-bir-ciltle-girmek-5-adimda-mumkun-iste-cilt-temizlik-ve-bakim-rutinlerinin-puf-noktalari-3893918",
-      "published_date": "2026-06-26T05:05:56Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Say goodbye to the World Cup with victory!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/turkiye-3-abd-2-mac-sonucu-turkiye-abd-mac-sonucu-ozeti-ve-golleri-3894053-spor",
-      "published_date": "2026-06-26T04:23:08Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Minister Fidan inspected the Darlington Nuclear Facility",
+      "title": "Helping hand from Türkiye to Venezuela",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/bakan-fidan-darlington-nukleer-tesisinde-incelemelerde-bulundu-7610796",
-      "published_date": "2026-06-26T01:46:29Z",
-      "category": "Diplomacy"
+      "url": "https://www.sabah.com.tr/gundem/2026/06/26/turkiyeden-venezuelaya-yardim-eli",
+      "published_date": "2026-06-26T20:46:35Z",
+      "category": "Military"
     },
     {
-      "title": "Gradual retirement latest situation",
+      "title": "BREAKING NEWS | Explosion sounds in the Strait of Hormuz! US army announced: An air strike was carried out on Iran",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/son-dakika-hurmuz-bogazinda-patlama-sesleri-axios-abd-ordusu-irana-saldiri-duzenledi-7611307",
+      "published_date": "2026-06-26T20:36:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "US President Donald Trump: Iran violated the ceasefire 4 times",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/abd-baskani-donald-trump-iran-4-kez-ateskesi-ihlal-etti-7611126",
+      "published_date": "2026-06-26T16:05:15Z",
+      "category": "Military"
+    },
+    {
+      "title": "\"Code red\" warning in 8 regions in the Netherlands! Temperatures will exceed 40 degrees",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/hollandada-8-bolgede-kirmizi-kod-uyarisi-sicakliklar-40-dereceyi-asacak-7611110",
+      "published_date": "2026-06-26T15:28:59Z",
+      "category": "Military"
+    },
+    {
+      "title": "\"We will raise our export bar much higher\"",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/kademeli-emeklilik-cikacak-mi-ne-zaman-cikacak-erken-emeklilik-duzenlemesi-var-mi-kademeli-emeklilik-sartlari-neler-3893954",
-      "published_date": "2026-06-25T22:15:13Z",
-      "category": "Diplomacy"
+      "url": "https://www.haberturk.com/cumhurbaskani-erdogan-dan-aciklamalar-3894422-ekonomi",
+      "published_date": "2026-06-26T14:07:47Z",
+      "category": "Military"
     },
     {
-      "title": "Breaking news | Important statements from President Erdoğan",
+      "title": "Dollar hits 40-year high against yen",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/dolar-yen-karsisinda-40-yilin-en-yuksek-seviyesini-gordu-3894424-ekonomi",
+      "published_date": "2026-06-26T13:20:35Z",
+      "category": "Military"
+    },
+    {
+      "title": "Breaking news | Good news from President Erdoğan to exporters: Daily limit of rediscount loans increased to 5 billion lira",
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/gundem/2026/06/26/son-dakika-baskan-erdogandan-onemli-aciklamalar",
       "published_date": "2026-06-26T12:56:31Z",
@@ -175,13 +224,6 @@
       "source": "Haberturk",
       "url": "https://www.haberturk.com/sabanci-vakfi-ve-oecd-netfwd-is-birligiyle-kuresel-filantropi-liderleri-istanbulda-bulustu-3894351-ekonomi",
       "published_date": "2026-06-26T08:52:14Z",
-      "category": "Military"
-    },
-    {
-      "title": "Hollywood stars flocked to the match",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/turkiye-abd-macina-hollywood-yildizlari-akin-etti-3894282-magazin",
-      "published_date": "2026-06-26T08:43:56Z",
       "category": "Military"
     },
     {
@@ -241,46 +283,11 @@
       "category": "Military"
     },
     {
-      "title": "Betting operation: 37 detained",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-ankara-da-yasa-disi-bahis-operasyonu-37-gozalti-3894281",
-      "published_date": "2026-06-26T06:12:35Z",
-      "category": "Military"
-    },
-    {
-      "title": "BREAKING NEWS | Flash move from Trump for KAAN! He made a declaration for the sale of jet engines",
+      "title": "COP31's financial partner has been announced! Minister Murat Kurum announced by saying \"it will be our greatest strength\"",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/son-dakika-trumptan-kaan-icin-flas-hamle-jet-mototlarinin-satisi-icin-bildiri-yapti-7610716",
-      "published_date": "2026-06-25T22:19:59Z",
-      "category": "Military"
-    },
-    {
-      "title": "Minister Çiftçi: The Century of Türkiye will be the century of peace",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/06/25/bakan-ciftci-turkiye-yuzyili-huzurun-yuzyili-olacak",
-      "published_date": "2026-06-25T19:33:21Z",
-      "category": "Military"
-    },
-    {
-      "title": "Friday sermon topic, full text",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/cuma-hutbesi-konusu-nedir-26-haziran-2026-diyanet-ile-cuma-hutbesi-konusu-ve-tam-metni-3894212",
-      "published_date": "2026-06-25T18:01:47Z",
-      "category": "Military"
-    },
-    {
-      "title": "MSU interview schedule",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/msu-mulakat-takvimi-2026-milli-savunma-bakanligi-msu-mulakat-sinavi-ne-zaman-msu-hava-harp-okulu-ve-astsubay-myo-fiziki-yeterlilik-sinav-tarihi-3894208",
-      "published_date": "2026-06-25T17:23:56Z",
-      "category": "Military"
-    },
-    {
-      "title": "Eminevim received an award at the Brandverse Awards",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/eminevim-brandverse-awardsta-3894167-ekonomi",
-      "published_date": "2026-06-25T13:27:13Z",
-      "category": "Military"
+      "url": "https://www.sabah.com.tr/ekonomi/cop31in-finans-ortagi-belli-oldu-bakan-murat-kurum-en-buyuk-gucumuz-olacak-diyerek-duyurdu-7611080",
+      "published_date": "2026-06-26T13:48:29Z",
+      "category": "Energy"
     },
     {
       "title": "Türk Telekom shed light on children with its TahtApp application; Report card excitement with 5G was experienced simultaneously in 7 provinces",
@@ -416,11 +423,32 @@
       "category": "Energy"
     },
     {
-      "title": "Beta Energy and Technology IPO dates",
+      "title": "Support payment was made to tea producers",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/beta-enerji-ve-teknoloji-halka-arz-ne-zaman-beta-enerji-kac-lot-verir-hangi-bankalarda-var-katilim-endeksine-uygun-mu-halka-arz-fiyati-ne-kadar-3893418",
-      "published_date": "2026-06-23T22:43:01Z",
-      "category": "Energy"
+      "url": "https://www.haberturk.com/cay-ureticilerine-destek-odemesi-yapildi-3894481-ekonomi",
+      "published_date": "2026-06-26T19:10:50Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Trump's threat to Europe: Threat of 100 percent customs duty",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/trumptan-avrupaya-gozdagi-yuzde-100luk-gumruk-vergisi-tehdidi-7611168",
+      "published_date": "2026-06-26T17:40:18Z",
+      "category": "Economy"
+    },
+    {
+      "title": "The stock market finished the day with an increase",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/borsa-gunu-yukselisle-tamamladi-3894460-ekonomi",
+      "published_date": "2026-06-26T16:12:10Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Market report (Friday, June 26, 2026): Latest situation in the stock market, dollar, gold and cryptocurrencies",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/piyasa-raporu-26-haziran-2026-cuma-borsa-dolar-altin-ve-kripto-paralarda-son-durum-fai-3894450-ekonomi",
+      "published_date": "2026-06-26T15:30:00Z",
+      "category": "Economy"
     },
     {
       "title": "Inflation expectations decreased in the Eurozone",
@@ -493,13 +521,6 @@
       "category": "Economy"
     },
     {
-      "title": "June 26 gold buying-selling price",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/gram-altin-fiyati-canli-son-dakika-altinda-sert-dusus-26-haziran-2026-bugun-14-22-ayar-bilezik-tam-ceyrek-altin-ve-gram-altin-ne-kadar-3894279",
-      "published_date": "2026-06-26T08:32:37Z",
-      "category": "Economy"
-    },
-    {
       "title": "How much will the police salary be?",
       "source": "Haberturk",
       "url": "https://www.haberturk.com/polis-maasi-temmuz-hesaplamasi-zamli-polis-maaslari-ne-kadar-olacak-temmuz-zammi-ile-polis-maaslarina-ne-kadar-zam-gelecek-3894341",
@@ -542,38 +563,94 @@
       "category": "Economy"
     },
     {
-      "title": "Big raise from Apple Turkey",
+      "title": "Which roads are closed in Ankara?",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/apple-turkiyeden-buyuk-zam-mac-studioda-90-bin-tlye-varan-fiyat-artisi-3894301-teknoloji",
-      "published_date": "2026-06-26T07:07:08Z",
-      "category": "Economy"
+      "url": "https://www.haberturk.com/ankara-da-hangi-yollar-kapali-3894502",
+      "published_date": "2026-06-26T23:06:15Z",
+      "category": "Local Events"
     },
     {
-      "title": "How much will the July rent increase rate be?",
+      "title": "178 people arrested in terrorism investigation",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/temmuz-kira-zammi-2026-temmuz-ayi-kira-artis-orani-ne-kadar-olacak-kira-artis-orani-nasil-hesaplanir-3894298",
-      "published_date": "2026-06-26T07:01:54Z",
-      "category": "Economy"
+      "url": "https://www.haberturk.com/son-dakika-teror-sorusturmasinda-178-kisi-tutuklandi-3894494",
+      "published_date": "2026-06-26T22:14:47Z",
+      "category": "Local Events"
     },
     {
-      "title": "How much will the civil servant salary be?",
+      "title": "Nursery Regulation in the Official Gazette",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/en-dusuk-memur-maasi-hesaplama-2026-memur-maasi-ne-kadar-kac-lira-olacak-6-aylik-enflasyon-farki-ile-memur-maasina-yuzde-kac-zam-yapilacak-3894286",
-      "published_date": "2026-06-26T06:56:12Z",
-      "category": "Economy"
+      "url": "https://www.haberturk.com/kres-yonetmeligi-resmi-gazetede-3894498",
+      "published_date": "2026-06-26T21:37:07Z",
+      "category": "Local Events"
     },
     {
-      "title": "Decision in the case regarding the death of the Böcek family",
+      "title": "Minister Kurum announced by giving a date: Project that will reduce rents in Istanbul! Will be delivered in September",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/06/26/bakan-kurum-tarih-vererek-duyurdu-istanbulda-kiralari-dusurecek-proje",
+      "published_date": "2026-06-26T19:22:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "New development in the investigation into the kidnapping of Erhan Karaal: 10 suspects were arrested",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/06/26/erhan-karaalin-kacirilmasina-iliskin-sorusturmada-yeni-gelisme-10-supheli-tutuklandi",
+      "published_date": "2026-06-26T18:55:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Earthquake disaster in Venezuela! The number of deaths is increasing",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/venezuelada-deprem-felaketi-hayatini-kaybedenlerin-sayisi-artiyor-7611212",
+      "published_date": "2026-06-26T18:36:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Condolence message from President Erdoğan for Kadir İnanır",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/06/26/baskan-erdogandan-kadir-inanir-icin-taziye-mesaji",
+      "published_date": "2026-06-26T16:23:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Statement from Minister Uraloğlu on the Strait of Hormuz and the Persian Gulf: 15 of our ships left the region safely",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/ekonomi/bakan-uraloglundan-hurmuz-bogazi-ve-basra-korfezi-aciklamasi-15-gemimiz-guvenli-sekilde-bolgeden-ayrildi-7611114",
+      "published_date": "2026-06-26T15:37:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gültepe was re-elected as TİM president",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-bocek-ailesinin-olumune-iliskin-davada-mutalaa-aciklandi-3894334",
-      "published_date": "2026-06-26T12:48:45Z",
+      "url": "https://www.haberturk.com/tim-baskanligi-gorevine-mustafa-gultepe-yeniden-secildi-3894441-ekonomi",
+      "published_date": "2026-06-26T14:34:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Huge support for Turkish TV series with 1 billion views! Ministry of Culture and Tourism announced new conditions",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/ekonomi/1-milyar-izlenen-turk-dizilerine-dev-destek-kultur-ve-turizm-bakanligi-yeni-sartlari-acikladi-7611089",
+      "published_date": "2026-06-26T14:08:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "25th anniversary surprise for President Recep Tayyip Erdoğan in the AK Party camp: A song called 'Great President Erdoğan' was prepared",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/06/26/ak-parti-kampinda-baskan-recep-tayyip-erdogana-25inci-yil-surprizi-buyuk-baskan-erdogan-adli-sarki-hazirlandi",
+      "published_date": "2026-06-26T13:30:10Z",
       "category": "Local Events"
     },
     {
       "title": "After the trusteeship, production and shipment continue uninterrupted at DİTAŞ and PET GAZ",
       "source": "Haberturk",
       "url": "https://www.haberturk.com/tmsf-nin-gorevlendirilmesinin-ardindan-ditas-ve-pet-gazda-uretim-ve-sevkiyat-kesintisiz-suruyor-3894395-ekonomi",
-      "published_date": "2026-06-26T12:47:45Z",
+      "published_date": "2026-06-26T13:16:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Decision in the case regarding the death of the Böcek family",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/son-dakika-bocek-ailesinin-olumune-iliskin-davada-mutalaa-aciklandi-3894334",
+      "published_date": "2026-06-26T12:59:28Z",
       "category": "Local Events"
     },
     {
@@ -623,83 +700,6 @@
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/gundem/2026/06/26/baskan-erdogandan-ozel-guvenlik-gunu-ve-haftasi-mesaji",
       "published_date": "2026-06-26T11:13:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Minister Yumaklı announced: B Prescription period is starting! It will be implemented in 81 provinces on July 1",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/ekonomi/bakan-yumakli-acikladi-b-recete-donemi-basliyor-1-temmuzda-81-ilde-uygulanacak-7610990",
-      "published_date": "2026-06-26T10:19:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Report card message from President Erdoğan to students: I wish you a pleasant summer holiday",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/06/26/baskan-erdogandan-ogrencilere-karne-mesaji-keyifli-bir-yaz-tatili-diliyorum",
-      "published_date": "2026-06-26T09:55:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The scientific heritage of the Ottoman Empire has come to light! Minister Ersoy: Self-confidence in science and technology has been rebuilt",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/ekonomi/osmanlinin-bilim-mirasi-gun-yuzune-cikti-bakan-ersoy-bilim-ve-teknolojide-ozguven-yeniden-insa-edildi-7610982",
-      "published_date": "2026-06-26T09:54:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "US decision on Venezuela after the earthquake: Sanctions have been temporarily relaxed",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/abdden-deprem-sonrasi-venezuela-karari-yaptirimlar-gecici-olarak-gevsetildi-7610981",
-      "published_date": "2026-06-26T09:54:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "His son is now an adult",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/julia-roberts-21-yasindaki-ogluyla-kol-kola-3894358-magazin",
-      "published_date": "2026-06-26T09:22:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The decision has been announced in the Leyla Aydemir case, which is being heard again!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-yeniden-gorulen-leyla-aydemir-davasinda-karar-aciklandi-3894343",
-      "published_date": "2026-06-26T09:22:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reactions to Barış Atay and Bülent Emrah Parlak's scandalous show are like an avalanche: What lies behind the insidious sabotage disguised as humor?",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/yasam/baris-atay-ve-bulent-emrah-parlakin-skandal-gosterisine-tepkiler-cig-gibi-mizah-kilifiyla-sinsi-sabotajin-arkasinda-ne-yatiyor-7610959",
-      "published_date": "2026-06-26T09:14:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "When will LGS preferences start?",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/lgs-2026-lgs-sonuclari-ne-zaman-aciklanacak-lgs-tercihleri-ne-zaman-baslayacak-lgs-tercih-sayfasi-3894356",
-      "published_date": "2026-06-26T09:10:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Silver tsunami crisis in health",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/turkiye-yaslanan-nufusun-getirdigi-kronik-hastalik-tsunamisine-hazir-mi-3894352",
-      "published_date": "2026-06-26T09:07:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Incredible claim! The flats they bought were also sold to others!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/akilalmaz-iddia-satin-aldiklari-daireler-baskalarina-da-satildi-3894338",
-      "published_date": "2026-06-26T08:54:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "When will YKS results be announced?",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/yks-2026-aciklanma-tarihi-2026-tyt-ayt-ydt-universite-sinavi-sonuclari-ne-zaman-aciklanacak-yks-tercihleri-ne-zaman-yapilacak-3894344",
-      "published_date": "2026-06-26T08:52:57Z",
       "category": "Local Events"
     }
   ]
