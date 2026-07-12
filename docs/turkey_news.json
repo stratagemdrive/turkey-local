@@ -1,7 +1,42 @@
 {
   "country": "turkey",
-  "last_updated": "2026-07-12T12:07:08Z",
+  "last_updated": "2026-07-12T23:46:33Z",
   "stories": [
+    {
+      "title": "Minister Fidan will attend the Volunteers Coalition Leaders Summit!",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/07/12/bakan-fidan-gonulluler-koalisyonu-liderler-zirvesine-katilacak",
+      "published_date": "2026-07-12T21:44:17Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Condolence message from the Ministry of Foreign Affairs",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/disisleri-bakanligi-ndan-suriye-deki-feribot-kazasi-icin-taziye-mesaji-3897976",
+      "published_date": "2026-07-12T16:01:59Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Condolence message from the Ministry of Foreign Affairs for the ferry accident in Syria",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/07/12/disislerinden-suriyedeki-feribot-kazasi-icin-taziye-mesaji",
+      "published_date": "2026-07-12T15:21:56Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Minister Göktaş held contacts in Islamabad",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/bakan-goktas-islamabad-da-temaslarda-bulundu-3897967",
+      "published_date": "2026-07-12T15:10:47Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Oğuz Alper Öktem becomes a national athlete",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/ekonomi/oguz-alper-oktem-milli-sporcu-oluyor-7621075",
+      "published_date": "2026-07-12T12:39:17Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Cabinet meets tomorrow",
       "source": "Haberturk",
@@ -108,39 +143,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "New decision from Iran on the Strait of Hormuz: It will remain closed until further notice",
+      "title": "US military shot down Iranian missile and air defense systems",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/ekonomi/irandan-yeni-hurmuz-bogazi-karari-ikinci-duyuruya-kadar-kapali-kalacak-7620938",
-      "published_date": "2026-07-12T05:44:48Z",
-      "category": "Diplomacy"
+      "url": "https://www.sabah.com.tr/dunya/abd-ordusu-irana-ait-fuze-ve-hava-savunma-sistemlerini-vurdu-7621218",
+      "published_date": "2026-07-12T17:35:26Z",
+      "category": "Military"
     },
     {
-      "title": "Even the most careful eyes miss some differences!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/kartal-gozluler-bile-zorlaniyor-her-gorsel-icin-sadece-10-saniyeniz-var-bakalim-tum-farklari-bulabilecek-misiniz-3897003",
-      "published_date": "2026-07-12T05:22:49Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "F-35 panic in Greece: A national defeat",
+      "title": "Killer Israel violated the ceasefire in Gaza again: 4 Palestinians were killed in a drone attack",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/yunanistanda-f-35-panigi-ulusal-bir-yenilgi-7620903",
-      "published_date": "2026-07-12T03:19:35Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Israeli press: We were slapped by Turkey",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/israil-basini-turkiyeden-tokat-yedik-7620902",
-      "published_date": "2026-07-12T03:17:55Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "What is the plot of Uncle: A Man's Story movie?",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/dayi-bir-adamin-hikayesi-filmi-konusu-nedir-dayi-bir-adamin-hikayesi-filmi-oyunculari-kimler-3897828",
-      "published_date": "2026-07-11T21:03:23Z",
-      "category": "Diplomacy"
+      "url": "https://www.sabah.com.tr/dunya/katil-israil-gazzede-ateskesi-yine-ihlal-etti-iha-saldirisinda-4-filistinli-katledildi-7621089",
+      "published_date": "2026-07-12T13:19:41Z",
+      "category": "Military"
     },
     {
       "title": "Minister Göktaş held contacts in Islamabad",
@@ -206,7 +220,7 @@
       "category": "Military"
     },
     {
-      "title": "BREAKING NEWS| Statement from Tehran that raises tension: This is how Iran will protect Hormuz!",
+      "title": "BREAKING NEWS| The war flares up again: The US Army is bombing Iran!",
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/dunya/canli-son-dakika-abd-ve-iran-karsilikli-kritik-noktalari-hedef-aldi-saldirilar-ummana-kadar-sicradi-7620963",
       "published_date": "2026-07-12T07:00:43Z",
@@ -266,20 +280,6 @@
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/dunya/siyonist-israil-gazzede-bir-araci-hedef-aldi-1-kisi-hayatini-kaybetti-7620552",
       "published_date": "2026-07-11T14:38:21Z",
-      "category": "Military"
-    },
-    {
-      "title": "New regulation for specialist sergeants and contracted privates! Appointment, registration and employment rules have changed",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/ekonomi/uzman-erbas-ve-sozlesmeli-erlere-yeni-duzenleme-atama-sicil-ve-istihdam-kurallari-degisti-7620543",
-      "published_date": "2026-07-11T14:03:46Z",
-      "category": "Military"
-    },
-    {
-      "title": "Former Israeli Prime Minister Barak: Netanyahu will drag the country into war with Iran to postpone the elections",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/eski-israil-basbakani-barak-netanyahu-secimleri-ertelemek-icin-ulkeyi-iranla-savasa-surukleyecek-7620537",
-      "published_date": "2026-07-11T13:54:15Z",
       "category": "Military"
     },
     {
@@ -423,6 +423,13 @@
       "category": "Energy"
     },
     {
+      "title": "Minister Gürlek donated the 150 thousand liras he earned from the compensation case to the Turkish Red Crescent",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/07/12/bakan-gurlek-tazminat-davasindan-kazandigi-150-bin-lirayi-turk-kizilaya-bagisladi",
+      "published_date": "2026-07-12T17:36:29Z",
+      "category": "Economy"
+    },
+    {
       "title": "Increased pension payment days",
       "source": "Haberturk",
       "url": "https://www.haberturk.com/zamli-emekli-maasi-odeme-gunleri-tahsis-no-ya-gore-ssk-bag-kur-zamli-emekli-maaslari-ne-zaman-ve-ayin-kacinda-yatacak-3897923",
@@ -437,7 +444,7 @@
       "category": "Economy"
     },
     {
-      "title": "Intense interest in paying tax debts in installments",
+      "title": "There is great interest in the installment of tax debts. Minister Şimşek announced: The regulation is not an amnesty.",
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/ekonomi/vergi-borclarinin-taksitlendirilmesine-yogun-ilgi-7621026",
       "published_date": "2026-07-12T09:48:15Z",
@@ -556,150 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "What will be the minimum pension?",
+      "title": "Haluk Levent was detained",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/emekli-maasi-son-dakika-2026-temmuz-en-dusuk-emekli-maasi-ne-kadar-oldu-meclis-e-sunuldu-mu-3897195",
-      "published_date": "2026-07-10T21:24:59Z",
-      "category": "Economy"
+      "url": "https://www.haberturk.com/son-dakika-haluk-levent-hakkinda-yakalama-karari-cikartildi-3897951",
+      "published_date": "2026-07-12T22:47:19Z",
+      "category": "Local Events"
     },
     {
-      "title": "Iraqi Airlines will start Kirkuk-Antalya flights on July 14",
+      "title": "Mayor of Shirvan Necat Cellek passed away",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/siirt-in-sirvan-belediye-baskani-necat-cellek-vefat-etti-3898004",
+      "published_date": "2026-07-12T21:52:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "New development in the AHBAP Association investigation: Detention order for lawyer Ece Güner!",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/ekonomi/irak-hava-yollari-14-temmuzda-kerkuk-antalya-ucuslarina-basliyor-7621054",
-      "published_date": "2026-07-12T11:47:39Z",
+      "url": "https://www.sabah.com.tr/gundem/2026/07/12/ahbap-dernegi-sorusturmasinda-yeni-gelisme-avukat-ece-guner-hakkinda-gozalti-karari",
+      "published_date": "2026-07-12T21:28:49Z",
       "category": "Local Events"
     },
     {
-      "title": "He was lost on Mount Ararat! Sad news has arrived!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-agri-dagi-nda-kaybolmustu-aci-haber-geldi-3897929",
-      "published_date": "2026-07-12T11:12:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Typhoon Bavi left destruction behind: 17 people lost their lives in the Philippines",
+      "title": "Police teams searched the Istanbul office of the Friends Association",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/bavi-tayfunu-geride-yikim-birakti-filipinlerde-17-kisi-yasamini-yitirdi-7621040",
-      "published_date": "2026-07-12T11:08:41Z",
+      "url": "https://www.sabah.com.tr/yasam/polis-ekipleri-ahbap-derneginin-istanbul-ofisinde-arama-yapti-7621324",
+      "published_date": "2026-07-12T21:11:33Z",
       "category": "Local Events"
     },
     {
-      "title": "Commemorative events will be held in the Turkish Grand National Assembly",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/tbmm-de-15-temmuz-da-anma-etkinlikleri-duzenlenecek-3897927",
-      "published_date": "2026-07-12T10:36:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "They shot at the workplace: 1 dead, 1 injured",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-istanbul-haberleri-istanbul-da-bir-is-yerine-duzenlenen-silahli-saldiri-sonucu-1-kisi-hayatini-kaybetti-3897925",
-      "published_date": "2026-07-12T10:35:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Every other day fight caught on camera: 11 detained",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-sanliurfa-da-iki-grup-arasinda-bir-gun-arayla-cikan-kavga-kameralarda-6-yarali-11-gozalti-3897921",
-      "published_date": "2026-07-12T10:29:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Member of the bicycle association is an accident victim!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/bisiklet-dernegi-uyesi-kazada-yasamini-yitirdi-3897920",
-      "published_date": "2026-07-12T10:27:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "It went out of control and fell into the sea!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/kontrolden-cikti-denize-dustu-3897917",
-      "published_date": "2026-07-12T10:10:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "LGS winners have been announced: Here are those provinces!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/lgs-birincisi-kim-oldu-hangi-sehirden-cikti-meb-2026-lgs-turkiye-sampiyonu-kim-oldu-lgs-de-kac-birinci-var-3897525",
-      "published_date": "2026-07-12T09:54:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "What are the conditions for regulating vehicles without SCT for retirees?",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/emekliye-otv-siz-arac-markalari-2026-emeklilere-otv-siz-arac-sartlari-neler-otv-muafiyetli-arac-duzenlemesi-cikacak-mi-meclis-e-geldi-mi-3896396",
-      "published_date": "2026-07-12T09:54:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Articles of the 12th Judicial Package",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/12-yargi-paketi-son-dakika-12-yargi-paketi-cikti-mi-maddeleri-neler-infaz-duzenlemesi-iceriginde-af-var-mi-3897690",
-      "published_date": "2026-07-12T09:53:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "When will YKS results be announced?",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/2026-yks-sonuclari-ne-zaman-aciklanacak-tyt-ayt-ydt-aciklanma-tarihleri-belli-oldu-mu-universite-tercihleri-ne-zaman-basliyor-3897914",
-      "published_date": "2026-07-12T09:48:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mother of 5 was found dead",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-sanliurfa-da-37-yasindaki-5-cocuk-annesi-evinde-olu-bulundu-3897913",
-      "published_date": "2026-07-12T09:39:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sad accident in Afyonkarahisar! Special sergeant and his wife lost their lives: 8-month-old baby was seriously injured",
+      "title": "Haluk Levent also defrauded the holding president: 22 real estate properties worth 60 million dollars...",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/yasam/afyonkarahisarda-aci-kaza-uzman-cavus-ve-esi-hayatini-kaybetti-8-aylik-bebek-ise-agir-yarali-7621024",
-      "published_date": "2026-07-12T09:34:31Z",
+      "url": "https://www.sabah.com.tr/yasam/ahbap-dernegine-yonelik-sorusturmada-yeni-gelisme-haluk-levent-holding-baskanini-da-dolandirmis-7621303",
+      "published_date": "2026-07-12T20:16:26Z",
       "category": "Local Events"
     },
     {
-      "title": "A devastating accident! Young couple died, their baby was injured",
+      "title": "IBAN game has been revealed! It was revealed that Haluk Levent used the accounts of 3 of his employees: Million-dollar money traffic...",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/yasam/iban-oyunu-desifre-oldu-haluk-leventin-3-calisaninin-hesaplarini-kullandigi-ortaya-cikti-milyonluk-para-trafigi-7621297",
+      "published_date": "2026-07-12T19:56:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Total loss of life in Gaza increased to 73 thousand 223",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/gazzede-toplam-can-kaybi-73-bin-223e-yukseldi-7621230",
+      "published_date": "2026-07-12T17:52:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Explosion near Bandar Abbas and Qeshm Island in Iran",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/iranda-bender-abbas-ile-kesm-adasi-yakinlarinda-patlanma-7621183",
+      "published_date": "2026-07-12T17:00:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Reactions to Haluk Levent are like an avalanche! Outburst of anger from citizens: He crushed the money in gambling",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/07/12/haluk-levente-tepkiler-cig-gibi-vatandastan-ofke-patlamasi-paralari-kumarda-ezmis",
+      "published_date": "2026-07-12T16:11:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "His story made everyone cry! The woman in red lost her life",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/kirmizili-kadin-sultan-hayatini-kaybetti-3897972",
+      "published_date": "2026-07-12T15:51:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Preparation for action against Minister Gürlek's wife! 2 suspects arrested",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/07/12/bakan-gurlekin-esine-yonelik-eylem-hazirligi-2-supheli-tutuklandi",
+      "published_date": "2026-07-12T15:33:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sharing from Director of Communications Duran regarding the July 15 Bicycle Tour",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/07/12/iletisim-baskani-durandan-15-temmuz-bisiklet-turuna-iliskin-paylasim",
+      "published_date": "2026-07-12T14:57:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "They ate cherries from the branch and lost their lives!",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/tarim-ilaci-suphesi-dalindan-kiraz-yediler-hayatlarini-kaybettiler-3897962",
+      "published_date": "2026-07-12T14:41:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump's 'Hormuz' reaction to Iran: They are very bad people",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/trumptan-irana-hurmuz-tepkisi-onlar-cok-kotu-insanlar-7621103",
+      "published_date": "2026-07-12T14:24:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sad news from the industrial fire in Greece: A seriously injured person could not be saved",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/yunanistandaki-sanayi-yanginindan-aci-haber-agir-yarali-bir-kisi-kurtarilamadi-7621094",
+      "published_date": "2026-07-12T13:47:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Will organize programs abroad within the scope of July 15",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/iletisim-baskanligi-15-temmuz-kapsaminda-yurt-disinda-programlar-duzenleyecek-3897957",
+      "published_date": "2026-07-12T13:38:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bottles thrown into the grassland started a fire",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/duzce-de-otluk-alana-atilan-siseler-yangin-cikardi-3897953",
+      "published_date": "2026-07-12T13:04:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "\"We are one heart for the green homeland\"",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/son-dakika-iletisim-baskanligindan-yesil-vatan-paylasimi-her-bir-karis-icin-tek-yuregiz-3897948",
+      "published_date": "2026-07-12T12:55:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Funeral ceremony for poet Ahmet Telli",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/sair-ahmet-telli-icin-cenaze-toreni-3897943",
+      "published_date": "2026-07-12T12:35:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "A devastating accident! A family has disappeared!",
       "source": "Haberturk",
       "url": "https://www.haberturk.com/son-dakika-kahreden-kaza-genc-cift-oldu-bebekleri-yaralandi-3897911",
-      "published_date": "2026-07-12T09:31:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ministry of Justice personnel recruitment result date",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/adalet-bakanligi-personel-alimi-sonuclari-2026-aciklandi-mi-ne-zaman-aciklanacak-3897909",
-      "published_date": "2026-07-12T09:17:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "When is the last day for KPSS center assignment preferences?",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/2026-kpss-merkezi-atama-tarihi-kpss-merkezi-atama-ne-zaman-yapilacak-kadro-ve-kontenjanlar-aciklandi-mi-merkezi-atama-sorgulama-ekrani-3897908",
-      "published_date": "2026-07-12T09:14:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Condolence message from President Erdoğan to former Emir of Qatar Hamed bin Khalifa Al Thani",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/07/12/baskan-erdogandan-katar-eski-emiri-hamed-bin-halife-al-sani-icin-taziye-mesaji",
-      "published_date": "2026-07-12T09:12:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "IETT bus and ambulance collided!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-iett-otobusu-ile-ambulans-carpisti-3897895",
-      "published_date": "2026-07-12T09:07:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Blood-curdling incident in Elazığ! Violence against a 14-year-old disabled child: The grieving father rushed to the courthouse",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/yasam/elazigda-kan-donduran-olay-14-yasindaki-engelli-cocuga-siddet-acili-baba-solugu-adliyede-aldi-7621009",
-      "published_date": "2026-07-12T09:01:48Z",
+      "published_date": "2026-07-12T12:32:28Z",
       "category": "Local Events"
     }
   ]
