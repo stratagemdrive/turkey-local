@@ -1,7 +1,77 @@
 {
   "country": "turkey",
-  "last_updated": "2026-08-08T11:37:28Z",
+  "last_updated": "2026-08-08T23:22:54Z",
   "stories": [
+    {
+      "title": "Student amnesty in the Official Gazette",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/son-dakika-ogrenci-affi-resmi-gazete-de-3904313",
+      "published_date": "2026-08-08T21:44:25Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ambassador appointments in the Official Gazette",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/08/08/buyukelci-atamalari-resmi-gazetede",
+      "published_date": "2026-08-08T21:14:44Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Move number 10! The final decision belongs to Buruk",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/galatasaray-dan-10-numara-hamlesi-aleksey-batrakov-ve-rodrigo-mora-3904284-spor",
+      "published_date": "2026-08-08T20:46:28Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Fenerbahçe Lukaku'yla anlaştı!",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/fenerbahce-romelu-lukaku-yla-anlasti-napoli-nin-transferde-beklentisi-3904294-spor",
+      "published_date": "2026-08-08T19:17:15Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Minister Fidan: We are now in solidarity with the Mecca Joint Defense Agreement",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/08/08/bakan-fidandan-onemli-aciklamalar-mekke-ortak-savunma-anlasmasi",
+      "published_date": "2026-08-08T17:16:13Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Phone conversation between the USA and Azerbaijan: Thanked for peace and stability",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/abd-ve-azerbaycan-arasinda-telefon-gorusmesi-baris-ve-istikrar-icin-tesekkur-edildi-7637827",
+      "published_date": "2026-08-08T16:10:21Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Statement from Minister Bolat about the \"Mecca Defense Agreement\": it will strengthen security and stability in our region",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/ekonomi/bakan-bolattan-mekke-savunma-anlasmasi-aciklamasi-bolgemizde-guvenlik-ve-istikrari-guclendirecek-7637811",
+      "published_date": "2026-08-08T15:17:44Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iranian President Pezeshkian: Now is the best time for an agreement",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/iran-cumhurbaskani-pezeskiyan-su-an-bir-anlasma-icin-en-iyi-zaman-7637806",
+      "published_date": "2026-08-08T14:54:39Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Special video from AK Party for its 25th anniversary: ​​\"AK Party is a book on Türkiye\"",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/08/08/ak-partiden-25-kurulus-yil-donumune-ozel-video-ak-parti-bir-turkiye-kitabidir",
+      "published_date": "2026-08-08T14:33:33Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Mecca Defense Agreement message from Vice President Cevdet Yılmaz: A structure created to strengthen deterrence",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/08/08/cumhurbaskani-yardimcisi-cevdet-yilmazdan-mekke-savunma-anlasmasi-mesaji-caydiriciligi-guclendirmek-icin-olusturulmus-bir-yapi",
+      "published_date": "2026-08-08T11:36:05Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump's former lawyer became US Attorney General: Senate approved Blanche",
       "source": "Sabah",
@@ -10,7 +80,7 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Mecca Agreement message from Cevdet Yılmaz",
+      "title": "Cevdet Yılmaz'dan Mekke Anlaşması mesajı",
       "source": "Haberturk",
       "url": "https://www.haberturk.com/son-dakika-cumhurbaskani-yardimcisi-yilmaz-mekke-anlasmasi-nato-ya-veya-herhangi-bir-ittifaka-alternatif-bir-yapi-degil-3904213",
       "published_date": "2026-08-08T10:21:03Z",
@@ -21,6 +91,13 @@
       "source": "Haberturk",
       "url": "https://www.haberturk.com/son-dakika-kursad-zorlu-mekke-anlasmasi-yla-turk-dunyasinin-guney-koridoru-teminat-altina-aliniyor-3904222",
       "published_date": "2026-08-08T10:07:09Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "104 kg of drugs were seized in Kağıthane",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/kagithane-de-104-kg-uyusturucu-ele-gecirildi-3904220",
+      "published_date": "2026-08-08T10:02:22Z",
       "category": "Diplomacy"
     },
     {
@@ -66,87 +143,45 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Historical defense pact",
+      "title": "Two arrests in armed attack on dental clinic",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/08/08/tarihi-savunma-pakti",
-      "published_date": "2026-08-08T00:19:13Z",
-      "category": "Diplomacy"
+      "url": "https://www.sabah.com.tr/dunya/dis-klinigine-silahli-saldirida-iki-tutuklama-7637842",
+      "published_date": "2026-08-08T17:42:38Z",
+      "category": "Military"
     },
     {
-      "title": "New power equation from three countries",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/08/08/uc-ulkeden-yeni-guc-denklemi",
-      "published_date": "2026-08-08T00:11:29Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Akıncı hit the target with Tolun",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/08/08/akinci-tolun-ile-tam-isabet-vurdu",
-      "published_date": "2026-08-08T00:09:22Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Bahrain and Palestine welcomed the Mecca Joint Defense Agreement!",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/bahreyn-ve-filistin-mekke-ortak-savunma-anlasmasini-memnuniyetle-karsiladi-7637351",
-      "published_date": "2026-08-07T21:36:26Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "\"Secure communication network\" move from the EU: A system consisting of 348 satellites will be established",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/abden-guvenli-iletisim-agi-hamlesi-348-uyduda-olusan-sistem-kurulacak-7637314",
-      "published_date": "2026-08-07T19:54:55Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iranian Foreign Minister Araqchi calls for Muslims to unite",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/iran-disisleri-bakani-arakciden-muslumanlara-birlesme-cagrisi-7637301",
-      "published_date": "2026-08-07T19:40:39Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "DMM: “The Mecca Joint Defense Agreement does not contradict international alliance commitments”",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/08/07/dmm-mekke-ortak-savunma-anlasmasi-uluslararasi-muttefiklik-taahhutleriyle-celismemektedir",
-      "published_date": "2026-08-07T17:12:52Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Poachers red-handed in Kastamonu",
+      "title": "No weapons were found in the places he showed.",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/kastamonu-da-kacak-avcilara-sucustu-3904108",
-      "published_date": "2026-08-07T15:24:37Z",
-      "category": "Diplomacy"
+      "url": "https://www.haberturk.com/feto-uyesi-karatepenin-marmariste-gosterdigi-alanlarda-silah-bulunamadi-3904277",
+      "published_date": "2026-08-08T16:05:31Z",
+      "category": "Military"
     },
     {
-      "title": "Foreign Affairs Spokesperson Keçeli: \"Unilateral actions should be avoided\"",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/08/07/disisleri-sozcusu-keceli-tek-tarafli-tasarruflardan-kacinilmasi-gerekmektedir",
-      "published_date": "2026-08-07T15:00:51Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Statement from Saudi Arabia about the \"Mecca Defense Agreement\": It contributes to the security of the region and the world",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/suudi-arabistandan-mekke-savunma-anlasmasi-aciklamasi-bolgenin-ve-dunyanin-guvenligine-katki-sagliyor-7637160",
-      "published_date": "2026-08-07T14:42:09Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The lawyer who shot his colleague was arrested",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/tartistigi-meslektasini-tabancayla-yaralayan-avukat-tutuklandi-3904096",
-      "published_date": "2026-08-07T14:33:39Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran: Hormuz will be opened if US accepts conditions",
+      "title": "Iran: Hormuz will be opened if the US accepts the conditions",
       "source": "Haberturk",
       "url": "https://www.haberturk.com/iran-devrim-muhafizlari-ordusu-hurmuz-bogazi-nin-acilmasi-abd-nin-iran-in-sartlarini-kabul-etmesine-bagli-3904228",
-      "published_date": "2026-08-08T10:52:24Z",
+      "published_date": "2026-08-08T15:34:27Z",
+      "category": "Military"
+    },
+    {
+      "title": "Support from OIC to the 'Mecca Defense Agreement': A strategic step for regional security",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/iitden-mekke-savunma-anlasmasina-destek-bolgesel-guvenlik-icin-stratejik-bir-adim-7637774",
+      "published_date": "2026-08-08T13:20:58Z",
+      "category": "Military"
+    },
+    {
+      "title": "UAE: Iran targeted one of our ships in Hormuz",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/bae-iran-in-hurmuz-bogazi-nda-bir-gemisini-fuzeyle-hedef-aldigini-duyurdu-3904249",
+      "published_date": "2026-08-08T13:01:38Z",
+      "category": "Military"
+    },
+    {
+      "title": "from the Battle of Gallipoli",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/plajda-canakkale-savasi-ndan-muhimmat-bulundu-3904236",
+      "published_date": "2026-08-08T12:20:56Z",
       "category": "Military"
     },
     {
@@ -171,6 +206,13 @@
       "category": "Military"
     },
     {
+      "title": "Armed attack in the hospital garden!",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/son-dakika-haberi-sanliurfa-da-hastane-bahcesinde-silahli-saldiri-1-i-cocuk-2-yarali-3904204",
+      "published_date": "2026-08-08T08:56:43Z",
+      "category": "Military"
+    },
+    {
       "title": "Shocking messages from the drug and prostitution operation in Ankara: I can't sleep with all this cocaine...",
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/yasam/baskentte-dugmeye-basildi-uyusturucu-ve-fuhus-operasyonunda-yeni-detaylar-ortaya-cikti-7637632",
@@ -185,7 +227,7 @@
       "category": "Military"
     },
     {
-      "title": "Threat to 3 families! 10 detentions, 2 arrests",
+      "title": "3 aileye tehdit! 10 gözaltı, 2 tutuklama",
       "source": "Haberturk",
       "url": "https://www.haberturk.com/rojin-kabais-hiranur-nilgun-aygar-ve-kivanc-uman-in-ailelerini-hedef-alam-siber-zorbalara-operasyon-3904169",
       "published_date": "2026-08-08T06:28:04Z",
@@ -241,46 +283,32 @@
       "category": "Military"
     },
     {
-      "title": "Surprising defense: Yakup was my brother",
+      "title": "Is there a discount on diesel?",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/cinayet-zanlisi-ifadesinde-oldurdugu-iddia-edilen-kisiyle-ilgili-yakup-abi-benim-abimdi-dedi-3904124",
-      "published_date": "2026-08-07T16:44:37Z",
-      "category": "Military"
+      "url": "https://www.haberturk.com/motorine-indirim-mi-geliyor-mazota-ne-kadar-indirim-gelecek-4-agustos-2026-istanbul-izmir-ankara-akaryakit-fiyatlari-3903358",
+      "published_date": "2026-08-08T21:08:59Z",
+      "category": "Energy"
     },
     {
-      "title": "Haluk Görgün announced: 10 billion dollars of export to 185 countries! The rate of localization in the defense industry is increasing...",
+      "title": "Sanctions hit Gazprom: European warehouses are at the lowest level in history!",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/08/07/haluk-gorgun-duyurdu-185-ulkeye-10-milyar-dolar-ihracat-savunma-sanayide-yerlilik-orani-artiyor",
-      "published_date": "2026-08-07T16:36:52Z",
-      "category": "Military"
+      "url": "https://www.sabah.com.tr/dunya/yaptirimlar-gazpromu-vurdu-avrupa-depolari-tarihin-en-dusuk-seviyesinde-7637822",
+      "published_date": "2026-08-08T15:57:22Z",
+      "category": "Energy"
     },
     {
-      "title": "Italian government announced: Schengen application for Spain will continue",
+      "title": "Iraq's oil exports halved",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/italya-hukumeti-duyurdu-ispanyaya-yonelik-schengen-uygulamasi-devam-edecek-7637202",
-      "published_date": "2026-08-07T16:31:08Z",
-      "category": "Military"
+      "url": "https://www.sabah.com.tr/ekonomi/irakin-petrol-ihracati-yari-yariya-dustu-7637769",
+      "published_date": "2026-08-08T13:13:27Z",
+      "category": "Energy"
     },
     {
-      "title": "253 kilos of drugs in Hakkari",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/iha-takibiyle-duzenlenen-jandarma-operasyonunda-253-kilogram-uyusturucu-ele-gecirildi-3904107",
-      "published_date": "2026-08-07T15:16:12Z",
-      "category": "Military"
-    },
-    {
-      "title": "The excitement of the first stage of the Drone Championship is in Şırnak",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/teknofest-drone-sampiyonasinda-ilk-etap-heyecani-sirnakta-3904095-teknoloji",
-      "published_date": "2026-08-07T14:38:36Z",
-      "category": "Military"
-    },
-    {
-      "title": "Blow to poison dealers from the Ministry of Internal Affairs!",
+      "title": "Two scenarios awaiting oil prices! 3 giant institutions announced their predictions",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/08/07/icisleri-bakanligindan-zehir-tacirlerine-darbe",
-      "published_date": "2026-08-07T14:21:52Z",
-      "category": "Military"
+      "url": "https://www.sabah.com.tr/ekonomi/petrol-fiyatlarini-bekleyen-iki-senaryo-3-dev-kurum-tahminlerini-acikladi-7637765",
+      "published_date": "2026-08-08T13:09:08Z",
+      "category": "Energy"
     },
     {
       "title": "Storm nightmare in Brazil: Strong winds claimed lives",
@@ -315,13 +343,6 @@
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/ekonomi/epdkdan-akaryakit-devi-icin-kritik-karar-benzin-ve-motorinde-tarife-degisti-7637618",
       "published_date": "2026-08-08T07:08:37Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Is there a discount on diesel?",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/motorine-indirim-mi-geliyor-mazota-ne-kadar-indirim-gelecek-4-agustos-2026-istanbul-izmir-ankara-akaryakit-fiyatlari-3903358",
-      "published_date": "2026-08-08T07:02:06Z",
       "category": "Energy"
     },
     {
@@ -402,25 +423,32 @@
       "category": "Energy"
     },
     {
-      "title": "New development at Akkuyu NPP: Ready for the next commissioning phase",
+      "title": "6.5 million TL support from KOSGEB to entrepreneurs! Minister Kacır announced the deadline for application",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/ekonomi/akkuyu-ngsde-yeni-gelisme-bir-sonraki-devreye-alma-asamasina-hazir-7636370",
-      "published_date": "2026-08-06T09:50:27Z",
-      "category": "Energy"
+      "url": "https://www.sabah.com.tr/ekonomi/kosgebden-girisimcilere-65-milyon-tl-destek-bakan-kacir-basvuru-icin-son-tarihi-acikladi-7637750",
+      "published_date": "2026-08-08T12:51:31Z",
+      "category": "Economy"
     },
     {
-      "title": "Minister Bayraktar announced: Terror-free Türkiye's energy success! Oil production in Gabar broke a record",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/ekonomi/bakan-bayraktar-acikladi-terorsuz-turkiyenin-enerji-basarisi-gabarda-petrol-uretimi-rekor-kirdi-7636318",
-      "published_date": "2026-08-06T08:12:47Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Mexican phenomenon was killed on live broadcast!",
+      "title": "US inflation data is being monitored",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/meksikali-tiktok-fenomeni-canli-yayinda-olduruldu-3903673",
-      "published_date": "2026-08-06T04:51:59Z",
-      "category": "Energy"
+      "url": "https://www.haberturk.com/kuresel-piyasalarda-gozler-abd-nin-enflasyon-verisinde-3904246-ekonomi",
+      "published_date": "2026-08-08T12:50:35Z",
+      "category": "Economy"
+    },
+    {
+      "title": "6.5 million lira support for COP31 focused initiatives",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/bakan-kacir-cop31-odakli-hizlandirma-destegi-cagrisini-acikladi-3904243-ekonomi",
+      "published_date": "2026-08-08T12:33:13Z",
+      "category": "Economy"
+    },
+    {
+      "title": "74.8 billion lira lifeline for tradesmen",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/esnaf-ve-sanatkara-bu-yilin-ilk-yarisinda-yaklasik-75-milyar-lira-finansman-3904233-ekonomi",
+      "published_date": "2026-08-08T12:16:05Z",
+      "category": "Economy"
     },
     {
       "title": "Approximately 75 billion lira financing for tradesmen",
@@ -535,171 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "Minister Şimşek visited Mardin!",
+      "title": "Antalya'da orman yangını",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/antalya-da-orman-yangini-3904321",
+      "published_date": "2026-08-08T22:41:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "6 thousand 250 staff for the General Directorate of Security",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/emniyet-genel-mudurlugune-6-bin-250-kadro-3904318",
+      "published_date": "2026-08-08T22:05:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Turhan Çömez hakkında soruşturma",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/turhan-comez-hakkinda-sorusturma-3904310",
+      "published_date": "2026-08-08T21:23:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ankara Chief Public Prosecutor's Office launched an investigation against Turhan Çömez",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/08/07/bakan-simsek-mardinde-ziyaretlerde-bulundu",
-      "published_date": "2026-08-07T15:32:05Z",
-      "category": "Economy"
+      "url": "https://www.sabah.com.tr/gundem/2026/08/08/ankara-cumhuriyet-bassavciligi-turhan-comez-hakkinda-sorusturma-baslatti",
+      "published_date": "2026-08-08T21:10:44Z",
+      "category": "Local Events"
     },
     {
-      "title": "A new era in agriculture with B-RECIPE!",
+      "title": "Increased cigarette price list",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/zamli-sigara-fiyatlari-listesi-pes-pese-zam-6-agustos-sigara-fiyati-ne-kadar-oldu-guncel-sigara-fiyatlari-listesi-ile-en-ucuz-ve-en-pahali-sigara-ne-kadar-3903748",
+      "published_date": "2026-08-08T21:06:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Who joined the main roster of MasterChef?",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/masterchef-kim-kazandi-7-agustos-2026-masterchef-ana-kadroya-kim-girdi-19-yarismaci-kim-oldu-3904129",
+      "published_date": "2026-08-08T21:06:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Will there be vehicles without SCT for retirees?",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/emekliye-otvsiz-arac-marka-ve-modelleri-2026-emeklilere-otvsiz-arac-cikacak-mi-sartlari-neler-3903737",
+      "published_date": "2026-08-08T21:05:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pension difference payment date",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/emekli-zam-farki-sgk-odeme-takvimi-2026-emekli-maas-farklari-ne-zaman-yatacak-en-dusuk-emekli-maasi-zam-farklari-yatti-mi-3904141",
+      "published_date": "2026-08-08T21:05:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Farewell to the Giants League from Fenerbahçe!",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/fenerbahce-arsavev-den-sampiyonlar-ligi-ne-veda-3904309-spor",
+      "published_date": "2026-08-08T21:00:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cansever passed away",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/cansever-hayatini-kaybetti-3904304-magazin",
+      "published_date": "2026-08-08T20:48:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sharing from Minister Göktaş regarding the law containing regulations regarding children dragged into crime",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/ekonomi/b-recete-ile-tarimda-yeni-donem-7637161",
-      "published_date": "2026-08-07T14:43:36Z",
-      "category": "Economy"
+      "url": "https://www.sabah.com.tr/gundem/2026/08/08/bakan-goktastan-suca-suruklenen-cocuklarla-ilgili-duzenlemeleri-iceren-yasaya-iliskin-paylasim",
+      "published_date": "2026-08-08T20:32:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "New regulation for savings finance companies",
+      "title": "Unpleasant rehearsal from Galatasaray!",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/tasarruf-finansman-sirketlerine-yeni-duzenleme-3904092-ekonomi",
-      "published_date": "2026-08-07T14:35:26Z",
-      "category": "Economy"
+      "url": "https://www.haberturk.com/galatasaray-villarreal-maci-ozeti-ve-golleri-galatasaray-villarreal-mac-sonucu-3904303-spor",
+      "published_date": "2026-08-08T20:22:52Z",
+      "category": "Local Events"
     },
     {
-      "title": "Employment in the USA is below expectations",
+      "title": "Number Ten results have been announced",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/abd-de-tarim-disi-istihdam-temmuzda-beklentilerin-aksine-geriledi-3904089-ekonomi",
-      "published_date": "2026-08-07T14:10:33Z",
-      "category": "Economy"
+      "url": "https://www.haberturk.com/son-dakika-on-numara-sonuclari-aciklandi-7-agustos-2026-on-numara-cekilis-sonucu-sorgulama-ekrani-3904113",
+      "published_date": "2026-08-08T19:37:06Z",
+      "category": "Local Events"
     },
     {
-      "title": "It will decrease from 7 hours to 1 hour and 45 minutes! A date has been given for YHT to reach Istanbul and Ankara",
+      "title": "BEDAŞ announced the district-by-district deduction program",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/istanbul-genelinde-9-saate-varan-elektrik-kesintisi-yasanacak-8-agustos-cumartesi-iste-ilce-ilce-kesinti-listesi-3904116",
+      "published_date": "2026-08-08T19:36:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The pitch was chaotic in the Villarreal match!",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/galatasaray-villarreal-macinda-gerginlik-osimhen-ve-mourino-3904302-spor",
+      "published_date": "2026-08-08T19:31:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The fire in Başakşehir was extinguished before it got bigger",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/basaksehirde-demirci-dukkaninda-cikan-yangin-itfaiye-ekiplerince-kisa-surede-sonduruldu-3904296",
+      "published_date": "2026-08-08T19:04:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The impact of forest fires is increasing in Canada: Nearly 20 thousand people have been evacuated!",
       "source": "Sabah",
-      "url": "https://haber.sabah.com.tr/7-saatten-1-saat-45-dakikaya-dusecek-istanbul-ve-ankaraya-ulasacak-yht-icin-tarih-verildi-7637704",
-      "published_date": "2026-08-08T11:02:41Z",
+      "url": "https://www.sabah.com.tr/dunya/kanadada-orman-yanginlari-etkisini-artiyor-20-bine-yakin-kisi-tahliye-edildi-7637901",
+      "published_date": "2026-08-08T19:03:55Z",
       "category": "Local Events"
     },
     {
-      "title": "Typhoon Dolphin changed course to China: Alarm was issued in 6 regions",
+      "title": "Hatay is rising again",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/bakan-kurum-guzel-hatay-yeniden-ayaga-kalkiyor-sehir-guclenerek-buyuyor-3904295",
+      "published_date": "2026-08-08T18:58:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Minister Uraloğlu's busy work! A News team accompanied the Minister of Transport and Infrastructure on a day",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/dolphin-tayfunu-rotasini-cine-cevirdi-6-bolgede-alarm-verildi-7637702",
-      "published_date": "2026-08-08T10:57:03Z",
+      "url": "https://www.sabah.com.tr/gundem/2026/08/08/bakan-uraloglunun-yogun-mesaisi-a-haber-ekibi-ulastirma-ve-altyapi-bakaninin-bir-gunune-eslik-etti",
+      "published_date": "2026-08-08T18:41:06Z",
       "category": "Local Events"
     },
     {
-      "title": "Collapse in drinking water tunnel: 1 dead, 1 injured",
+      "title": "Gold medal goes to Russian Gromadskii!",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/icme-suyu-tunelinde-gocuk-1-olu-1-yarali-3904229",
-      "published_date": "2026-08-08T10:47:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The time between Ankara and Kayseri will be reduced to 1 hour and 45 minutes.",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/ulastirma-ve-altyapi-bakani-abdulkadir-uraloglu-ankara-kayseri-arasi-seyahat-suresini-7-saatten-1-saat-45-dakikaya-dusurecegiz-3904223-ekonomi",
-      "published_date": "2026-08-08T10:42:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "How to watch the legendary horror series?",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/sinemanin-en-buyuk-korku-evreni-annabelle-den-valak-a-uzanan-korku-agi-conjuring-filmleri-hangi-sirayla-izlenmeli-3901674",
-      "published_date": "2026-08-08T10:22:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "104 kg of drugs were seized in Kağıthane",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/kagithane-de-104-kg-uyusturucu-ele-gecirildi-3904220",
-      "published_date": "2026-08-08T10:02:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "US Senate confirms Todd Blanche to the Department of Justice",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/abd-senatosu-todd-blanche-in-adalet-bakani-olmasina-onay-verdi-3904219",
-      "published_date": "2026-08-08T09:54:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The couple of 30 years passed away on the same day",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/30-yillik-cift-ayni-gun-vefat-etti-3904217",
-      "published_date": "2026-08-08T09:48:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Special center for cats in the capital",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/baskent-te-kedilere-ozel-merkez-3904209",
-      "published_date": "2026-08-08T09:12:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Ministry stepped in!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-haberi-bakanlik-devreye-girdi-adiyamanli-dogan-ailesi-icin-aile-danismanligi-sureci-basladi-3904207",
-      "published_date": "2026-08-08T09:07:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "İlke Özyüksel Mihrioğlu European Champion",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/spor/tum-sporlar/2026/08/08/ilke-ozyuksel-mihrioglu-avrupa-sampiyonu",
-      "published_date": "2026-08-08T08:59:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armed attack in the hospital garden!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-haberi-sanliurfa-da-hastane-bahcesinde-silahli-saldiri-1-i-cocuk-2-yarali-3904204",
-      "published_date": "2026-08-08T08:56:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puppies that could not leave the nest were brought to the sea",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/yuvadan-cikamayan-yavrular-denizle-bulusturuldu-3904202",
-      "published_date": "2026-08-08T08:33:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Minister Gürlek announced! 2 unsolved perpetrators were brought to light",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-bakan-gurlek-duyurdu-2-faili-mechul-aydinlatildi-3904193",
-      "published_date": "2026-08-08T08:29:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "It was never easy for them to get into the table!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/kimi-zehirli-sanildi-kimi-hastalikla-suclandi-bugun-sofralardan-eksik-olmayan-10-yiyecegin-sasirtici-gecmisi-3901941",
-      "published_date": "2026-08-08T08:07:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Who you will marry may be hidden in the mirror!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/kiminle-evleneceginizi-merak-ediyorsaniz-aynaya-bakin-milyonlarca-cift-incelendi-meger-ask-sandigimiz-kadar-tesadufi-degilmis-3902481",
-      "published_date": "2026-08-08T08:07:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The eyes see, but the brain does not recognize: One in every 50 people is alive!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/annesini-esini-hatta-kendi-yuzunu-bile-taniyamayan-insanlar-var-sorun-ne-gozlerde-ne-de-hafizada-beynin-en-ilginc-rahatsizliklarindan-biri-prosopagnosia-3903021",
-      "published_date": "2026-08-08T08:07:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "How were teeth cleaned in the Middle Ages?",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/dis-fircasi-da-macun-da-yoktu-yine-de-curuk-sanildigi-kadar-yaygin-degildi-peki-orta-cagda-insanlar-dislerini-nasil-temizliyordu-3902364",
-      "published_date": "2026-08-08T08:07:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Accident in Afyonkarahisar: 1 dead, 15 injured",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/afyonkarahisar-da-kaza-1-olu-15-yarali-3904196",
-      "published_date": "2026-08-08T07:58:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Minister of Justice Akın Gürlek announced! The murders of Damlanur Sarihan and Yunus Emre Yakar remain unsolved.",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/08/08/adalet-bakani-akin-gurlek-acikladi-damlanur-sarihan-ile-yunus-emre-yakar-cinayeti-faili-mechul-kalmadi",
-      "published_date": "2026-08-08T07:54:16Z",
+      "url": "https://www.haberturk.com/2026-avrupa-modern-pentatlon-sampiyonasi-nda-altin-madalya-egor-gromadskii-nin-3904290-spor",
+      "published_date": "2026-08-08T18:21:20Z",
       "category": "Local Events"
     }
   ]
