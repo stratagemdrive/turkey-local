@@ -1,47 +1,68 @@
 {
   "country": "turkey",
-  "last_updated": "2026-09-04T14:57:02Z",
+  "last_updated": "2026-09-05T00:32:39Z",
   "stories": [
     {
-      "title": "Funeral ceremony for Zehra Önen",
+      "title": "Kademeli emeklilik son durum",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/zehra-onen-icin-cenaze-toreni-3910326",
-      "published_date": "2026-09-04T14:42:34Z",
+      "url": "https://www.haberturk.com/bilgi/foto/kademeli-emeklilik-tablosu-2026-kademeli-emeklilik-cikacak-mi-meclis-e-geldi-mi-erken-emeklilik-sartlari-nelerdir-3910352",
+      "published_date": "2026-09-04T23:02:14Z",
       "category": "Diplomacy"
     },
     {
-      "title": "'Illegal panel system' investigation! Detention decision for 31 lawyers!",
+      "title": "Atama kararları Resmi Gazete'de!",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/son-dakika-yasa-disi-panel-sistemi-sorusturmasi-31-avukat-hakkinda-gozalti-karari-3910221",
-      "published_date": "2026-09-04T14:16:56Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Seasonally adjusted CPI increased in August",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/ekonomi/mevsim-etkilerinden-arindirilmis-tufe-agustosta-artti-7654411",
-      "published_date": "2026-09-04T13:46:12Z",
+      "url": "https://www.haberturk.com/bilgi/foto/atama-kararlari-resmi-gazete-de-iste-5-eylul-cumartesi-resmi-gazete-kararlari-3910394",
+      "published_date": "2026-09-04T22:51:02Z",
       "category": "Diplomacy"
     },
     {
       "title": "This Sea Will Overflow When is the 2nd season?",
       "source": "Haberturk",
       "url": "https://www.haberturk.com/bilgi/foto/tasacak-bu-deniz-2-sezon-ne-zaman-baslayacak-tasacak-bu-deniz-yeni-sezon-tarihi-belli-oldu-mu-3910004",
-      "published_date": "2026-09-04T12:31:42Z",
+      "published_date": "2026-09-04T21:10:14Z",
       "category": "Diplomacy"
     },
     {
-      "title": "10 critical health checks for kids",
+      "title": "Meloni'ye tebrik mesajı",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/saglik/okul-oncesi-donemde-10-kritik-saglik-kontrolu-3910272",
-      "published_date": "2026-09-04T11:21:54Z",
+      "url": "https://www.haberturk.com/dunya/cumhurbaskani-erdogan-italya-basbakani-meloninin-basarisini-kutladi-3910339",
+      "published_date": "2026-09-04T16:24:10Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Frightening accident in Karahantepe! He fell from a height!",
+      "title": "Başkan Erdoğan’dan, İtalya Başbakanı Meloni’ye tebrik",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/09/04/baskan-erdogandan-italya-basbakani-meloniye-tebrik",
+      "published_date": "2026-09-04T16:19:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Anadolu'nun dört bir yanından 89 kulüp, tek bir heyecan! Nesine 2. ve 3. Lig maçları Tivibu’da",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/yasam/anadolunun-dort-bir-yanindan-89-kulup-tek-bir-heyecan-nesine-2-ve-3-lig-maclari-tivibuda-7654451",
+      "published_date": "2026-09-04T15:04:38Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The best of nightlife has been revealed!",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/son-dakika-karahantepe-kazi-baskani-prof-dr-karul-yuksekten-dusup-yaralandi-3910275",
-      "published_date": "2026-09-04T11:09:14Z",
+      "url": "https://www.haberturk.com/bilgi/foto/dunyanin-en-iyi-gece-hayati-sehirleri-aciklandi-johannesburg-amsterdam-ve-madrid-i-geride-birakti-3910292",
+      "published_date": "2026-09-04T12:29:42Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kremlin Sözcüsü Peskov: Ukrayna'daki her türlü askeri tesis bizim için meşru hedef",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/kremlin-sozcusu-peskov-ukraynadaki-her-turlu-askeri-tesis-bizim-icin-mesru-hedef-7654359",
+      "published_date": "2026-09-04T12:13:35Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Doktoru hakkında tutuklama talebi",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/gundem/arif-ahmet-denizolgun-un-olumune-iliskin-gozaltina-alinan-doktoru-adliyede-3910207",
+      "published_date": "2026-09-04T11:51:18Z",
       "category": "Diplomacy"
     },
     {
@@ -59,10 +80,10 @@
       "category": "Diplomacy"
     },
     {
-      "title": "\"Historical turning point announced to the world\"",
+      "title": "Gülşah miyom ameliyatında hayatını kaybetmişti... Ölüm nedeni belli oldu!",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/son-dakika-haberler-yeni-parti-genel-baskani-ozgur-ozel-den-sivas-kongresi-nin-107-nci-yili-mesaji-3910252",
-      "published_date": "2026-09-04T09:34:32Z",
+      "url": "https://www.haberturk.com/gundem/son-dakika-haberler-gulsah-miyom-ameliyatinda-hayatini-kaybetmisti-olum-nedeni-belli-oldu-antalya-haberleri-3910248",
+      "published_date": "2026-09-04T09:41:17Z",
       "category": "Diplomacy"
     },
     {
@@ -80,27 +101,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Ireland tops in paid digital broadcast subscriptions",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/ucretli-dijital-yayin-aboneliginde-irlanda-zirvede-3910230",
-      "published_date": "2026-09-04T08:41:44Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "BREAKING NEWS! Minister Gürlek announced: 'panel system' operation in Istanbul! Detention order for 31 lawyers",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/09/04/son-dakika-bakan-gurlek-duyurdu-istanbulda-panel-sistemi-operasyonu-31-avukat-hakkinda-gozalti-karari",
-      "published_date": "2026-09-04T08:07:23Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "A first in the White House after 50 years! Trump hosted Hasidic Jews",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/beyaz-sarayda-50-yil-sonra-bir-ilk-trump-hasidik-yahudileri-agirladi-7654233",
-      "published_date": "2026-09-04T07:53:05Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Halkbank, üçüncü halka arz için yatırımcılarla buluştu",
       "source": "Haberturk",
       "url": "https://www.haberturk.com/ekonomi/halkbank-ucuncu-halka-arz-icin-yatirimcilarla-bulustu-3910213",
@@ -108,10 +108,17 @@
       "category": "Diplomacy"
     },
     {
-      "title": "El Nino could shake the global economy",
+      "title": "El Nino küresel ekonomiyi sarsabilir",
       "source": "Haberturk",
       "url": "https://www.haberturk.com/son-dakika-haberi-el-nino-nun-guclenmesiyle-2027-ye-kadar-asiri-hava-olaylari-riski-artiyor-3910169",
       "published_date": "2026-09-04T05:12:54Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Thiago hortumdan kalan parçalarla traktör yaptı",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/14-yasindaki-thiago-hortumdan-kalan-parcalarla-traktor-yapti-istedigi-hediye-sasirtti-3910133",
+      "published_date": "2026-09-03T22:49:04Z",
       "category": "Diplomacy"
     },
     {
@@ -136,38 +143,10 @@
       "category": "Diplomacy"
     },
     {
-      "title": "İBB Davası’nda 2 kişiye tahliye kararı",
+      "title": "Bakan Güler: Tarihi adım",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/ibb-davasinda-2-kisiye-tahliye-karari-3910102",
-      "published_date": "2026-09-03T17:42:37Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "What Happened Today? September 4, 2026 news",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/video/haber/izle/bugun-ne-oldu-4-eylul-2026-haberleri-marmaradaki-kazada-geminin-yeri-tespit-edildi-31-avukat-hakkinda-gozalti-karari-melih-gokcek-ifade-verdi-deniz-goktasa-iddianame/917487",
-      "published_date": "2026-09-04T14:46:21Z",
-      "category": "Military"
-    },
-    {
-      "title": "4 yeni suç örgütüne operasyon: 42 gözaltı",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/son-dakika-4-yeni-nesil-suc-orgutune-operasyon-32-kisi-yakalandi-3910314",
-      "published_date": "2026-09-04T13:54:04Z",
-      "category": "Military"
-    },
-    {
-      "title": "Minister Gürlek announced: \"We will not allow the new generation of criminal organizations!\"",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/09/04/bakan-gurlek-duyurdu-yeni-nesil-suc-orgutlerine-gecit-vermeyecegiz",
-      "published_date": "2026-09-04T13:46:32Z",
-      "category": "Military"
-    },
-    {
-      "title": "Kremlin Spokesperson Peskov: Any military facility in Ukraine is a legitimate target for us",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/kremlin-sozcusu-peskov-ukraynadaki-her-turlu-askeri-tesis-bizim-icin-mesru-hedef-7654359",
-      "published_date": "2026-09-04T12:13:35Z",
+      "url": "https://www.haberturk.com/gundem/bakan-guler-mekke-anlasmasi-ni-tarihi-bir-adim-olarak-goruyoruz-3910373",
+      "published_date": "2026-09-04T19:42:49Z",
       "category": "Military"
     },
     {
@@ -178,13 +157,6 @@
       "category": "Military"
     },
     {
-      "title": "Did the USA extend the deployment period of troops to Iran?",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/dunya/abd-iran-a-asker-konuslandirma-suresini-uzatti-mi-3910284",
-      "published_date": "2026-09-04T11:53:42Z",
-      "category": "Military"
-    },
-    {
       "title": "10 kişiyi katletmişti! Okul saldırısı davası başladı!",
       "source": "Haberturk",
       "url": "https://www.haberturk.com/gundem/son-dakika-gelismesi-10-kisiyi-katletmisti-okul-saldirisi-davasi-basliyor-3910198",
@@ -192,45 +164,24 @@
       "category": "Military"
     },
     {
-      "title": "Last Minute | The location of the ship that sank in Marmara has been determined! Ministry of National Defense announced: Work continues",
+      "title": "Bakan Bayraktar açıkladı: Türkiye’nin enerji yol haritası belli oluyor! Elektrikleşme ve nükleer enerji öne çıkıyor",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/ekonomi/bakan-bayraktar-acikladi-turkiyenin-enerji-yol-haritasi-belli-oluyor-elektriklesme-ve-nukleer-enerji-one-cikiyor-7654335",
+      "published_date": "2026-09-04T11:50:45Z",
+      "category": "Military"
+    },
+    {
+      "title": "Son Dakika | Marmara'da batan geminin yeri tespit edildi! MSB açıkladı: Çalışmalar devam ediyor",
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/gundem/2026/09/04/son-dakika-marmarada-batan-geminin-yeri-tespit-edildi",
       "published_date": "2026-09-04T11:11:18Z",
       "category": "Military"
     },
     {
-      "title": "\"US youth should fight with Iran in return for their debts\"",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/dunya/israil-gazetesinde-abd-li-gencler-borclarina-karsilik-iran-ile-savassin-onerisi-3910257",
-      "published_date": "2026-09-04T10:02:55Z",
-      "category": "Military"
-    },
-    {
-      "title": "Arrest warrant decision for Vice President Duterte in the Philippines!",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/filipinlerde-devlet-baskan-yardimcisi-duterte-icin-tutuklama-emri-karari-7654304",
-      "published_date": "2026-09-04T09:54:11Z",
-      "category": "Military"
-    },
-    {
-      "title": "'Sivas Congress is a historical turning point!'",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/son-dakika-cumhurbaskani-erdogandan-sivas-kongresinin-107nci-yil-donumunde-mesaj-3910237",
-      "published_date": "2026-09-04T09:01:37Z",
-      "category": "Military"
-    },
-    {
-      "title": "New appointment from Trump! US Army Secretary Adam Telle appointed",
+      "title": "Trump’tan yeni atama! ABD Kara Kuvvetleri Sekreteri Adam Telle oldu",
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/dunya/trumptan-yeni-atama-abd-kara-kuvvetleri-sekreteri-adam-telle-oldu-7654211",
       "published_date": "2026-09-04T07:10:32Z",
-      "category": "Military"
-    },
-    {
-      "title": "Heavy rain warning for these areas",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-haberi-meteoroloji-den-bu-bolgelere-saganak-yagmur-uyarisi-4-eylul-hava-durumu-3910159",
-      "published_date": "2026-09-04T04:29:15Z",
       "category": "Military"
     },
     {
@@ -283,24 +234,17 @@
       "category": "Military"
     },
     {
+      "title": "Ömür Akkor was the guest of Masterchef",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/bilgi/foto/sef-omur-akkor-masterchef-in-konugu-oluyor-omur-akkor-kimdir-kac-yasinda-nereli-nerelerde-calisti-3910358",
+      "published_date": "2026-09-04T19:19:58Z",
+      "category": "Energy"
+    },
+    {
       "title": "Toxic gas leak in Nigeria during oil theft attempt: 43 dead",
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/dunya/nijeryada-petrol-hirsizligi-girisiminde-zehirli-gaz-sizintisi-43-olu-7654386",
       "published_date": "2026-09-04T13:07:23Z",
-      "category": "Energy"
-    },
-    {
-      "title": "IEA President Fatih Birol: The age of electricity has begun, cheap electricity is the key to competition in energy",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/ekonomi/iea-baskani-fatih-birol-elektrik-cagi-basladi-enerjide-rekabetin-anahtari-ucuz-elektrik-7654340",
-      "published_date": "2026-09-04T11:58:05Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Minister Bayraktar announced: Turkey's energy road map is becoming clear! Electrification and nuclear energy come to the fore",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/ekonomi/bakan-bayraktar-acikladi-turkiyenin-enerji-yol-haritasi-belli-oluyor-elektriklesme-ve-nukleer-enerji-one-cikiyor-7654335",
-      "published_date": "2026-09-04T11:50:45Z",
       "category": "Energy"
     },
     {
@@ -318,10 +262,10 @@
       "category": "Energy"
     },
     {
-      "title": "Age is advancing but fitness is getting younger",
+      "title": "Servis sürücüsü silahlı saldırıda öldü",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/geriatri-uzmani-bugunun-70-yasindakisi-20-yil-onceki-60-lik-kadar-dinc-3910144",
-      "published_date": "2026-09-03T22:15:47Z",
+      "url": "https://www.haberturk.com/arnavutkoy-de-servis-surucusu-silahli-saldirida-oldu-3910156",
+      "published_date": "2026-09-04T03:37:22Z",
       "category": "Energy"
     },
     {
@@ -336,13 +280,6 @@
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/ekonomi/cevdet-yilmazdan-enflasyon-degerlendirmesi-7653608",
       "published_date": "2026-09-03T08:58:09Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Kıbrıs’tan Girit’e denizaltından elektrik kablosu döşenmesi projesinde kritik viraj",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/ekonomi/kibristan-girite-denizaltindan-elektrik-kablosu-dosenmesi-projesinde-kritik-viraj-3909957",
-      "published_date": "2026-09-03T07:51:23Z",
       "category": "Energy"
     },
     {
@@ -423,28 +360,21 @@
       "category": "Energy"
     },
     {
-      "title": "Türkiye ranked 6th in the world in services trade: Exports reached 124.9 billion dollars",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/ekonomi/turkiye-hizmetler-ticaretinde-dunya-6ncisi-oldu-ihracat-1249-milyar-dolara-ulasti-7654395",
-      "published_date": "2026-09-04T13:27:33Z",
+      "title": "My First Home mortgage loan application calendar",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/bilgi/foto/120-faizli-ilk-evim-konut-kredisi-basvurulari-ne-zaman-baslayacak-120-faizli-ilk-evim-konut-kredisi-sartlari-neler-3909844",
+      "published_date": "2026-09-04T21:18:09Z",
       "category": "Economy"
     },
     {
-      "title": "Ministry of Commerce announced: Service exports broke the record",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/ekonomi/ticaret-bakanligi-acikladi-hizmet-ihracati-rekor-tazeledi-7654375",
-      "published_date": "2026-09-04T12:45:11Z",
-      "category": "Economy"
-    },
-    {
-      "title": "BREAKING NEWS | Economists' interest rate expectations have become clear: Will the CBRT cut rates?",
+      "title": "SON DAKİKA | Ekonomistlerin faiz beklentisi belli oldu: TCMB indirime gidecek mi?",
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/ekonomi/son-dakika-ekonomistlerin-faiz-beklentisi-belli-oldu-tcmb-indirime-gidecek-mi-7654347",
       "published_date": "2026-09-04T12:03:43Z",
       "category": "Economy"
     },
     {
-      "title": "Minister Göktaş announced: 6.4 billion lira resources were transferred to Istanbul for home care assistance.",
+      "title": "Bakan Göktaş açıkladı: İstanbul’a evde bakım yardımı için 6,4 milyar lira kaynak aktarıldı",
       "source": "Sabah",
       "url": "https://www.sabah.com.tr/ekonomi/bakan-goktas-acikladi-istanbula-evde-bakim-yardimi-icin-64-milyar-lira-kaynak-aktarildi-7654324",
       "published_date": "2026-09-04T11:34:42Z",
@@ -472,7 +402,7 @@
       "category": "Economy"
     },
     {
-      "title": "When will the Central Bank interest rate decision be announced?",
+      "title": "Merkez Bankası faiz kararı ne zaman açıklanacak?",
       "source": "Haberturk",
       "url": "https://www.haberturk.com/merkez-bankasi-faiz-karari-ne-zaman-aciklanacak-tcmb-merkez-bankasi-faiz-karari-beklentisi-ne-yonde-dusecek-mi-yukselecek-mi-3910138",
       "published_date": "2026-09-04T03:23:39Z",
@@ -483,20 +413,6 @@
       "source": "Haberturk",
       "url": "https://www.haberturk.com/120-faizli-ilk-evim-konut-kredisi-basvurulari-ne-zaman-baslayacak-120-faizli-ilk-evim-konut-kredisi-sartlari-neler-3909844",
       "published_date": "2026-09-03T21:25:24Z",
-      "category": "Economy"
-    },
-    {
-      "title": "September rent increase rate has been announced",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/eylul-ayi-kira-artis-orani-belli-oluyor-2026-eylul-kira-zammi-ne-kadar-olacak-yuzde-kac-tuik-tufe-verileri-ile-evis-yeri-kira-artis-orani-hesaplama-3909905",
-      "published_date": "2026-09-03T21:12:54Z",
-      "category": "Economy"
-    },
-    {
-      "title": "When will the Fed interest rate decision be announced?",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/fed-faiz-karari-ne-zaman-aciklanacak-fed-faiz-karari-ne-olacak-faizler-dusecek-mi-sabit-mi-kalacak-yukselecek-mi-3910096",
-      "published_date": "2026-09-03T21:06:55Z",
       "category": "Economy"
     },
     {
@@ -563,143 +479,150 @@
       "category": "Economy"
     },
     {
-      "title": "Funeral ceremony for Fatma Zehra Önen! President Erdoğan also attended",
+      "title": "Engelli ve eski hükümlülerin projelerine 161,5 milyon lira destek",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/ekonomi/engelli-ve-eski-hukumlulerin-projelerine-161-5-milyon-lira-destek-3909907",
+      "published_date": "2026-09-03T05:42:01Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Kahramanmaraş'taki okul saldırısı davasında tutuklu anneye tahliye kararı",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/gundem/kahramanmaras-taki-okul-saldirisi-davasinda-tutuklu-anneye-tahliye-karari-3910398",
+      "published_date": "2026-09-05T00:14:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "KYK dormitory results are awaited!",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/bilgi/foto/kyk-yurt-sonuclari-sorgulama-ekrani-2026-2027-kyk-yurt-basvuru-sonuclari-aciklandi-mi-ne-zaman-aciklanacak-gsb-yurt-sorgulama-nasil-yapilir-3910211",
+      "published_date": "2026-09-04T23:03:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "What time is the Türkiye - Serbia match?",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/bilgi/foto/turkiye-sirbistan-maci-ne-zaman-saat-kacta-cev-kadinlar-avrupa-voleybol-sampiyonasi-filenin-sultanlari-yari-final-voleybol-maci-hangi-kanalda-3910112",
+      "published_date": "2026-09-04T23:03:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rize'de otomobil devrildi: 2 ölü, 1 yaralı",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/gundem/rize-de-otomobil-devrildi-2-olu-1-yarali-3910396",
+      "published_date": "2026-09-04T22:57:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Boğulma tehlikesi geçiren iş insanı hayatını kaybetti",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/gundem/bogulma-tehlikesi-geciren-is-insani-hayatini-kaybetti-3910395",
+      "published_date": "2026-09-04T22:55:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Okullar ne zaman açılacak?",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/bilgi/foto/okullar-ne-zaman-acilacak-2026-2027-meb-egitim-ogretim-yili-ne-zaman-baslayacak-yaz-tatili-ne-zaman-bitecek-3910361",
+      "published_date": "2026-09-04T22:40:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Müftü atamaları Resmi Gazete'de",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/gundem/muftu-atamalari-resmi-gazete-de-3910393",
+      "published_date": "2026-09-04T22:37:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Resmi Gazete'de yayımlandı: Kamu kurumlarında kritik atamalar",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/yasam/fatma-zehra-onen-icin-cenaze-toreni-baskan-erdogan-da-katildi-7654440",
-      "published_date": "2026-09-04T14:29:16Z",
+      "url": "https://www.sabah.com.tr/gundem/2026/09/04/resmi-gazetede-yayimlandi-kamu-kurumlarinda-kritik-atamalar",
+      "published_date": "2026-09-04T22:19:32Z",
       "category": "Local Events"
     },
     {
-      "title": "Melih Gökçek will testify",
+      "title": "Firari İrfan Yılmaz hakkında yakalama kararı",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/son-dakika-haberler-eski-ankara-buyuksehir-belediye-baskani-ibrahim-melih-gokcek-ifade-verecek-3910304",
-      "published_date": "2026-09-04T14:15:35Z",
+      "url": "https://www.haberturk.com/gundem/firari-irfan-yilmaz-hakkinda-yakalama-karari-3910391",
+      "published_date": "2026-09-04T21:38:54Z",
       "category": "Local Events"
     },
     {
-      "title": "The indictment prepared against Deniz Göktaş was accepted",
+      "title": "When is the Fenerbahçe-Beşiktaş match?",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/son-dakika-deniz-goktas-a-iddianame-hazirlandi-3910262",
-      "published_date": "2026-09-04T14:08:27Z",
+      "url": "https://www.haberturk.com/bilgi/foto/fenerbahce-besiktas-derbi-tarihi-ve-saati-fenerbahce-besiktas-maci-ne-zaman-saat-kacta-hangi-kanalda-muhtemel-11ler-3910233",
+      "published_date": "2026-09-04T21:37:40Z",
       "category": "Local Events"
     },
     {
-      "title": "Terror-free Türkiye message from Minister of Internal Affairs Mustafa Çiftçi: We will be free from a 50-year shackle",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/09/04/icisleri-bakani-mustafa-ciftciden-terorsuz-turkiye-mesaji-50-yillik-bir-prangadan-kurtulacagiz",
-      "published_date": "2026-09-04T13:53:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "\"Dünü asla unutmadık ve unutmayacağız\"",
+      "title": "MasterChef dokunulmazlık oyununu kim kazandı?",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/spor/yuksel-yildirim-dunu-asla-unutmadik-ve-unutmayacagiz-3910309",
-      "published_date": "2026-09-04T13:52:19Z",
+      "url": "https://www.haberturk.com/bilgi/foto/masterchef-dokunulmazlik-oyunu-kim-kazandi-4-eylul-2026-masterchef-eleme-adayi-kim-oldu-bireysel-dokunulmazligi-kim-aldi-3910363",
+      "published_date": "2026-09-04T21:29:53Z",
       "category": "Local Events"
     },
     {
-      "title": "Minister Uraloğlu announced: Historical Gediz Bridge was restored and put into service again",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/ekonomi/bakan-uraloglu-acikladi-tarihi-gediz-koprusu-restore-edilerek-yeniden-hizmete-acildi-7654417",
-      "published_date": "2026-09-04T13:50:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "“Tüketicilerin beklenti ve ihtiyaçlarına yanıt veren yenilikçi çözümler sunuyoruz”",
+      "title": "The \"summer transfer window\" in football is over!",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/ekonomi/ragip-balcioglu-tuketicilerin-beklenti-ve-ihtiyaclarina-yanit-veren-yenilikci-cozumler-sunuyoruz-3910313",
-      "published_date": "2026-09-04T13:50:11Z",
+      "url": "https://www.haberturk.com/spor/futbolda-yaz-transfer-donemi-sona-erdi-3910390",
+      "published_date": "2026-09-04T21:24:24Z",
       "category": "Local Events"
     },
     {
-      "title": "Mustafa Hekimoğlu transferi iptal!",
+      "title": "Zeynep Sönmez, ABD Açık'ta çiftlerde ikinci turda!",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/spor/samsunspor-un-mustafa-erhan-hekimoglu-transferi-iptal-oldu-3910303",
-      "published_date": "2026-09-04T13:48:16Z",
+      "url": "https://www.haberturk.com/spor/zeynep-sonmez-abd-acik-ta-ciftlerde-ikinci-tura-yukseldi-3910389",
+      "published_date": "2026-09-04T21:22:25Z",
       "category": "Local Events"
     },
     {
-      "title": "Call from İnce to CHP and YENİ Party",
+      "title": "Sayıştay Başsavcılığına yeni atama",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/son-dakika-haberler-muharrem-ince-den-chp-ve-yeni-parti-ye-cagri-3910301",
-      "published_date": "2026-09-04T13:44:45Z",
+      "url": "https://www.haberturk.com/gundem/sayistay-bassavciligina-yeni-atama-3910388",
+      "published_date": "2026-09-04T21:21:31Z",
       "category": "Local Events"
     },
     {
-      "title": "Nuri Aslan's father passed away",
+      "title": "Bakan Göktaş'tan 'doğum izni' paylaşımı",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/ibb-baskan-vekili-nuri-aslanin-babasi-muharrem-aslan-hayatini-kaybetti-3910311",
-      "published_date": "2026-09-04T13:43:17Z",
+      "url": "https://www.haberturk.com/gundem/bakan-goktas-tan-dogum-izni-paylasimi-3910387",
+      "published_date": "2026-09-04T21:18:42Z",
       "category": "Local Events"
     },
     {
-      "title": "Fugitive FETO convict was caught in Sivas",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/09/04/sivasta-firari-feto-hukumlusu-yakalandi",
-      "published_date": "2026-09-04T13:40:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The statement of the captain at the helm in the accident off the coast of Silivri was revealed!",
+      "title": "On which day will the Türkiye semi-final match be played?",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/son-dakika-silivri-aciklarindaki-kazada-dumendeki-kaptanin-ifadesi-ortaya-cikti-3910308",
-      "published_date": "2026-09-04T13:34:13Z",
+      "url": "https://www.haberturk.com/bilgi/foto/filenin-sultanlari-yari-finalde-rakibi-kim-oldu-turkiye-yari-final-maci-hangi-gun-oynanacak-3910078",
+      "published_date": "2026-09-04T21:17:56Z",
       "category": "Local Events"
     },
     {
-      "title": "Sadık Can Köksal's drug test is positive",
+      "title": "When will TOKİ Istanbul housing application start?",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/son-dakika-sadik-can-koksalin-uyusturucu-testi-pozitif-cikti-3910305",
-      "published_date": "2026-09-04T13:23:06Z",
+      "url": "https://www.haberturk.com/bilgi/foto/toki-kiralik-konut-basvurusu-ne-zaman-nasil-basvuru-yapilir-2026-toki-istanbul-15-bin-kiralik-konut-sartlari-neler-3910346",
+      "published_date": "2026-09-04T21:16:41Z",
       "category": "Local Events"
     },
     {
-      "title": "BREAKING NEWS... Çankaya Municipality's former Private Secretary Sadık Can Köksal's drug test was positive!",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/09/04/son-dakika-cankaya-belediyesi-eski-ozel-kalem-muduru-sadik-can-koksalin-uyusturucu-testi-pozitif-cikti",
-      "published_date": "2026-09-04T13:10:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Head of Communications Burhanettin Duran: The future of the Turkish world will be shaped by the inspiration we draw from our deep-rooted heritage.",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/09/04/iletisim-baskani-burhanettin-duran-turk-dunyasinin-gelecegi-koklu-mirasimizdan-aldigimiz-ilhamla-sekillenecek",
-      "published_date": "2026-09-04T12:56:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Super Lotto results September 3, 2026",
+      "title": "What is the plot of the movie Hunting Time?",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/bilgi/foto/super-loto-sonuclari-aciklandi-mi-3-eylul-mpi-super-loto-cekilis-sonuclari-bilet-sorgulama-ekrani-3910086",
-      "published_date": "2026-09-04T12:53:45Z",
+      "url": "https://www.haberturk.com/bilgi/foto/tv-de-ilk-kez-av-zamani-filmi-konusu-nedir-oyunculari-kimler-av-zamani-ne-zaman-cekildi-3910334",
+      "published_date": "2026-09-04T21:12:09Z",
       "category": "Local Events"
     },
     {
-      "title": "Kırmızı halıdan kovuldu",
+      "title": "Number Ten results",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/magazin/foto/nina-dobrev-venedik-film-festivali-kirmizi-halisindan-kovuldu-3910287",
-      "published_date": "2026-09-04T12:51:46Z",
+      "url": "https://www.haberturk.com/bilgi/foto/on-numara-sonuclari-aciklandi-mi-mpi-4-eylul-2026-on-numara-cekilis-sonucu-sorgulama-ekrani-3910340",
+      "published_date": "2026-09-04T21:11:40Z",
       "category": "Local Events"
     },
     {
       "title": "Have the class determination draw results been announced?",
       "source": "Haberturk",
       "url": "https://www.haberturk.com/bilgi/foto/sinif-belirleme-kura-sonuclari-sorgulama-2026-2027-meb-1-sinif-ve-5-sinif-sube-belirleme-kura-cekimi-ne-zaman-yapilacak-kura-sonuclari-nereden-ogrenilir-3909688",
-      "published_date": "2026-09-04T12:51:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ayrıntılar ortaya çıktı... Teröristle çatışma kamerada!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/son-dakika-haberi-istanbul-da-deas-li-teroristle-catisma-ani-kamerada-3910193",
-      "published_date": "2026-09-04T12:49:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "BREAKING NEWS | 'Missing lifeboat' detail in the ship disaster in Silivri: A hopeful claim from the crew's family!",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/yasam/son-dakika-silivrideki-gemi-faciasinda-kayip-filika-detayi-murettebatin-ailesinden-umutlandiran-iddia-7654377",
-      "published_date": "2026-09-04T12:49:49Z",
+      "published_date": "2026-09-04T21:08:00Z",
       "category": "Local Events"
     }
   ]
