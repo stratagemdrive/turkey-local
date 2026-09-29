@@ -1,7 +1,49 @@
 {
   "country": "turkey",
-  "last_updated": "2026-09-28T18:36:01Z",
+  "last_updated": "2026-09-29T02:29:19Z",
   "stories": [
+    {
+      "title": "Kayıp olta balıkçısı denizde ölü bulundu",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/gundem/ordu-da-kayip-olta-balikcisi-denizde-olu-bulundu-3915760",
+      "published_date": "2026-09-28T22:57:10Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Yoğun köpük analizi tamamlandı",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/gundem/yogun-kopuk-analizi-tamamlandi-3915758",
+      "published_date": "2026-09-28T22:38:43Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "BUDO'nun 8 seferi iptal edildi",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/gundem/budo-nun-8-seferi-iptal-edildi-3915753",
+      "published_date": "2026-09-28T22:13:18Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Barbara Palvin anne oldu",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/magazin/foto/barbara-palvin-ve-dylan-sprouse-bebeklerine-kavustu-3915748",
+      "published_date": "2026-09-28T22:11:25Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "La Casa De Papel’in sesi Cecilia Krull İzmir'de",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/kultur-sanat/la-casa-de-papelin-sesi-cecilia-krull-izmir-de-3915697",
+      "published_date": "2026-09-28T21:04:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "HT Spor'un konuğu Serdal Adalı!",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/spor/ht-spor-un-konugu-besiktas-baskani-serdal-adali-3915556",
+      "published_date": "2026-09-28T20:58:26Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Eski çadırları yeni gibi ihale ettiler!",
       "source": "Haberturk",
@@ -101,46 +143,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Esenyurt Belediyesi'nden hasta nakil hizmeti",
+      "title": "İmamoğlu davasında 88. duruşma",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/esenyurt-belediyesi-nden-hasta-nakil-hizmeti-3915634",
-      "published_date": "2026-09-28T11:44:33Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Gazze'deki yıkım uydu görüntülerine yansıdı",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/dunya/gazze-deki-yikim-uydu-goruntulerine-yansidi-3915619",
-      "published_date": "2026-09-28T11:15:18Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Stres oyuncağı elinde patladı! Yanık ve kızarık oldu",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/saglik/son-dakika-haberi-11-yasindaki-furkan-in-elini-patlayan-stres-topu-yakti-suc-duyurusu-3915624",
-      "published_date": "2026-09-28T11:00:38Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Szoboszlai'den Galatasaray övgüsü!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/spor/dominik-szoboszlai-den-galatasaray-ovgusu-3915602",
-      "published_date": "2026-09-28T10:48:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Süreç kurulundan yazılı açıklama",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/son-dakika-milli-dayanisma-ve-butunlesme-koordinasyon-kurulu-toplandi-3915546",
-      "published_date": "2026-09-28T10:44:46Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Tezgahlar o balıkla dolup taşıyor... Tanesi 100 TL",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/ekonomi/tezgahlar-o-balikla-dolup-tasiyor-tanesi-100-tl-7669466",
-      "published_date": "2026-09-28T09:52:39Z",
-      "category": "Diplomacy"
+      "url": "https://www.haberturk.com/gundem/imamoglu-davasinda-88-durusma-goruldu-3915750",
+      "published_date": "2026-09-28T22:46:06Z",
+      "category": "Military"
     },
     {
       "title": "Cumhurbaşkanı Erdoğan: Hak yiyenleri asla savunmayız",
@@ -273,13 +280,6 @@
       "source": "Haberturk",
       "url": "https://www.haberturk.com/magazin/foto/selim-bayraktar-dan-serhat-kilic-aciklamasi-doktora-goturecektim-3915163",
       "published_date": "2026-09-26T05:33:35Z",
-      "category": "Military"
-    },
-    {
-      "title": "\"Ukrayna Patriot füzelerinin üretimi için lisans alacak\"",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/dunya/ukrayna-ya-patriot-fuzeleri-konusunda-olumlu-haber-3915161",
-      "published_date": "2026-09-25T18:18:50Z",
       "category": "Military"
     },
     {
@@ -563,143 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "Markel Starks Karşıyaka'da!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/spor/markel-starks-karsiyaka-da-3915722",
-      "published_date": "2026-09-28T18:18:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "\"Duygularımdan bahsettim\"",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/magazin/foto/birce-akalay-duygularimdan-bahsettim-3915717",
-      "published_date": "2026-09-28T18:16:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ünlü oyuncu Prag'a taşınıyor",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/magazin/foto/asli-enver-ve-berkin-gokbudak-prag-a-tasiniyor-3915710",
-      "published_date": "2026-09-28T18:04:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bakan Çiftçi'den Terörsüz Türkiye açıklaması",
+      "title": "Papa 14. Leo'dan yapay zeka uyarısı",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/09/28/bakan-ciftciden-terorsuz-turkiye-aciklamasi",
-      "published_date": "2026-09-28T17:56:27Z",
+      "url": "https://www.sabah.com.tr/dunya/papa-14-leodan-yapay-zeka-uyarisi-7669897",
+      "published_date": "2026-09-29T02:12:06Z",
       "category": "Local Events"
     },
     {
-      "title": "Bursa'da ilk 11'ler belli oldu!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/spor/turkiye-italya-milli-maci-canli-son-dakika-muhtemel-11-ler-belli-oldu-turkiye-italya-maci-saat-kacta-3915527",
-      "published_date": "2026-09-28T17:54:55Z",
+      "title": "Eş-Şebab'a ağır darbe: 70'ten fazla üyesi öldürüldü",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/es-sebaba-agir-darbe-70ten-fazla-uyesi-olduruldu-7669894",
+      "published_date": "2026-09-29T01:29:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Anadolu Efes Real Madrid maçı ne zaman?",
+      "title": "Arkadaş tartışması kanlı bitti: 1 ölü",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/bilgi/foto/anadolu-efes-real-madrid-maci-ne-zaman-anadolu-efes-real-madrid-maci-hangi-kanalda-ve-saat-kacta-canli-yayinlanacak-3915719",
-      "published_date": "2026-09-28T17:53:39Z",
+      "url": "https://www.haberturk.com/gundem/gaziantep-te-arkadaslarin-tartismasi-kanli-bitti-1-olu-3915763",
+      "published_date": "2026-09-29T00:08:22Z",
       "category": "Local Events"
     },
     {
-      "title": "Özel, kriz masası toplantısı yapacak",
+      "title": "Pancar makinesinin altında can verdi",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/ozgur-ozel-kriz-masasi-toplantisi-yapacak-3915718",
-      "published_date": "2026-09-28T17:50:04Z",
+      "url": "https://www.haberturk.com/gundem/corum-da-pancar-makinesinin-altinda-kalan-kisi-oldu-3915764",
+      "published_date": "2026-09-29T00:08:20Z",
       "category": "Local Events"
     },
     {
-      "title": "Trabzonspor'da Samsunspor maçı mesaisi!",
+      "title": "Rus ordusunda personel sayısı arttı",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/spor/trabzonspor-samsunspor-maci-hazirliklarina-devam-etti-3915716",
-      "published_date": "2026-09-28T17:40:00Z",
+      "url": "https://www.haberturk.com/dunya/rus-ordusunda-personel-sayisi-artti-3915759",
+      "published_date": "2026-09-28T22:45:52Z",
       "category": "Local Events"
     },
     {
-      "title": "İstanbul Emniyeti o iddiaları yalanladı",
+      "title": "25 ilde siber suç operasyonları: 286 tutuklama",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/istanbul-emniyeti-bayrampasa-da-okulda-silahli-sahislar-yakalandi-iddialarini-yalanladi-3915714",
-      "published_date": "2026-09-28T17:29:23Z",
+      "url": "https://www.haberturk.com/gundem/25-ilde-siber-suc-operasyonlari-286-tutuklama-3915757",
+      "published_date": "2026-09-28T22:34:43Z",
       "category": "Local Events"
     },
     {
-      "title": "Cumhurbaşkanı Erdoğan, Hendrik Wüst ile görüştü",
+      "title": "TOKİ kiralık konut kurası ne zaman çekilecek?",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/dunya/cumhurbaskani-erdogan-hendrik-wust-ile-gorustu-3915711",
-      "published_date": "2026-09-28T17:09:17Z",
+      "url": "https://www.haberturk.com/bilgi/foto/toki-kiralik-konut-kurasi-ne-zaman-cekilecek-toki-kiralik-konut-aylik-odemesi-ne-kadar-olacak-daire-tipi-nasil-3915755",
+      "published_date": "2026-09-28T22:26:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "\"Islıklamaları ve yuhalamaları hak ettik!\"",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/spor/italya-yenilgisi-sonrasi-a-milli-takim-teknik-direktoru-vincenzo-montella-isliklamalari-ve-yuhalamal-3915756",
+      "published_date": "2026-09-28T22:24:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "\"Bize yakışmayan bir mücadele\"",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/spor/ismail-yuksek-bize-yakismayan-bir-mucadele-3915754",
+      "published_date": "2026-09-28T22:13:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Masterchef ödül oyununu kim kazandı?",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/bilgi/foto/masterchef-odul-oyununu-kim-kazandi-28-eylul-masterchef-para-odulu-ne-kadar-kac-tl-3915736",
+      "published_date": "2026-09-28T22:07:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Papa'dan yapay zeka uyarısı",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/dunya/papa-dan-yapay-zeka-uyarisi-3915752",
+      "published_date": "2026-09-28T22:00:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "\"İyi bir reaksiyon gösterdik\"",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/spor/roberto-mancini-iyi-bir-reaksiyon-gosterdik-3915751",
+      "published_date": "2026-09-28T21:53:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Yazıcıoğlu soruşturmasında 36 tutuklama",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/gundem/son-dakika-yazicioglu-sorusturmasinda-36-tutuklama-3915745",
+      "published_date": "2026-09-28T21:53:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "YDS ne zaman?",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/bilgi/foto/yds-ne-zaman-osym-2026-sinav-takvimi-ile-yds2-basvuru-ve-sinav-tarihi-3915157",
+      "published_date": "2026-09-28T21:43:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "DGS ek tercih ne zaman?",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/bilgi/foto/dgs-ek-tercih-ne-zaman-dgs-ek-tercih-kilavuzu-yayinlandi-mi-bos-kontenjanlar-ve-taban-puanlar-aciklandi-mi-3915469",
+      "published_date": "2026-09-28T21:42:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sayısal Loto sonuçları açıklandı!",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/bilgi/foto/sayisal-loto-sonuclari-aciklandi-mi-28-eylul-milli-piyango-online-cilgin-sayisal-loto-cekilis-sonuclari-sorgulama-ekrani-3915682",
+      "published_date": "2026-09-28T21:39:16Z",
       "category": "Local Events"
     },
     {
       "title": "İŞKUR Gençlik Programı başvuruları başladı mı?",
       "source": "Haberturk",
       "url": "https://www.haberturk.com/bilgi/foto/iskur-genclik-programi-basvuru-tarihi-iskur-genclik-programi-basvurusu-ne-zaman-sartlari-nelerdir-kimler-basvurabilir-3915705",
-      "published_date": "2026-09-28T17:00:44Z",
+      "published_date": "2026-09-28T21:38:41Z",
       "category": "Local Events"
     },
     {
-      "title": "Torreira'lı Uruguay, Oh'lu Kore'yi yendi!",
+      "title": "Anadolu Efes Real Madrid maçı ne zaman?",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/spor/guney-kore-1-1-uruguay-mac-sonucu-ozeti-ve-golleri-lucas-torreira-hyeon-gyu-oh-u-maglup-etti-3915709",
-      "published_date": "2026-09-28T17:00:15Z",
+      "url": "https://www.haberturk.com/bilgi/foto/anadolu-efes-real-madrid-maci-ne-zaman-anadolu-efes-real-madrid-maci-hangi-kanalda-ve-saat-kacta-canli-yayinlanacak-3915719",
+      "published_date": "2026-09-28T21:38:18Z",
       "category": "Local Events"
     },
     {
-      "title": "İstanbul'da İran uçağına haciz!",
+      "title": "28 Ekim yarım gün mü?",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/ekonomi/istanbul-havalimani-nda-iran-ucagina-haciz-3915707",
-      "published_date": "2026-09-28T16:51:10Z",
+      "url": "https://www.haberturk.com/bilgi/foto/28-ekim-yarim-gun-mu-29-ekim-resmi-tatil-mi-hangi-gune-denk-geliyor-3915730",
+      "published_date": "2026-09-28T21:37:58Z",
       "category": "Local Events"
     },
     {
-      "title": "Bartın'da kahreden olay!",
+      "title": "KYK ek yurt başvuru tarihi ne zaman?",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/bartin-da-kahreden-olay-kardesinin-cenazesine-gitti-kazada-oldu-3915701",
-      "published_date": "2026-09-28T16:34:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "İstanbul'a kuvvetli yağış uyarısı",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/istanbul-a-kuvvetli-yagis-uyarisi-3915689",
-      "published_date": "2026-09-28T16:34:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "İsrail basınından çarpıcı itiraf: \"Ankara'nın hamleleri Tel Aviv'i izole ediyor\"",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/israil-basinindan-carpici-itiraf-ankaranin-hamleleri-tel-avivi-izole-ediyor-7669635",
-      "published_date": "2026-09-28T16:25:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Van Dijk'ın transferine  Flick engeli!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/spor/virgil-van-dijk-in-barcelona-ya-transferine-hansi-flick-engeli-3915698",
-      "published_date": "2026-09-28T16:23:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Konyaspor'dan Filistin maçı çağrısı!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/spor/konyaspor-baskani-omer-atiker-den-konyalilara-filistin-maci-cagrisi-3915699",
-      "published_date": "2026-09-28T16:18:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Yemen'de çatışmalar şiddetlendi",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/dunya/yemen-de-catismalar-siddetlendi-3915693",
-      "published_date": "2026-09-28T16:05:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sivas'ta yeni YHT Garı hizmete açıldı",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/sivas-ta-yeni-yht-gari-hizmete-acildi-3915692",
-      "published_date": "2026-09-28T15:58:44Z",
+      "url": "https://www.haberturk.com/bilgi/foto/kyk-ek-yurt-basvuru-tarihi-2026-2027-kyk-ek-yurt-basvurusu-nasil-ve-nereden-yapilir-sartlari-neler-3915734",
+      "published_date": "2026-09-28T21:37:07Z",
       "category": "Local Events"
     }
   ]
