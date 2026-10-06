@@ -1,146 +1,188 @@
 {
   "country": "turkey",
-  "last_updated": "2026-10-05T01:30:05Z",
+  "last_updated": "2026-10-06T02:40:50Z",
   "stories": [
     {
-      "title": "Pera Müzesi'nde üç ücretsiz etkinlik",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/kultur-sanat/pera-muzesi-nde-uc-ucretsiz-etkinlik-3917042",
-      "published_date": "2026-10-04T21:36:19Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Sonbaharda caz şenliği",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/kultur-sanat/sonbaharda-caz-senligi-3917041",
-      "published_date": "2026-10-04T21:34:37Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Cevdet Yılmaz TEKNOFEST Güneydoğu’nun kapanışında konuştu",
+      "title": "Son seçim anketi sonuçları açıklandı! İsrail'de Netanyahu'ya soğuk duş",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/10/04/cevdet-yilmaz-teknofest-guneydogunun-kapanisinda-konustu",
-      "published_date": "2026-10-04T19:10:09Z",
+      "url": "https://www.sabah.com.tr/dunya/son-secim-anketi-sonuclari-aciklandi-israilde-netanyahuya-soguk-dus-7674625",
+      "published_date": "2026-10-06T01:38:36Z",
       "category": "Diplomacy"
     },
     {
-      "title": "TEKNOFEST Maden Teknolojileri Yarışması İlk Yılında Büyük İlgi Gördü",
+      "title": "Icardi geri dönecek mi? Özbek açıkladı!",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/ekonomi/teknofest-maden-teknolojileri-yarismasi-ilk-yilinda-buyuk-ilgi-gordu-3917189",
-      "published_date": "2026-10-04T18:56:27Z",
+      "url": "https://www.haberturk.com/spor/icardi-galatasaray-a-geri-donecek-mi-dursun-ozbek-acikladi-3917475",
+      "published_date": "2026-10-05T21:34:13Z",
       "category": "Diplomacy"
     },
     {
-      "title": "İran’da sivillere silah eğitimi veriliyor",
+      "title": "Masterchef para ödülünü kim aldı?",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/dunya/iranda-sivillere-silah-egitimi-veriliyor-3917195",
-      "published_date": "2026-10-04T18:38:28Z",
+      "url": "https://www.haberturk.com/bilgi/foto/masterchef-para-odulunu-kim-aldi-5-ekim-masterchef-odul-oyununu-kim-kazandi-3917464",
+      "published_date": "2026-10-05T21:29:07Z",
       "category": "Diplomacy"
     },
     {
-      "title": "\"Siyasi sorumluluğun gerektirdiği üslupla ifade etmem gerekirdi\"",
+      "title": "TOKİ İstanbul kiralık konut kurası ne zaman?",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/siyasi-sorumlulugun-gerektirdigi-uslupla-ifade-etmem-gerekirdi-3917184",
-      "published_date": "2026-10-04T17:42:43Z",
+      "url": "https://www.haberturk.com/bilgi/foto/toki-kiralik-konut-kurasi-cekim-tarihi-toki-istanbul-kiralik-konut-kurasi-ne-zaman-cekilecek-hangi-tarihte-3917432",
+      "published_date": "2026-10-05T21:17:43Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Cevdet Yılmaz: \"Savunma sanayinde devrim yaşanıyor\"",
+      "title": "Göksel Arsoy hayatını kaybetti",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/magazin/son-dakika-goksel-arsoy-hayatini-kaybetti-3917341",
+      "published_date": "2026-10-05T21:07:18Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Gaye Su Akyol 'Anatolian Dragon'la Almanya'da",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/kultur-sanat/gaye-su-akyol-anatolian-dragon-la-almanya-da-3917384",
+      "published_date": "2026-10-05T21:03:12Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Şehir Tiyatroları’nda bu hafta 8 oyun var",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/kultur-sanat/sehir-tiyatrolarinda-bu-hafta-8-oyun-var-3917454",
+      "published_date": "2026-10-05T21:02:34Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "AJet uçağındaki arama tamamlandı",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/gundem/son-dakika-sanliurfa-ucaginda-bomba-notu-panigi-3917455",
+      "published_date": "2026-10-05T20:57:22Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Baba oluyor",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/magazin/foto/orkun-isitmak-baba-oluyor-3917452",
+      "published_date": "2026-10-05T19:35:46Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Diyadin'in istifasına G.Birliği'nden ret!",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/spor/genclerbirligi-yonetimi-metin-diyadin-in-istifasini-kabul-etmedi-3917462",
+      "published_date": "2026-10-05T19:34:38Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Mersin Büyükşehir Belediyesi soruşturmasında şok ifade! Kirli çarkı tek tek anlattı: Başkan bana ‘Her şeyden haberim var’ dedi",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/10/04/cevdet-yilmaz-savunma-sanayinde-devrim-yasaniyor",
-      "published_date": "2026-10-04T16:24:41Z",
+      "url": "https://www.sabah.com.tr/yasam/mersin-buyuksehir-belediyesi-sorusturmasinda-sok-ifade-kirli-carki-tek-tek-anlatti-baskan-bana-her-seyden-haberim-var-dedi-7674384",
+      "published_date": "2026-10-05T18:30:51Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Milli Teknoloji Hamlesi yer altının potansiyeliyle buluştu: Türk Altın'a TEKNOFEST'te yoğun ilgi!",
+      "title": "Mersin soruşturmasında ihale ve ödeme iddiaları",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/gundem/genel-sekreter-olcay-tok-ihale-ve-odeme-sureclerine-iliskin-konustu-3917447",
+      "published_date": "2026-10-05T17:39:09Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "20 kilo verdi",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/magazin/foto/sebnem-bozoklu-20-kilo-verdi-3917442",
+      "published_date": "2026-10-05T17:34:28Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "R.Madrid Arda’yla nikah tazeliyor!",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/spor/foto/real-madrid-arda-guler-le-nikah-tazeliyor-3917415",
+      "published_date": "2026-10-05T16:30:25Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Maç Özeti İzle | A Milli Futbol Takımı, İtalya’ya kaybetti! Uluslar Ligi’nde kötü seri devam etti",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/yasam/milli-teknoloji-hamlesi-yer-altinin-potansiyeliyle-bulustu-turk-altina-teknofestte-yogun-ilgi-7673633",
-      "published_date": "2026-10-04T15:55:08Z",
+      "url": "https://www.sabah.com.tr/spor/futbol/2026/10/05/mac-ozeti-izle-a-milli-futbol-takimi-italyaya-kaybetti-uluslar-liginde-kotu-seri-devam-etti",
+      "published_date": "2026-10-05T16:23:16Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Savcılık katibinden skandal para trafiği! “Çocuğuna dava açılmayacak” vaadiyle dolandırdı",
+      "title": "F.Bahçe'nin eski kalecisi hayatını kaybetti",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/spor/fenerbahce-nin-eski-kalecisi-ilie-datcu-hayatini-kaybetti-3917409",
+      "published_date": "2026-10-05T16:17:41Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Medvedev Çin Açık'tan diskalifiye edildi!",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/spor/daniil-medvedev-cin-acik-tan-diskalifiye-edildi-3917428",
+      "published_date": "2026-10-05T16:14:04Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Türksat 7A uydusunun üretim süreci için geri sayım",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/ekonomi/turksat-7a-uydusunun-uretim-sureci-icin-geri-sayim-3917403",
+      "published_date": "2026-10-05T14:26:41Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Bugün Ne Oldu? 5 Ekim 2026 haberleri",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/video/haber/izle/bugun-ne-oldu-5-ekim-2026-haberleri-enflasyon-4-yil-10-ay-sonra-30un-altina-dustu-hakem-yasin-kola-tutuklama-talebi-arap-koalisyonundan-yemen-ordusunun-harekatina-destek/919652",
+      "published_date": "2026-10-05T14:20:24Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "26 işçi gazdan zehirlendi",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/gundem/son-dakika-haberler-tokatta-bir-fabrikada-calisma-sirasinda-26-isci-gazdan-etkilendi-3917398",
+      "published_date": "2026-10-05T14:10:34Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Mekke İttifakı'nın genel sekreteri belli oldu",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/dunya/son-dakika-mekke-ittifaki-nin-genel-sekreteri-secildi-3917450",
+      "published_date": "2026-10-05T19:56:06Z",
+      "category": "Military"
+    },
+    {
+      "title": "Suudi Arabistan'da kritik toplantı: Bakan Fidan'dan ilk mesaj! \"Mekke İttifakı kurumsallaşacak\"",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/yasam/savcilik-katibinden-skandal-para-trafigi-cocuguna-dava-acilmayacak-vaadiyle-dolandirdi-7673625",
-      "published_date": "2026-10-04T15:28:49Z",
-      "category": "Diplomacy"
+      "url": "https://www.sabah.com.tr/gundem/2026/10/05/suudi-arabistanda-kritik-toplanti-bakanlar-fidan-ve-guler-katildi-mekke-ittifaki-kurumsallasacak",
+      "published_date": "2026-10-05T17:59:57Z",
+      "category": "Military"
     },
     {
-      "title": "Binler İstanbul'u koştu",
+      "title": "Suudi Arabistan'a güvenlik taahhütleri sürecek",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/spor/istanbul-u-kosuyorum-yenikapi-parkuru-gerceklestirildi-3917170",
-      "published_date": "2026-10-04T14:39:16Z",
-      "category": "Diplomacy"
+      "url": "https://www.haberturk.com/dunya/abd-disisleri-bakani-suudi-arabistan-a-guvenlik-taahhutlerini-surdureceklerini-belirtti-3917443",
+      "published_date": "2026-10-05T17:24:18Z",
+      "category": "Military"
     },
     {
-      "title": "Dokuzuncu kez ameliyat oldu",
+      "title": "Bakanlar Fidan ve Güler Riyad’da",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/magazin/danla-bilic-dokuzuncu-kez-ameliyat-oldu-3917162",
-      "published_date": "2026-10-04T13:40:35Z",
-      "category": "Diplomacy"
+      "url": "https://www.haberturk.com/dunya/bakanlar-fidan-ve-guler-mekke-ortak-savunma-anlasmasi-nin-komite-toplantisi-na-katildi-3917438",
+      "published_date": "2026-10-05T17:00:06Z",
+      "category": "Military"
     },
     {
-      "title": "Prof. Dr. Sözbilir'den deprem fırtınası açıklaması",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/son-dakika-adana-ve-osmaniye-deki-sarsintilarla-ilgili-deprem-firtinasi-aciklamasi-3917159",
-      "published_date": "2026-10-04T13:20:42Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "TikTok kapanacak mı?",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/bilgi/foto/tiktok-kapandi-mi-kapatilacak-mi-calisiyor-mu-turkiyede-tiktok-kapaniyor-mu-3916302",
-      "published_date": "2026-10-04T12:33:58Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Marcao'nun sakatlık laneti!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/spor/foto/marcao-nun-sakatlik-laneti-286-gun-sonra-yeniden-3917147",
-      "published_date": "2026-10-04T11:24:07Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "4 yıl nezle sandığı burun akıntısının sebebi şoke etti",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/saglik/4-yil-nezle-sandigi-burun-akintisinin-sebebi-soke-etti-haberler-3917146",
-      "published_date": "2026-10-04T11:19:18Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Bahreyn GP'de Max Verstappen rüzgarı!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/spor/formula-1-bahreyn-grand-prix-sini-max-verstappen-kazandi-3917143",
-      "published_date": "2026-10-04T11:01:53Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Başkan Erdoğan'dan AK Parti'de yoğun mesai! Gündemde emekli maaşları, fahiş fiyatlar, çiftçiler ve süresiz nafaka var",
+      "title": "\"Stratejik bir enerji yolu\" Bakan Bayraktar açıkladı: Kalkınma Yolu 80 milyar dolarlık ekonomik değer yaratabilir",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/10/04/baskan-erdogandan-ak-partide-yogun-mesai-gundemde-emekli-maaslari-fahis-fiyatlar-ciftciler-ve-suresiz-nafaka-var",
-      "published_date": "2026-10-04T10:51:40Z",
-      "category": "Diplomacy"
+      "url": "https://www.sabah.com.tr/ekonomi/stratejik-bir-enerji-yolu-bakan-bayraktar-acikladi-kalkinma-yolu-80-milyar-dolarlik-ekonomik-deger-yaratabilir-7674121",
+      "published_date": "2026-10-05T08:44:18Z",
+      "category": "Military"
     },
     {
-      "title": "İran’dan ABD’nin ilettiği son teklife ilişkin açıklama: Ek hususlar karşı tarafa gönderilecek",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/irandan-abdnin-ilettigi-son-teklife-iliskin-aciklama-ek-hususlar-karsi-tarafa-gonderilecek-7673503",
-      "published_date": "2026-10-04T10:01:42Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "6 Ekim'de toplu ulaşım ücretsiz",
+      "title": "ASELSAN'dan 2.46 milyar Euro'luk yeni sözleşme",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/son-dakika-haberler-6-ekim-sali-gunu-istanbulda-toplu-ulasim-ucretsiz-3917132",
-      "published_date": "2026-10-04T09:55:23Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "İstanbu'da 200 lezzet noktası",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/yasam/istanbu-da-200-lezzet-noktasi-3917125",
-      "published_date": "2026-10-04T09:36:56Z",
-      "category": "Diplomacy"
+      "url": "https://www.haberturk.com/ekonomi/aselsan-dan-246-milyar-euro-luk-yeni-sozlesme-3917242",
+      "published_date": "2026-10-05T06:44:28Z",
+      "category": "Military"
     },
     {
       "title": "Mekke İttifakı'nda ikinci toplantı yarın",
@@ -241,46 +283,11 @@
       "category": "Military"
     },
     {
-      "title": "ABD'den Suriye'ye dair önemli adım",
+      "title": "Çantası gasp edildi, şüphelileri kovaladı! O anlar kamerada!",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/dunya/abd-suriye-yi-savunma-ticareti-kisitlamalari-listesinden-cikardi-3916611",
-      "published_date": "2026-10-01T22:33:57Z",
-      "category": "Military"
-    },
-    {
-      "title": "ABD'den Suriye'ye karşı yeni adım: Savunma ticareti kısıtlamaları kaldırıldı",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/abdden-suriyeye-karsi-yeni-adim-savunma-ticareti-kisitlamalari-kaldirildi-7672080",
-      "published_date": "2026-10-01T22:26:10Z",
-      "category": "Military"
-    },
-    {
-      "title": "Hürmüz Boğazı’nda bir petrol tankeri vuruldu!",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/hurmuz-bogazinda-bir-petrol-tankeri-vuruldu-7672067",
-      "published_date": "2026-10-01T22:10:14Z",
-      "category": "Military"
-    },
-    {
-      "title": "Pentagon'da Dini İşler Ofisi kuruldu",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/dunya/pentagon-da-dini-isler-ofisi-kuruldu-3916608",
-      "published_date": "2026-10-01T21:53:02Z",
-      "category": "Military"
-    },
-    {
-      "title": "Suudi Arabistan'a saldırı",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/dunya/suudi-arabistan-a-saldiri-3916566",
-      "published_date": "2026-10-01T20:23:25Z",
-      "category": "Military"
-    },
-    {
-      "title": "Katil İsrail Suriye'de 10 köye baskın düzenledi",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/katil-israil-suriyede-10-koye-baskin-duzenledi-7671744",
-      "published_date": "2026-10-01T15:01:31Z",
-      "category": "Military"
+      "url": "https://www.haberturk.com/gundem/cantasi-gasp-edildi-suphelileri-kovaladi-o-anlar-kamerada-3917249",
+      "published_date": "2026-10-05T07:06:45Z",
+      "category": "Energy"
     },
     {
       "title": "Yol verme kavgası caddeyi karıştırdı",
@@ -388,18 +395,46 @@
       "category": "Energy"
     },
     {
-      "title": "Tapuda elden para dönemi bitiyor",
+      "title": "Merkez Bankası faiz kararı ne zaman açıklanacak?",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/ekonomi/tapuda-elden-para-donemi-bitiyor-1-aralik-ta-yeni-sistem-basliyor-3915567",
-      "published_date": "2026-09-28T08:55:16Z",
-      "category": "Energy"
+      "url": "https://www.haberturk.com/bilgi/foto/merkez-bankasi-faiz-karari-ne-zaman-aciklanacak-hangi-gun-tcmb-merkez-bankasi-faiz-karari-toplanti-tarihi-3917472",
+      "published_date": "2026-10-05T22:04:50Z",
+      "category": "Economy"
     },
     {
-      "title": "Gürültü kavgasında komşusunu öldürdü",
+      "title": "Sosyal medyadan paylaşıldı: 140 bin lira ceza",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/son-dakika-haberler-muglada-komsular-arasinda-gurultu-ve-alacak-kavgasi-1-olu-3915545",
-      "published_date": "2026-09-28T07:01:48Z",
-      "category": "Energy"
+      "url": "https://www.haberturk.com/gundem/nevsehir-de-140-bin-lira-drift-cezasi-3917412",
+      "published_date": "2026-10-05T15:13:18Z",
+      "category": "Economy"
+    },
+    {
+      "title": "FETÖ'cüleri kaçıranlara operasyon: 14 gözaltı",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/gundem/son-dakika-haberler-istanbul-da-uluslararasi-gocmen-kacakciligi-operasyonu-14-gozalti-3917400",
+      "published_date": "2026-10-05T14:19:27Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Hazine, 2 ihaleyle 100,8 milyar lira borçlandı",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/ekonomi/hazine2-ihaleyle-1008-milyar-lira-borclandi-7674255",
+      "published_date": "2026-10-05T13:15:05Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Önce çaldı, sonra içti",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/gundem/son-dakika-haberler-adiyaman-da-marketin-kasasindaki-paralari-calip-daha-sonra-icecek-icen-supheli-gozaltina-alindi-3917275",
+      "published_date": "2026-10-05T08:08:16Z",
+      "category": "Economy"
+    },
+    {
+      "title": "10 milyonluk araçla kaçtı, uykuda yakalandı",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/gundem/son-dakika-bursa-da-10-milyonluk-aracla-yakalandi-2042-ye-kadar-ehliyet-yok-3917266",
+      "published_date": "2026-10-05T08:03:36Z",
+      "category": "Economy"
     },
     {
       "title": "19 milyon dolandırdılar! 9 tutuklama",
@@ -500,185 +535,143 @@
       "category": "Economy"
     },
     {
-      "title": "Eski Milletvekili Önlü gözaltına alındı",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/son-dakika-haberler-eski-hdp-milletvekili-alican-onlu-gozaltina-alindi-3916516",
-      "published_date": "2026-10-01T13:37:02Z",
-      "category": "Economy"
-    },
-    {
-      "title": "TCMB rezervlerinde düşüş",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/ekonomi/tcmb-rezervlerinde-dusus-3916497",
-      "published_date": "2026-10-01T12:45:14Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Merkez Bankası rezervleri belli oldu",
+      "title": "SON DAKİKA | Eyüpsultan Belediye Başkanı Özmen dahil 13 şüpheli tutuklandı",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/ekonomi/merkez-bankasi-rezervleri-belli-oldu-7671677",
-      "published_date": "2026-10-01T12:22:27Z",
-      "category": "Economy"
+      "url": "https://www.sabah.com.tr/gundem/2026/10/05/son-dakika-eyupsultan-belediye-baskani-ozmen-dahil-13-supheli-tutuklandi",
+      "published_date": "2026-10-06T00:15:44Z",
+      "category": "Local Events"
     },
     {
-      "title": "Bankacılık sektörünün mevduatı arttı",
+      "title": "İnşaat işçisi kardeşler iskeleden düştü: 1 ölü, 1 yaralı",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/gundem/tarsus-ta-insaat-iscisi-kardesler-iskeleden-dustu-1-olu-1-yarali-3917489",
+      "published_date": "2026-10-05T23:50:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Türkiye'den Nijerya'ya taziye mesajı",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/dunya/turkiye-den-nijerya-ya-taziye-mesaji-3917476",
+      "published_date": "2026-10-05T23:41:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dışişleri Bakanlığı'ndan Nijerya'ya taziye mesajı",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/ekonomi/bankacilik-sektorunun-mevduati-artti-7671674",
-      "published_date": "2026-10-01T12:20:07Z",
-      "category": "Economy"
+      "url": "https://www.sabah.com.tr/gundem/2026/10/05/disisleri-bakanligindan-nijeryaya-taziye-mesaji",
+      "published_date": "2026-10-05T23:37:51Z",
+      "category": "Local Events"
     },
     {
-      "title": "Bankacılığın kredi hacmi 28,4 trilyon liraya çıktı",
+      "title": "Fatih'te yanan 2 katı bina küle döndü! 1 ölü",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/ekonomi/bankacilik-sektorunun-kredi-hacmi-28-4-trilyon-liraya-cikti-3916484",
-      "published_date": "2026-10-01T12:15:59Z",
-      "category": "Economy"
+      "url": "https://www.haberturk.com/gundem/fatih-te-yanan-2-kati-bina-kule-dondu-1-olu-3917487",
+      "published_date": "2026-10-05T22:53:23Z",
+      "category": "Local Events"
     },
     {
-      "title": "Bankacılık sektörünün toplam mevduatı 32,7 trilyon liraya yükseldi",
+      "title": "Mancini'den Montella'ya övgü!",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/spor/roberto-mancini-den-vincenzo-montella-ya-ovgu-dolu-sozler-3917486",
+      "published_date": "2026-10-05T22:33:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "VGM burs başvurusu nasıl yapılır?",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/bilgi/foto/vgm-burs-basvuru-ekrani-vakiflar-genel-mudurlugu-vgm-burs-basvurusu-nasil-yapilir-burs-ucreti-ne-kadar-3917481",
+      "published_date": "2026-10-05T22:30:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kongo Nehri'nde iki tekne çarpıştı: 30 ölü",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/ekonomi/bankacilik-sektorunun-toplam-mevduati-327-trilyon-liraya-yukseldi-7671637",
-      "published_date": "2026-10-01T11:31:27Z",
-      "category": "Economy"
+      "url": "https://www.sabah.com.tr/dunya/kongo-nehrinde-iki-tekne-carpisti-30-olu-7674547",
+      "published_date": "2026-10-05T22:22:09Z",
+      "category": "Local Events"
     },
     {
-      "title": "Bosna Hersek'te seçim sonuçları belli oldu",
+      "title": "3 belediye başkanı dahil 50 kişiye tutuklama talebi",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/gundem/mersin-de-3-belediye-baskani-dahil-50-kisiye-tutuklama-talebi-3917483",
+      "published_date": "2026-10-05T22:12:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Yayaya çarpan otomobil devrildi: 4 yaralı",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/gundem/gumushane-de-yayaya-carpan-otomobil-devrildi-4-yarali-3917479",
+      "published_date": "2026-10-05T22:06:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "\"Şut şansı vermeden gol yedik!\"",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/spor/italya-turkiye-maci-sonrasi-vincenzo-montella-sut-sansi-vermeden-gol-yedik-3917473",
+      "published_date": "2026-10-05T21:59:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "\"Çok üzgünüz\"",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/spor/salih-ozcan-cok-uzgunuz-ama-insallah-iyi-gunler-gelir-3917478",
+      "published_date": "2026-10-05T21:50:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Romanya'da Niculescu hükümeti kurmakla görevlendirildi",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/bosna-hersekte-secim-sonuclari-belli-oldu-7673923",
-      "published_date": "2026-10-05T00:27:48Z",
+      "url": "https://www.sabah.com.tr/dunya/romanyada-niculescu-hukumeti-kurmakla-gorevlendirildi-7674524",
+      "published_date": "2026-10-05T21:50:15Z",
       "category": "Local Events"
     },
     {
-      "title": "SON DAKİKA | Adana'da 4,1 büyüklüğünde deprem",
+      "title": "BİM aktüel ürünler 6 Ekim 2026",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/bilgi/foto/bim-aktuel-urunler-6-ekim-2026-sali-findik-kremasi-cesitleri-indirimde-bim-aktuel-urunler-katalogunda-bu-hafta-neler-var-3917437",
+      "published_date": "2026-10-05T21:49:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump: \"İran tehdidi\" ihtimali üzerine çektik",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/dunya/trump-iran-tehdidi-ihtimali-uzerine-cektik-3917477",
+      "published_date": "2026-10-05T21:47:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump'tan İran tehdidine karşı yeni hamle: İngiltere'deki uçaklar geri çekildi!",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/son-dakika-adanada-41-buyuklugunde-deprem-7673917",
-      "published_date": "2026-10-04T23:27:47Z",
+      "url": "https://www.sabah.com.tr/dunya/trumptan-iran-tehdidine-karsi-yeni-hamle-ingilteredeki-ucaklar-geri-cekildi-7674523",
+      "published_date": "2026-10-05T21:47:43Z",
       "category": "Local Events"
     },
     {
-      "title": "Adana ve Osmaniye'de korkutan depremler!",
+      "title": "KPSS sonuçları ne zaman açıklanacak?",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/son-dakika-adana-da-4-8-buyuklugunde-deprem-3917148",
-      "published_date": "2026-10-04T23:04:50Z",
+      "url": "https://www.haberturk.com/bilgi/foto/kpss-sonuclari-aciklandi-mi-ne-zaman-aciklanacak-2026-kpss-on-lisans-sonuclari-sorgulama-ekrani-3917423",
+      "published_date": "2026-10-05T21:46:49Z",
       "category": "Local Events"
     },
     {
-      "title": "Ceviz büyüklüğünde dolu yağdı!",
+      "title": "28 Ekim resmi tatil mi?",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/ceviz-buyuklugunde-dolu-yagdi-3917207",
-      "published_date": "2026-10-04T22:51:21Z",
+      "url": "https://www.haberturk.com/bilgi/foto/28-ekim-resmi-tatil-mi-29-ekim-cumhuriyet-bayrami-tatil-mi-okullar-ve-is-yerleri-acik-mi-3917461",
+      "published_date": "2026-10-05T21:27:39Z",
       "category": "Local Events"
     },
     {
-      "title": "İsrail ordusu Suriye'de 1 kişiyi öldürdü",
+      "title": "İstanbul'da baraj doluluk oranı yüzde kaç oldu?",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/dunya/israil-ordusu-suriye-de-1-kisiyi-oldurdu-3917208",
-      "published_date": "2026-10-04T22:48:02Z",
+      "url": "https://www.haberturk.com/bilgi/foto/iski-5-ekim-baraj-doluluk-orani-istanbul-barajlarinda-doluluk-orani-yuzde-kac-oldu-3917413",
+      "published_date": "2026-10-05T21:17:33Z",
       "category": "Local Events"
     },
     {
-      "title": "Brezilya'da halk, sandık başına gitti",
+      "title": "TFF'den 7 kulübe puan silme cezası!",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/dunya/brezilya-da-halk-sandik-basina-gitti-3917205",
-      "published_date": "2026-10-04T22:20:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Polisten hayat kurtaran hamle",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/polisten-hayat-kurtaran-hamle-3917206",
-      "published_date": "2026-10-04T21:44:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Bir Çeyiz Sözleşmesi' Tiyatro Festivali'nde",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/kultur-sanat/bir-ceyiz-sozlesmesi-tiyatro-festivali-nde-3917046",
-      "published_date": "2026-10-04T21:36:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Uluslararası fotoğraf kurumlarının perspektifinden güncel fotoğraf",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/kultur-sanat/new-yorktaki-the-metropolitan-museum-of-artin-fotograf-bolumu-kuratoru-dr-oluremi-c-onabanjo-ile-paristeki-le-balin-kurucusu-ve-es-direktoru-diane-dufour-istanbul-modernin-panorama",
-      "published_date": "2026-10-04T21:35:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "İran Petrol Bakanı Paknejad istifa etti",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/iran-petrol-bakani-paknejad-istifa-etti-7673783",
-      "published_date": "2026-10-04T21:29:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Şans Topu sonuçları açıklandı",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/bilgi/foto/sans-topu-sonuclari-aciklandi-4-ekim-2026-sans-topu-cekilis-sonuclari-sorgulama-ekrani-3917181",
-      "published_date": "2026-10-04T21:25:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "İşte Uluslar Ligi'nde günün sonuçları!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/spor/portekiz-2-1-norvec-mac-sonucu-golleri-ve-ozeti-uefa-uluslar-ligi-3917204",
-      "published_date": "2026-10-04T21:07:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Yasin Kol adliyeye sevk edilecek!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/spor/son-dakika-yasin-kol-adliyeye-sevk-edilecek-3917131",
-      "published_date": "2026-10-04T20:57:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "İsrail'e ek asker ve uçak sevkiyatı iddiası",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/dunya/israil-e-ek-asker-ve-ucak-sevkiyati-iddiasi-3917199",
-      "published_date": "2026-10-04T19:45:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "\"Güzel sonuç alacağımıza dair ümitliyim\"",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/spor/italya-maci-oncesi-a-milli-takim-teknik-direktoru-vincenzo-montella-guzel-bir-sonuc-alacagimiza-dair-umitliyim-3917201",
-      "published_date": "2026-10-04T19:43:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "\"Hüma benim kızım çıkacak!\"",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/magazin/sevdan-bir-ates-ten-yeni-bolum-tanitimi-3917202",
-      "published_date": "2026-10-04T19:42:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Yeni bölüm tanıtımı yayınlandı",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/magazin/muhtemel-ask-in-yeni-bolum-tanitimi-yayinlandi-3917200",
-      "published_date": "2026-10-04T19:30:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "İran Petrol Bakanı istifa etti",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/dunya/iran-petrol-bakani-istifa-etti-3917187",
-      "published_date": "2026-10-04T19:18:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "\"Türkiye'yi hafife almak hata olur\"",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/spor/roberto-mancini-turkiye-yi-hafife-almak-gercekten-bir-hata-olur-3917196",
-      "published_date": "2026-10-04T18:47:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Milot Rashica'dan Beşiktaş'a kötü haber!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/spor/milot-rashica-dan-besiktas-a-kotu-haber-kosova-milli-takimi-nda-sakatlandi-maca-devam-edemedi-3917192",
-      "published_date": "2026-10-04T18:30:08Z",
+      "url": "https://www.haberturk.com/spor/tff-den-7-kulube-puan-silme-cezasi-3917470",
+      "published_date": "2026-10-05T21:15:44Z",
       "category": "Local Events"
     }
   ]
