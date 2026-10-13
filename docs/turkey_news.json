@@ -1,7 +1,77 @@
 {
   "country": "turkey",
-  "last_updated": "2026-10-12T20:15:19Z",
+  "last_updated": "2026-10-13T03:21:04Z",
   "stories": [
+    {
+      "title": "Akran zulmü! Çocuğun sırtını kolonya ile yaktılar",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/gundem/arnavutkoy-de-akran-zulmu-cocugun-sirtini-kolonya-ile-yaktilar-3919238",
+      "published_date": "2026-10-13T02:58:10Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "İsrail'de son seçim anketi açıklandı! Netanyahu'nun koltuğu sallanıyor",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/israilde-son-secim-anketi-aciklandi-netanyahunun-koltugu-sallaniyor-7679401",
+      "published_date": "2026-10-13T00:09:14Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Fas’ta 4 partili koalisyon hükümeti kuruldu",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/fasta-4-partili-koalisyon-hukumeti-kuruldu-7679400",
+      "published_date": "2026-10-12T23:41:31Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ankara kapalı yollar listesi",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/bilgi/ankara-kapali-yollar-listesi-13-ekim-ankarada-hangi-yollar-saat-kaca-kadar-kapali-3919233",
+      "published_date": "2026-10-12T22:41:53Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'Breaking Bad'in yıldızı hayatını kaybetti",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/magazin/breaking-bad-in-yildizi-rj-mitte-hayatini-kaybetti-3919226",
+      "published_date": "2026-10-12T22:16:16Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "İstanbul Tiyatro Festivali Lacrima’yla açılıyor",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/kultur-sanat/istanbul-tiyatro-festivali-lacrimayla-aciliyor-3919167",
+      "published_date": "2026-10-12T22:02:18Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ramazan ne zaman başlıyor ve bitiyor?",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/bilgi/foto/ramazan-ne-zaman-basliyor-ve-bitiyor-diyanet-2027-takvimi-ile-ramazan-ayi-baslangic-tarihi-3918030",
+      "published_date": "2026-10-12T21:33:50Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Masterchef takım oyununu kim kazandı?",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/bilgi/masterchef-takim-oyununu-kim-kazandi-12-ekim-2026-masterchef-dokunulmazligi-kim-aldi-3919221",
+      "published_date": "2026-10-12T21:30:48Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "BM'den Suriyelilerin geri dönüşüne ilişkin açıklama",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/dunya/bm-den-suriyelilerin-geri-donusune-iliskin-aciklama-3919227",
+      "published_date": "2026-10-12T21:26:32Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kademeli emeklilik için gözler TBMM’de!",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/bilgi/foto/kademeli-emeklilik-son-dakika-kademeli-emeklilik-meclis-ten-gecti-mi-ne-zaman-cikacak-3918909",
+      "published_date": "2026-10-12T21:11:52Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "\"Skoru bu duruma getirecek bir oyun yoktu\"",
       "source": "Haberturk",
@@ -14,20 +84,6 @@
       "source": "Haberturk",
       "url": "https://www.haberturk.com/magazin/kizilcik-serbeti-nin-yeni-bolum-tanitimi-yayinlandi-3919212",
       "published_date": "2026-10-12T19:17:40Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Kademeli emeklilik için gözler TBMM’de!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/bilgi/foto/kademeli-emeklilik-son-dakika-kademeli-emeklilik-meclis-ten-gecti-mi-ne-zaman-cikacak-3918909",
-      "published_date": "2026-10-12T19:01:44Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "İBB davasında 96. duruşma",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/ibb-davasinda-96-durusma-3919201",
-      "published_date": "2026-10-12T17:21:04Z",
       "category": "Diplomacy"
     },
     {
@@ -87,60 +143,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Vali Canbolat, Ankara'nın başkent oluşunun 103. yılını kutladı",
+      "title": "İBB davasında 96. duruşma",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/vali-canbolat-ankara-nin-baskent-olusunun-103-yilini-kutladi-3919170",
-      "published_date": "2026-10-12T15:14:39Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Çöp kamyonu faciasında skandallar zinciri: Sökülen sensörler, kuzen-enişte torpilleri...",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/yasam/sensor-dehseti-destikce-skandal-cikti-kor-adem-detayi-7679087",
-      "published_date": "2026-10-12T14:28:48Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "\"Dirk Kuyt hak ettiği değeri görmedi\"",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/spor/robin-van-persie-dirk-kuyt-hak-ettigi-degeri-gormedi-3919152",
-      "published_date": "2026-10-12T14:09:52Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "MHP Milletvekili Karakoç ameliyat oldu",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/mhp-kahramanmaras-milletvekili-zuhal-karakoc-ameliyat-oldu-3919151",
-      "published_date": "2026-10-12T13:22:49Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "\"Aramızda bir sorun yok\"",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/magazin/yasemin-ergene-eski-esi-izzet-ozilhan-hakkinda-konustu-aramizda-bir-sorun-yok-3919143",
-      "published_date": "2026-10-12T12:58:07Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UEFA, Archie Brown'ın golünü örnek gösterdi!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/spor/uefa-dan-dikkat-ceken-analiz-archie-brown-in-golu-ornek-gosterildi-3919131",
-      "published_date": "2026-10-12T12:21:32Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Sigara yasağı açık alanlara genişliyor",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/sigara-yasagi-acik-alanlara-genisliyor-3919130",
-      "published_date": "2026-10-12T12:20:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "İstanbul'un iki imparatorluk dönemini anlatan eserler Londra'da sergilenecek",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/kultur-sanat/istanbul-un-iki-imparatorluk-donemini-anlatan-eserler-londra-da-sergilenecek-3919116",
-      "published_date": "2026-10-12T12:02:39Z",
-      "category": "Diplomacy"
+      "url": "https://www.haberturk.com/gundem/ibb-davasinda-96-durusma-3919201",
+      "published_date": "2026-10-13T02:18:07Z",
+      "category": "Military"
     },
     {
       "title": "Ağaç A.Ş.’de ihale öncesi teslimat itirafı: Satın Alma Müdürü usulsüzlüğü anlattı! 31 milyonluk dev ihale...",
@@ -276,17 +283,17 @@
       "category": "Military"
     },
     {
-      "title": "Nagihan'ı öldürdü savunma yapmadı: 2 hafta önce 'Eks' olmuşum",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/son-dakika-haberi-nagihan-karadeniz-i-olduren-halit-dertli-savunma-yapmadi-2-hafta-once-eks-olmusum-3918385",
-      "published_date": "2026-10-09T11:43:33Z",
-      "category": "Military"
-    },
-    {
       "title": "Tusk'tan 'casus yazılım' açıklaması",
       "source": "Haberturk",
       "url": "https://www.haberturk.com/dunya/polonya-dan-casus-yazilim-aciklamasi-3919218",
-      "published_date": "2026-10-12T19:45:59Z",
+      "published_date": "2026-10-12T21:23:02Z",
+      "category": "Energy"
+    },
+    {
+      "title": "\"Oyuncularımız milli ara sayesinde toparlandı\"",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/spor/goztepe-teknik-direktoru-stanimir-stoilov-oyuncularimiz-milli-ara-sayesinde-toparlandi-3919220",
+      "published_date": "2026-10-12T20:10:27Z",
       "category": "Energy"
     },
     {
@@ -549,6 +556,125 @@
       "category": "Economy"
     },
     {
+      "title": "Panama'da 6,1 büyüklüğünde deprem",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/dunya/panama-da-6-1-buyuklugunde-deprem-3919237",
+      "published_date": "2026-10-13T02:14:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Panama'da 6,1 büyüklüğünde deprem",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/panamada-61-buyuklugunde-deprem-7679402",
+      "published_date": "2026-10-13T01:25:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kocaeli'de uyuşturucu operasyonu: 8 gözaltı",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/gundem/kocaeli-de-uyusturucu-operasyonu-8-gozalti-3919232",
+      "published_date": "2026-10-12T22:33:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ankara ziyareti ertelendi",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/gundem/saglik-sorunu-nedeniyle-ankara-ziyareti-ertelendi-3919231",
+      "published_date": "2026-10-12T22:09:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "İKSV Genç Sanatçı Fonu'na 310 Sterlin destek",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/kultur-sanat/iksv-genc-sanatci-fonu-na-310-sterlin-destek-3919164",
+      "published_date": "2026-10-12T22:02:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "ABD Başkanı Trump'tan Husilere sert tepki: Çok yanlış işler yapıyorlar",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/abd-baskani-trumptan-husilere-sert-tepki-cok-yanlis-isler-yapiyorlar-7679389",
+      "published_date": "2026-10-12T21:52:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump: Husiler yanlış işler yapıyorlar",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/dunya/donald-trump-husiler-yanlis-isler-yapiyorlar-3919228",
+      "published_date": "2026-10-12T21:51:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump: Rusya-Ukrayna enerji ateşkesini her iki taraf da ihlal etti",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/trump-rusya-ukrayna-enerji-ateskesini-her-iki-taraf-da-ihlal-etti-7679387",
+      "published_date": "2026-10-12T21:50:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "KPSS Ortaöğretim sınav giriş belgesi yayınlandı mı?",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/bilgi/kpss-ortaogretim-sinav-giris-belgesi-yayinlandi-mi-2026-kpss-giris-belgesiyerleri-nasil-sorgulanir-3919229",
+      "published_date": "2026-10-12T21:40:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Esenyurt'ta mobilya atölyesinde yangın",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/gundem/esenyurt-ta-mobilya-atolyesinde-yangin-3919223",
+      "published_date": "2026-10-12T21:16:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "İstanbul’da 4 mahallede 16 saatlik su kesintisi!",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/bilgi/foto/istanbulda-16-saatlik-su-kesintisi-iski-mahalleleri-tek-tek-acikladi-istanbulda-sular-ne-zaman-gelecek-su-kesintisi-yapilacak-mahalleler-hangileri-3919139",
+      "published_date": "2026-10-12T21:13:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Riyad'da 3 patlama sesi duyuldu",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/dunya/riyad-da-3-patlama-sesi-duyuldu-3919207",
+      "published_date": "2026-10-12T21:10:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Yenidoğan davası devam edecek",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/gundem/yenidogan-davasi-yarin-devam-edecek-3919216",
+      "published_date": "2026-10-12T21:10:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kabine Toplantısı kararları ve sonuçları",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/bilgi/foto/kabine-toplantisi-kararlari-ve-sonuclari-12-ekim-kabine-toplantisinda-alinan-kararlar-nelerdir-3919180",
+      "published_date": "2026-10-12T21:08:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sevgilisi de İstanbul'a geldi",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/magazin/lamine-yamal-in-sevgilisi-ines-garcia-da-istanbul-a-geldi-3919205",
+      "published_date": "2026-10-12T21:08:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "AÖF kayıt yenileme tarihleri",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/bilgi/aof-kayit-yenileme-tarihleri-aof-kayit-yenileme-ve-ders-secimi-nasil-yapilir-kayit-yenileme-son-gun-ne-zaman-3919224",
+      "published_date": "2026-10-12T21:08:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "İzmir'de meclis toplanamadı",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/gundem/izmir-de-meclis-toplanamadi-3919225",
+      "published_date": "2026-10-12T20:40:32Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Boşanma sürecini anlattı",
       "source": "Haberturk",
       "url": "https://www.haberturk.com/magazin/foto/pelin-karahan-bosanma-surecini-anlatti-3919203",
@@ -563,129 +689,10 @@
       "category": "Local Events"
     },
     {
-      "title": "Riyad'da 3 patlama sesi duyuldu",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/dunya/riyad-da-3-patlama-sesi-duyuldu-3919207",
-      "published_date": "2026-10-12T19:53:42Z",
-      "category": "Local Events"
-    },
-    {
       "title": "Ata Demirer'den uyarı",
       "source": "Haberturk",
       "url": "https://www.haberturk.com/magazin/ata-demirer-den-uyari-3919215",
       "published_date": "2026-10-12T19:43:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Çalışanları “Polis misin?” diyerek yalan makinesine sokmuşlardı: Görüntüler ortaya çıktı!",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/yasam/calisanlari-polis-misin-diyerek-yalan-makinesine-sokmuslardi-goruntuler-ortaya-cikti-7679285",
-      "published_date": "2026-10-12T19:38:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "AXA Sigorta Şampiyonlar Kupası Galatasaray'ın!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/spor/2026-erkekler-axa-sigorta-sampiyonlar-kupasi-galatasaray-mades-mobilya-nin-oldu-3919217",
-      "published_date": "2026-10-12T19:33:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sayısal Loto sonuçları açıklandı",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/bilgi/sayisal-loto-sonuclari-ne-zaman-aciklanacak-12-ekim-cilgin-sayisal-loto-sonuclari-milli-piyango-online-bilet-sorgulama-ekrani-3919200",
-      "published_date": "2026-10-12T19:33:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Yenidoğan davası yarın devam edecek",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/yenidogan-davasi-yarin-devam-edecek-3919216",
-      "published_date": "2026-10-12T19:31:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "MEB ortak sınav takvimi",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/bilgi/meb-ortak-sinav-takvimi-2026-2027-ortak-sinavlar-ne-zaman-ve-nasil-yapilacak-3919214",
-      "published_date": "2026-10-12T19:23:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Manisa'da 11 kişinin öldüğü kazada 2 sürücü tutuklandı!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/son-dakika-11-kisi-hayatini-kaybetti-geri-manevra-faciasinda-otobus-soforunun-ifadesi-ortaya-cikti-3919087",
-      "published_date": "2026-10-12T19:09:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eyüpspor evinde Göztepe'ye farklı kaybetti",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/spor/eyupspor-0-4-goztepe-mac-sonucu-ve-ozeti-trendyol-super-lig-3919213",
-      "published_date": "2026-10-12T19:08:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "İstanbul’da 4 mahallede 16 saatlik su kesintisi!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/bilgi/foto/istanbulda-16-saatlik-su-kesintisi-iski-mahalleleri-tek-tek-acikladi-istanbulda-sular-ne-zaman-gelecek-su-kesintisi-yapilacak-mahalleler-hangileri-3919139",
-      "published_date": "2026-10-12T19:03:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "İŞKUR Gençlik Programı'nda yeni dönem!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/bilgi/foto/iskur-genclik-programi-nda-yeni-donem-iskur-genclik-programi-basvurusu-ne-zaman-nasil-yapilir-ve-sartlar-nelerdir-3919211",
-      "published_date": "2026-10-12T18:47:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sevgilisi de İstanbul'a geldi",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/magazin/lamine-yamal-in-sevgilisi-ines-garcia-da-istanbul-a-geldi-3919205",
-      "published_date": "2026-10-12T18:36:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Galatasaray evinde Bursaspor'a mağlup oldu",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/spor/galatasaray-mct-technic-88-bursaspor-basketbol-93-mac-sonucu-ve-ozet-turkiye-sigorta-basketbol-super-ligi-3919208",
-      "published_date": "2026-10-12T18:31:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "SON DAKİKA | Riyad'da art arda patlama sesleri! Husilerden açıklama: Suudi hava üssünü vurduk",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/son-dakika-riyadda-art-arda-patlama-sesleri-7679231",
-      "published_date": "2026-10-12T18:20:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Yeni Parti, ön seçim yapacak",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/yeni-parti-on-secim-yapacak-3919206",
-      "published_date": "2026-10-12T18:14:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "İran, İngiltere’deki RAF Fairdord Hava Üssü saldırısı iddialarını reddetti!",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/iran-ingilteredeki-raf-fairdord-hava-ussu-saldirisi-iddialarini-reddetti-7679217",
-      "published_date": "2026-10-12T18:05:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "\"Örtülü savaşın hedefi Almanya'yı istikrarsızlaştırmak\"",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/dunya/ortulu-savasin-hedefi-almanya-yi-istikrarsizlastirmak-3919204",
-      "published_date": "2026-10-12T17:54:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "28 yaralı! İşçi midibüsü devrildi",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/28-yarali-isci-midibusu-devrildi-3919202",
-      "published_date": "2026-10-12T17:27:34Z",
       "category": "Local Events"
     }
   ]
