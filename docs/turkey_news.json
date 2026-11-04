@@ -1,12 +1,124 @@
 {
   "country": "turkey",
-  "last_updated": "2026-11-03T18:22:45Z",
+  "last_updated": "2026-11-04T02:53:44Z",
   "stories": [
     {
       "title": "ABD'de ara seçim heyecanı",
       "source": "Haberturk",
       "url": "https://www.haberturk.com/dunya/dunyanin-bekledigi-secimler-icin-geri-sayim-basladi-abd-de-ara-secim-heyecani-trump-in-siyasi-3924524",
-      "published_date": "2026-11-03T17:46:58Z",
+      "published_date": "2026-11-04T02:15:46Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "\"Taraftarımıza karşılık veremedik\"",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/spor/galatasaray-maglubiyeti-sonrasi-stuttgart-ta-fabian-bredlow-ht-spor-a-ozel-konustu-taraftarimiza-puanla-karsilik-veremedik-3924746",
+      "published_date": "2026-11-03T22:04:03Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "TOFAŞ evinde hata yapmadı!",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/spor/tofas-94-neptunas-klaipeda-79-mac-sonucu-3924743",
+      "published_date": "2026-11-03T21:32:56Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "KPSS branş sıralamaları açıklandı mı?",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/bilgi/foto/kpss-brans-siralamasi-aciklandi-mi-2026-kpss-lisans-on-lisans-ortaogretim-brans-siralamalari-ne-zaman-aciklanacak-nasil-sorgulanir-3924625",
+      "published_date": "2026-11-03T21:27:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "2027 yılı trafik cezaları belli oldu",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/bilgi/foto/2027-yili-trafi-k-cezalari-belli-oldu-yeniden-degerleme-orani-ile-2027-yilinda-trafik-cezalari-ne-kadar-olacak-3924601",
+      "published_date": "2026-11-03T21:26:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Okan Buruk'tan zemin tepkisi!",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/spor/stuttgart-galibiyeti-sonrasi-galatasaray-teknik-direktoru-okan-buruk-tan-saha-zemini-ve-wilfred-singo-sozleri-3924741",
+      "published_date": "2026-11-03T21:17:02Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "AK Parti’nin 25 yıllık siyasi yolculuğu panelde ele alındı!",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/11/03/ak-partinin-25-yillik-siyasi-yolculugu-panelde-ele-alindi",
+      "published_date": "2026-11-03T21:04:55Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Galatasaray'dan müthiş performans!",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/spor/foto/galatasaray-dan-muthis-performans-17-gunde-5-mac-5-galibiyet-3924735",
+      "published_date": "2026-11-03T20:43:15Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Batrakov'dan taraftarlara büyük övgü!",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/spor/galatasaray-stuttgart-maci-sonrasi-aleksey-batrakov-dan-taraftarlara-buyuk-ovgu-3924731",
+      "published_date": "2026-11-03T20:06:54Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Rubio'dan İran değerlendirmesi",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/dunya/marco-rubio-dan-iran-aciklamasi-3924725",
+      "published_date": "2026-11-03T20:04:29Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Galatasaray'dan 'Hoparlör' yanıtı!",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/spor/galatasaray-dan-stuttgart-a-hoparlor-yaniti-hosca-kalin-3924729",
+      "published_date": "2026-11-03T20:00:41Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Aslan Batrakov ile Devler Ligi'nde kükredi",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/spor/galatasaray-stuttgart-maci-canli-anlatim-gs-sporting-uefa-sampiyonlar-ligi-maci-kac-kac-mac-skoru-ve-3924492",
+      "published_date": "2026-11-03T19:47:51Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "İşsizlik fonu açıklaması",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/ekonomi/bakan-isikhan-issizlik-sigortasi-fonu-kaynaklarinin-kullanimina-iliskin-konustu-3924726",
+      "published_date": "2026-11-03T19:42:43Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Şimşek ekonomide yeni hedefleri açıkladı",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/ekonomi/hazine-ve-maliye-bakani-mehmet-simsek-tek-haneli-enflasyon-ve-cari-fazla-hedeflerini-anlatti-3924723",
+      "published_date": "2026-11-03T19:21:29Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Yılmaz: Kalıcı fiyat istikrarını sağlamayı hedefliyoruz",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/ekonomi/yilmaz-kalici-fiyat-istikrarini-saglamayi-hedefliyoruz-3924721",
+      "published_date": "2026-11-03T19:08:32Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Cevdet Yılmaz'dan \"fiyat istikrarı\" mesajı: Kalıcı refah sağlayacağız",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/ekonomi/cevdet-yilmazdan-fiyat-istikrari-mesaji-kalici-refah-saglayacagiz-7694415",
+      "published_date": "2026-11-03T19:06:22Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Binance 6.3 milyar dolarlık siber saldırılarının ilk bulgularını açıkladı!",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/binance-63-milyar-dolarlik-siber-saldirilarinin-ilk-bulgularini-acikladi-7694372",
+      "published_date": "2026-11-03T18:34:26Z",
       "category": "Diplomacy"
     },
     {
@@ -31,116 +143,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "KPSS branş sıralamaları açıklandı mı?",
+      "title": "Arda Turan'lı Shakhtar, Sporting'e mağlup!",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/bilgi/foto/kpss-brans-siralamasi-aciklandi-mi-2026-kpss-lisans-on-lisans-ortaogretim-brans-siralamalari-ne-zaman-aciklanacak-nasil-sorgulanir-3924625",
-      "published_date": "2026-11-03T17:18:02Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "2027 yılı trafik cezaları belli oldu",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/bilgi/foto/2027-yili-trafi-k-cezalari-belli-oldu-yeniden-degerleme-orani-ile-2027-yilinda-trafik-cezalari-ne-kadar-olacak-3924601",
-      "published_date": "2026-11-03T17:17:06Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "İBB davasında duruşma 4 Kasım'a ertelendi",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/ibb-davasinda-durusma-4-kasim-a-ertelendi-3924687",
-      "published_date": "2026-11-03T16:24:46Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Bektaş Yaylası'nda kentsel dönüşüm projesi",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/bektas-yaylasi-nda-kentsel-donusum-projesi-3924684",
-      "published_date": "2026-11-03T15:59:26Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trabzonspor'un hazırlıkları devam etti",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/spor/trabzonspor-un-freiburg-maci-hazirliklari-devam-etti-3924679",
-      "published_date": "2026-11-03T15:43:59Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "İstanbul'da balkonu çöken bina tahliye edildi",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/istanbul-da-balkonu-coken-bina-tahliye-edildi-3924678",
-      "published_date": "2026-11-03T15:43:10Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Giresunlu öğrenciler 2 bin pet şişe topladı",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/giresunlu-ogrenciler-2-bin-pet-sise-topladi-3924675",
-      "published_date": "2026-11-03T15:35:06Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saksılara toprak koyacaktı, Roma dönemine ulaştı!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/son-dakika-haberi-saksilara-toprak-koyacakti-roma-donemine-ulasti-kocaeli-haberleri-3924610",
-      "published_date": "2026-11-03T15:04:32Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Yılmaz Erdoğan özür diledi",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/magazin/yilmaz-erdogan-organize-isler-deki-sahne-nedeniyle-ozur-diledi-3924648",
-      "published_date": "2026-11-03T15:02:09Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Başkan Erdoğan’dan Güney Kore ziyaretine ilişkin paylaşım: \"İş birliğine büyük önem veriyoruz\"",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/11/03/baskan-erdogandan-guney-kore-ziyaretine-iliskin-paylasim-is-birligine-buyuk-onem-veriyoruz",
-      "published_date": "2026-11-03T14:47:54Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Rusya'dan Ukrayna'nın kritik noktalarına saldırı: Zelenski'den ABD'ye yardım çağrısı!",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/rusyadan-ukraynanin-kritik-noktalarina-saldiri-zelenskiden-abdye-yardim-cagrisi-7694271",
-      "published_date": "2026-11-03T14:44:22Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Nurmuhammed'in başından vurulmasında haraç çetesi detayı!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/son-dakika-15-yasindaki-nurmuhammed-in-basindan-vurulmasinda-harac-cetesi-detayi-3924656",
-      "published_date": "2026-11-03T14:32:12Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Eyüpsultan'da iş yerlerini su basan esnaftan tepki",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/foto/eyupsultan-da-is-yerlerini-su-basan-esnaftan-tepki-3924658",
-      "published_date": "2026-11-03T14:31:11Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "\"En büyük eserimiz AK Parti\"",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/son-dakika-ak-parti-genel-baskan-yardimcisi-ve-parti-sozcusu-omer-celik-en-buyuk-eserimiz-ak-parti-3924657",
-      "published_date": "2026-11-03T14:22:38Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "ABD’de Ara Seçim günü: Mavi Dalga Kongre’yi süpürür mü?",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/dunya/abd-ara-secimleri-3924525",
-      "published_date": "2026-11-03T14:07:29Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "AK Parti Sözcüsü Ömer Çelik: Türkiye'nin dış politikada tek ekseni vardır o da Ankara eksenidir",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/11/03/ak-parti-sozcusu-omer-celik-turkiyenin-dis-politikada-tek-ekseni-vardir-o-da-ankara-eksenidir",
-      "published_date": "2026-11-03T13:45:43Z",
-      "category": "Diplomacy"
+      "url": "https://www.haberturk.com/spor/shakhtar-donetsk-sporting-cp-mac-sonucu-iste-shakhtar-donetsk-sporting-cp-maci-ozeti-ve-golleri-uefa-sampiyonlar-ligi-3924727",
+      "published_date": "2026-11-03T19:42:22Z",
+      "category": "Military"
     },
     {
       "title": "Bakan Bayraktar duyurdu: Güney Kore ile enerjide yeni dönem! 3 kritik anlaşma imzalandı",
@@ -273,13 +280,6 @@
       "source": "Haberturk",
       "url": "https://www.haberturk.com/ekonomi/brent-petrolun-varili-111-57-dolardan-islem-goruyor-3923643",
       "published_date": "2026-10-30T06:52:28Z",
-      "category": "Military"
-    },
-    {
-      "title": "Riyad'da patlama sesleri",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/dunya/riyad-da-patlama-sesleri-duyuldu-3923578",
-      "published_date": "2026-10-29T18:25:20Z",
       "category": "Military"
     },
     {
@@ -426,7 +426,21 @@
       "title": "LPG'ye zam geldi, litresi 50 lirayı aştı!",
       "source": "Haberturk",
       "url": "https://www.haberturk.com/bilgi/foto/lpg-ye-zam-geldi-otogaz-litre-fiyati-50-tl-yi-asti-guncel-lpg-benzin-ve-motorin-fiyatlari-ne-kadar-iste-3-kasim-2026-akaryakit-fiyatlari-3924630",
-      "published_date": "2026-11-03T17:15:15Z",
+      "published_date": "2026-11-03T21:25:25Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Selden etkilenen işletmelere destek",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/ekonomi/bakan-kacir-selden-etkilenen-kucuk-isletmelere-faizsiz-kredi-verilecegini-duyurdu-3924730",
+      "published_date": "2026-11-03T20:01:47Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Konya'da hırsız katip kendini ele verdi: Milyonlarca lirayı zimmetine geçirmiş! \"Aldığım paralarla bahis oynadım\"",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/yasam/konyada-hirsiz-katip-kendini-ele-verdi-milyonlarca-lirayi-zimmetine-gecirmis-aldigim-paralarla-bahis-oynadim-7694396",
+      "published_date": "2026-11-03T18:54:31Z",
       "category": "Economy"
     },
     {
@@ -549,157 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "Fuhuş ağında 977 milyonluk trafik",
+      "title": "ABD'de kritik ara seçim!",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/diyarbakir-merkezli-10-ilde-fuhus-operasyonunda-17-supheli-tutuklandi-3924003",
-      "published_date": "2026-10-31T18:47:36Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Markete silahlı saldırı! Ekmek vermeye gitmişti",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/son-dakika-haberi-markete-silahli-saldiri-ekmek-vermeye-gitmisti-adana-haberleri-3923921",
-      "published_date": "2026-10-31T12:29:26Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Heyecan sürüyor!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/spor/galatasaray-stuttgart-maci-canli-anlatim-gs-sporting-uefa-sampiyonlar-ligi-maci-kac-kac-mac-skoru-ve-3924492",
-      "published_date": "2026-11-03T18:09:04Z",
+      "url": "https://www.haberturk.com/dunya/abd-de-kritik-ara-secim-3924753",
+      "published_date": "2026-11-04T02:35:09Z",
       "category": "Local Events"
     },
     {
-      "title": "İstanbul'da etkili sağanak",
+      "title": "Trump: ABD'nin İran'a saldırmak için acil bir planı yok",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/istanbul-da-aksam-saatlerinde-siddetlenen-saganak-cadde-ve-sokaklarda-su-birikintileri-olusturdu-3924669",
-      "published_date": "2026-11-03T18:08:24Z",
+      "url": "https://www.haberturk.com/dunya/trump-gerekirse-demokratlarin-yonettigi-sehirlere-ulusal-muhafiz-birliklerini-gonderecegini-soyledi-3924752",
+      "published_date": "2026-11-04T01:52:28Z",
       "category": "Local Events"
     },
     {
-      "title": "Grip ile soğuk algınlığını karıştırmayın",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/saglik/prof-dr-gunal-grip-ve-soguk-alginligi-arasindaki-farklari-anlatti-3924707",
-      "published_date": "2026-11-03T18:00:34Z",
+      "title": "Müslümanları hedef alan İsrail merkezli kampanya deşifre oldu",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/muslumanlari-hedef-alan-israil-merkezli-kampanya-desifre-oldu-7694628",
+      "published_date": "2026-11-04T00:45:15Z",
       "category": "Local Events"
     },
     {
-      "title": "Barış Göktürk'ten istifa açıklaması!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/spor/fenerbahce-kulubu-baskan-vekili-baris-gokturk-sahsimi-ilgilendiren-mustakil-bir-istifa-karari-soz-konusu-degildir-3924706",
-      "published_date": "2026-11-03T17:54:35Z",
+      "title": "ABD'de sandık çıkış anketlerinde ekonomi gündemi öne çıktı",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/abdde-sandik-cikis-anketlerinde-ekonomi-gundemi-one-cikti-7694627",
+      "published_date": "2026-11-04T00:29:07Z",
       "category": "Local Events"
     },
     {
-      "title": "Trump, İsrail'e dev yardımı durdurdu",
+      "title": "İspanyol Bakan, hızlı tren faciası sonrası istifa etti",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/dunya/trump-israil-e-4-milyar-dolarlik-yardimin-durdurulacagini-bildirdi-3924659",
-      "published_date": "2026-11-03T17:51:05Z",
+      "url": "https://www.haberturk.com/dunya/ispanya-ulastirma-bakani-puente-hizli-tren-faciasi-sonrasi-istifa-etti-3924751",
+      "published_date": "2026-11-04T00:22:12Z",
       "category": "Local Events"
     },
     {
-      "title": "\"Fenerbahçe çok iyi oyunculara sahip!\"",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/spor/liverpool-teknik-direktoru-andoni-iraola-fenerbahce-cok-iyi-oyunculara-sahip-3924701",
-      "published_date": "2026-11-03T17:31:06Z",
+      "title": "İspanya'daki hızlı tren faciası sonrası flaş gelişme: İstifasını açıkladı",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/ispanyadaki-hizli-tren-faciasi-sonrasi-flas-gelisme-istifasini-acikladi-7694626",
+      "published_date": "2026-11-03T23:34:04Z",
       "category": "Local Events"
     },
     {
-      "title": "Haydar Aliyev Parkı iddiaları asılsız",
+      "title": "Aydın'da kamyonet devrildi: 7 yaralı",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/dmm-sisli-deki-haydar-aliyev-bustunun-kaldirilacagi-yonundeki-iddialari-yalanladi-3924699",
-      "published_date": "2026-11-03T17:27:12Z",
+      "url": "https://www.haberturk.com/gundem/aydin-da-kamyonet-devrildi-7-yarali-3924749",
+      "published_date": "2026-11-03T22:46:21Z",
       "category": "Local Events"
     },
     {
-      "title": "Şampiyon Rusya’dan Rostagro Export!",
+      "title": "Annesini ve ablasını vurup kaçtı",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/spor/kemer-de-futsal-soleni-sona-erdi-sampiyon-rusya-dan-rostagro-export-oldu-3924697",
-      "published_date": "2026-11-03T17:24:23Z",
+      "url": "https://www.haberturk.com/gundem/annesini-ve-ablasini-vurup-kacti-3924748",
+      "published_date": "2026-11-03T22:40:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "M.United, 3 dakikada geri döndü!",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/spor/manchester-united-roma-mac-sonucu-iste-manchester-united-roma-maci-ozeti-ve-golleri-uefa-sampiyonlar-ligi-3924747",
+      "published_date": "2026-11-03T22:24:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bilal El Khannouss'tan HT Spor'a özel transfer yanıtı!",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/spor/foto/galatasaray-stuttgart-maci-sonrasi-bilal-el-khannouss-tan-ht-spor-a-ozel-transfer-yaniti-3924742",
+      "published_date": "2026-11-03T22:09:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "20 yıl sonra 3 kişi tutuklandı",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/gundem/20-yil-sonra-3-kisi-tutuklandi-3924745",
+      "published_date": "2026-11-03T22:03:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Türk Kızılay Kanunu Teklifi'nde bir madde daha kabul edildi",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/gundem/turk-kizilay-kanunu-teklifi-nde-bir-madde-daha-kabul-edildi-3924744",
+      "published_date": "2026-11-03T21:39:32Z",
       "category": "Local Events"
     },
     {
       "title": "Gelinim Mutfakta bugün kim kazandı?",
       "source": "Haberturk",
       "url": "https://www.haberturk.com/bilgi/foto/geli-ni-m-mutfakta-puan-durumu-3-kasim-2026-gelinim-mutfakta-bugun-kim-kazandi-hangi-gelin-birinci-oldu-3924642",
-      "published_date": "2026-11-03T17:17:33Z",
+      "published_date": "2026-11-03T21:26:31Z",
       "category": "Local Events"
     },
     {
-      "title": "Dizilerin yeni bölümleri neden yok?",
+      "title": "NASA astronotları uzayda oy kullandı",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/bilgi/foto/bu-aksam-diziler-var-mi-yok-mu-3-kasim-2026-sali-bu-aksam-tuzlu-kahve-mehmed-fetihler-sultani-anne-yarisi-ve-haysiyet-yayinlanacak-mi-3924545",
-      "published_date": "2026-11-03T17:15:49Z",
+      "url": "https://www.haberturk.com/dunya/nasa-astronotlari-uzayda-oy-kullandi-3924738",
+      "published_date": "2026-11-03T21:01:30Z",
       "category": "Local Events"
     },
     {
-      "title": "İran: ABD'nin yanıtı ikna edici olmadı",
+      "title": "\"Atmosfere rağmen iyi karşılık verdik\"",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/dunya/iran-abd-nin-yaniti-ikna-edici-olmadi-3924672",
-      "published_date": "2026-11-03T17:15:22Z",
+      "url": "https://www.haberturk.com/spor/galatasaray-stuttgart-maci-sonrasi-sebastian-hoeness-atmosfere-ragmen-iyi-karsilik-verdik-3924740",
+      "published_date": "2026-11-03T21:00:46Z",
       "category": "Local Events"
     },
     {
-      "title": "Hava sıcaklığı düşüyor",
+      "title": "\"Bu maça daha özgüvenli çıktık\"",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/hava-sicakligi-dusuyor-3924693",
-      "published_date": "2026-11-03T17:04:02Z",
+      "url": "https://www.haberturk.com/spor/ugurcan-cakir-lille-ve-fenerbahce-galibiyetinden-sonra-bugun-maca-daha-ozguvenli-ciktik-3924739",
+      "published_date": "2026-11-03T20:56:50Z",
       "category": "Local Events"
     },
     {
-      "title": "Polonya Cumhurbaşkanı: Ciddi bir anayasal krizle karşı karşıyayız",
+      "title": "Fenerbahçe'de Emre Belözoğlu dönemi!",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/dunya/polonya-cumhurbaskani-ciddi-bir-anayasal-krizle-karsi-karsiyayiz-3924692",
-      "published_date": "2026-11-03T16:58:19Z",
+      "url": "https://www.haberturk.com/spor/son-dakika-fenerbahce-de-emre-belozoglu-donemi-3924722",
+      "published_date": "2026-11-03T20:53:05Z",
       "category": "Local Events"
     },
     {
-      "title": "AK Parti'nin 24. yıl dönümünü kutladı",
+      "title": "\"Takım arkadaşlarımı kutluyorum\"",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/adalet-bakani-gurlek-ten-ak-parti-nin-24-yil-donumu-paylasimi-3924689",
-      "published_date": "2026-11-03T16:29:44Z",
+      "url": "https://www.haberturk.com/spor/baris-alper-yilmaz-takim-arkadaslarimi-kutluyorum-3924736",
+      "published_date": "2026-11-03T20:42:39Z",
       "category": "Local Events"
     },
     {
-      "title": "\"Bedelini çok ağır ödetirim\"",
+      "title": "ÇBK Mersin'den 30 sayı fark!",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/magazin/sevdan-bir-ates-te-mirza-ailesinden-hesap-soruyor-3924682",
-      "published_date": "2026-11-03T16:18:00Z",
+      "url": "https://www.haberturk.com/spor/sleza-wroclaw-73-cimsa-cbk-mersin-100-mac-sonucu-3924734",
+      "published_date": "2026-11-03T20:28:14Z",
       "category": "Local Events"
     },
     {
-      "title": "\"Mutlaka evlenmek gerek diye bir kural yok\"",
+      "title": "F.Bahçe Tarfin, Valencia'ya kaybetti!",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/magazin/behzat-uygur-bir-iliskide-mutlaka-evlenmek-gerek-diye-bir-kural-yok-3924668",
-      "published_date": "2026-11-03T16:17:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "10. haftanın VAR kayıtları açıklandı!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/spor/trendyol-super-lig-in-10-haftasinin-var-kayitlari-aciklandi-3924686",
-      "published_date": "2026-11-03T16:14:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "CANLI | Şampiyonlar Ligi’nde Galatasaray - Stuttgart maçı! Goller art arda",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/spor/futbol/2026/11/03/canli-sampiyonlar-liginde-galatasaray-stuttgart-maci-ne-zaman-saat-kacta-hangi-kanalda",
-      "published_date": "2026-11-03T16:00:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ağacı ateşe verip kahkahalarla poz verdiler!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/agaci-atese-verip-kahkahalarla-poz-verdiler-2-ogrenci-gozaltina-alindi-3924683",
-      "published_date": "2026-11-03T16:00:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "İran'dan ABD'ye barış çağrısı: \"Her şey onların siyasi aklına bağlı\"",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/irandan-abdye-baris-cagrisi-her-sey-onlarin-siyasi-aklina-bagli-7694314",
-      "published_date": "2026-11-03T15:55:44Z",
+      "url": "https://www.haberturk.com/spor/fenerbahce-tarfin-71-valencia-basket-73-mac-sonucu-3924733",
+      "published_date": "2026-11-03T20:22:20Z",
       "category": "Local Events"
     }
   ]
