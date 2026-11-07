@@ -1,26 +1,103 @@
 {
   "country": "turkey",
-  "last_updated": "2026-11-06T17:55:58Z",
+  "last_updated": "2026-11-07T02:32:19Z",
   "stories": [
     {
-      "title": "Anadolu Grubu'ndan 5,8 milyar TL kâr",
+      "title": "\"Görevi kötüye kullanmak suçundan\" azledilmişti: Paraguay Devlet Başkanı Pena gözaltına alındı",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/gorevi-kotuye-kullanmak-sucundan-azledilmisti-paraguay-devlet-baskani-pena-gozaltina-alindi-7696771",
+      "published_date": "2026-11-07T01:00:19Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "\"Tarafsız ve bağımsız bir genel sekreter olacağım\"",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/ekonomi/anadolu-grubu-ndan-5-8-milyar-tl-kr-3925474",
-      "published_date": "2026-11-06T16:28:33Z",
+      "url": "https://www.haberturk.com/dunya/sinirlioglu-tarafsiz-ve-bagimsiz-bir-genel-sekreter-olacagim-3925542",
+      "published_date": "2026-11-07T00:22:54Z",
       "category": "Diplomacy"
     },
     {
       "title": "İstanbul'un su rezervlerinde önemli artış!",
       "source": "Haberturk",
       "url": "https://www.haberturk.com/bilgi/foto/6-kasim-i-ski-baraj-doluluk-oranlari-2026-i-stanbul-barajlarindaki-su-seviyesi-yukseldi-i-stanbul-baraj-doluluk-oranlari-ne-kadar-oldu-yuzde-kac-3925311",
-      "published_date": "2026-11-06T16:24:08Z",
+      "published_date": "2026-11-06T21:27:59Z",
       "category": "Diplomacy"
     },
     {
       "title": "Magnum çekilişinde gözler kazananların isim listesinde!",
       "source": "Haberturk",
       "url": "https://www.haberturk.com/bilgi/foto/magnum-ceki-li-s-sonuclari-2026-porsche-taycan-kazanan-asil-ve-yedek-isim-listesi-aciklandi-mi-3-ve-4-donem-magnum-cekilis-sonuclari-ne-zaman-aciklanacak-3925099",
-      "published_date": "2026-11-06T16:23:32Z",
+      "published_date": "2026-11-06T21:26:46Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Donald Trump'tan Özel Kalem ataması",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/dunya/donald-trump-tan-ozel-kalem-atamasi-3925518",
+      "published_date": "2026-11-06T20:07:45Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Çiftçi: 26 bin polis görevde",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/gundem/ciftci-26-bin-polis-gorevde-3925522",
+      "published_date": "2026-11-06T19:54:22Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Dışişleri'nden Fransız bayraklı gemiye dair açıklama",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/dunya/disisleri-nden-fransiz-bayrakli-gemiye-dair-aciklama-3925523",
+      "published_date": "2026-11-06T19:54:02Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tahkim'den Archie Brown kararı!",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/spor/tahkim-kurulu-fenerbahceli-archie-brown-in-cezasini-onadi-3925517",
+      "published_date": "2026-11-06T19:34:19Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Paşa seriye bağladı!",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/spor/gaziantep-fk-kasimpasa-mac-sonucu-iste-gaziantep-kasimpasa-maci-ozeti-super-lig-3925503",
+      "published_date": "2026-11-06T19:13:25Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Florya'da otomobil 4 genç kıza çarptı",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/gundem/bakirkoy-de-otomobilin-carptigi-4-genc-kizdan-biri-oldu-3-u-agir-yaralandi-3925507",
+      "published_date": "2026-11-06T18:55:32Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "MİT Başkanı Kalın: \"Filistin'de barış, onur ve özgürlük mücadelesi\"",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/gundem/2026/11/06/mit-baskani-kalin-filistinde-baris-onur-ve-ozgurluk-mucadelesi",
+      "published_date": "2026-11-06T18:51:26Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Emekliye refah düzenlemesi yolda",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/ekonomi/cevdet-yilmaz-tum-emeklileri-kapsayacak-duzenlemenin-yil-sonuna-kadar-hazirlanacagini-acikladi-3925498",
+      "published_date": "2026-11-06T18:24:45Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EuroCup'ta 19 yıl sonra \"Türk MVP\"",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/spor/eurocup-ta-19-yil-sonra-turk-mvp-dogus-ozdemiroglu-3925495",
+      "published_date": "2026-11-06T18:01:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Anadolu Grubu'ndan 5,8 milyar TL kâr",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/ekonomi/anadolu-grubu-ndan-5-8-milyar-tl-kr-3925474",
+      "published_date": "2026-11-06T16:28:33Z",
       "category": "Diplomacy"
     },
     {
@@ -66,81 +143,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "9 pompa bir günden fazla çalıştı! Akkuyu'nun temeline tonlarcası beton döküldü",
+      "title": "İran Ordusu ABD'ye ait MQ-9 tipi İHA düşürdü",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/ekonomi/9-pompa-bir-gunden-fazla-calisti-akkuyunun-temeline-tonlarcasi-beton-dokuldu-7696338",
-      "published_date": "2026-11-06T12:29:37Z",
-      "category": "Diplomacy"
+      "url": "https://www.sabah.com.tr/dunya/iran-ordusu-abdye-ait-mq-9-tipi-iha-dusurdu-7696770",
+      "published_date": "2026-11-07T00:53:08Z",
+      "category": "Military"
     },
     {
-      "title": "Kayıp Elife'nin dosyasında 7 gözaltı",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/son-dakika-23-yildir-kayip-olan-elife-nin-dosyasinda-7-supheliye-gozalti-3925418",
-      "published_date": "2026-11-06T12:17:37Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "33 senelik izin parası Yargıtay'dan döndü",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/ekonomi/33-yilin-izin-ucreti-yeniden-hesaplanacak-yargitay-dan-ucte-bir-karari-3925405",
-      "published_date": "2026-11-06T11:40:15Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Üstünlük korunamıyor, değişiklikler sorgulanıyor!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/spor/besiktas-ta-ustunluk-korunamiyor-degisiklikler-sorgulaniyor-3925368",
-      "published_date": "2026-11-06T11:29:09Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Yıllardır yanlış yapıyormuşuz!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/bilgi/yillardir-yanlis-yapiyormusuz-cig-tavugu-sakin-musluk-altinda-yikamayin-3925399",
-      "published_date": "2026-11-06T11:18:47Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "İsrail doğruladı: ABD 4 milyar dolarlık yardımı kesecek",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/dunya/israil-dogruladi-abd-4-milyar-dolarlik-yardimi-kesecek-3925395",
-      "published_date": "2026-11-06T11:11:25Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Sahara Geçidi'nde 14 TIR yolda kaldı",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/sahara-gecidi-nde-14-tir-yolda-kaldi-3925391",
-      "published_date": "2026-11-06T11:03:26Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "\"Çalışanların hakkının yenilmesine rıza göstermeyiz\"",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/son-dakika-haberi-bakan-gurlek-calisanlarin-hakkinin-yenilmesine-asla-riza-gostermeyiz-3925376",
-      "published_date": "2026-11-06T09:44:57Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "İstanbul'da hava kirliliğinde artış!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/istanbul-da-hava-kirliliginde-yuzde-10-luk-artis-3925357",
-      "published_date": "2026-11-06T09:30:13Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Başsavcılık Denizolgun için ek rapor talep etti",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/son-dakika-haberi-bassavcilik-arif-ahmet-denizolgun-icin-ek-rapor-talep-etti-3925365",
-      "published_date": "2026-11-06T08:48:38Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Berat Albayrak 'bu sistem kurulmalı' diyerek gündeme getirmişti! Hal Yasası Meclis'e sunuldu",
+      "title": "Bakan Bayraktar'dan enerji bağımsızlığı mesajı: Türkiye açısından stratejik bir hedef",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/ekonomi/berat-albayrak-bu-sistem-kurulmali-diyerek-gundeme-getirmisti-hal-yasasi-meclise-sunuldu-7696246",
-      "published_date": "2026-11-06T08:37:44Z",
-      "category": "Diplomacy"
+      "url": "https://www.sabah.com.tr/ekonomi/bakan-bayraktardan-enerji-bagimsizligi-mesaji-turkiye-acisindan-stratejik-bir-hedef-7696530",
+      "published_date": "2026-11-06T18:28:51Z",
+      "category": "Military"
     },
     {
       "title": "Boğazda gemi trafiği askıya alındı",
@@ -266,20 +280,6 @@
       "source": "Haberturk",
       "url": "https://www.haberturk.com/gundem/van-in-caldiran-ilcesinde-gorev-yapan-piyade-uzman-cavus-oguz-sahin-sehit-oldu-3924433",
       "published_date": "2026-11-02T19:56:04Z",
-      "category": "Military"
-    },
-    {
-      "title": "Garanti BBVA, GBM Awards 2026’dan üç ödülle döndü",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/ekonomi/garanti-bbva-gbm-awards-2026dan-uc-odulle-dondu-3924380",
-      "published_date": "2026-11-02T13:52:30Z",
-      "category": "Military"
-    },
-    {
-      "title": "2 milyon haneyi ilgilendiriyor! Bakan Bayraktar elektrik ve doğal gazda yeni gelişmeyi açıkladı",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/ekonomi/2-milyon-haneyi-ilgilendiriyor-bakan-bayraktar-elektrik-ve-dogal-gazda-yeni-gelismeyi-acikladi-7693521",
-      "published_date": "2026-11-02T13:39:24Z",
       "category": "Military"
     },
     {
@@ -563,143 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "Rüşvetten 6 yıl, 2 suçtan beraat",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/son-dakika-hakan-bahcetepe-yargilandigi-iki-suctan-beraat-etti-3925480",
-      "published_date": "2026-11-06T17:51:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ABD'de tarım dışı istihdam beklentiyi aştı",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/ekonomi/abd-de-tarim-disi-istihdam-beklentiyi-asti-3925493",
-      "published_date": "2026-11-06T17:48:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fenerbahçe'den '4 Nisan' açıklaması!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/spor/fenerbahce-den-4-nisan-aciklamasi-11-yildir-bekledigimiz-adaletin-tecelli-edecegine-yurekten-inaniyoruz-3925492",
-      "published_date": "2026-11-06T17:47:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Türkiye İş Bankası, COP31’de iklim finansmanından yapay zekâya uzanan geniş bir panel programıyla yer alacak",
+      "title": "Seçim sonuçları Trump'ı korkuttu: Kabinesinde değişiklik sinyali verdi",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/ekonomi/turkiye-is-bankasi-cop31de-iklim-finansmanindan-yapay-zekaya-uzanan-genis-bir-panel-programiyla-yer-alacak-7696487",
-      "published_date": "2026-11-06T17:47:34Z",
+      "url": "https://www.sabah.com.tr/dunya/secim-sonuclari-trumpi-korkuttu-kabinesinde-degisiklik-sinyali-verdi-7696772",
+      "published_date": "2026-11-07T01:02:44Z",
       "category": "Local Events"
     },
     {
-      "title": "Antalya'yı 'Uçbey' gözetleyecek",
+      "title": "ABD'de Trump'ı öldürmekle tehdit eden şüpheli gözaltına alındı",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/antalya-yi-ucbey-gozetleyecek-3925490",
-      "published_date": "2026-11-06T17:45:41Z",
+      "url": "https://www.haberturk.com/dunya/abd-de-trump-i-oldurmekle-tehdit-eden-supheli-gozaltina-alindi-3925540",
+      "published_date": "2026-11-06T23:36:41Z",
       "category": "Local Events"
     },
     {
-      "title": "Momento'dan mikro avantaj kulübü",
+      "title": "TIR ile çarpışan otomobil yandı: 2 ölü",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/ekonomi/momento-dan-mikro-avantaj-kulubu-3925489",
-      "published_date": "2026-11-06T17:45:27Z",
+      "url": "https://www.haberturk.com/gundem/canakkale-de-tir-ile-carpisan-otomobil-yandi-2-olu-3925538",
+      "published_date": "2026-11-06T23:02:16Z",
       "category": "Local Events"
     },
     {
-      "title": "F.Bahçe otobüsüne saldırıda 5 şüpheliye iddianame!",
+      "title": "Akademi Giriş Sınavı AGS ne zaman yapılacak?",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/spor/fenerbahce-takim-otobusune-yonelik-silahli-saldirida-5-supheliye-iddianame-hazirlandi-3925486",
-      "published_date": "2026-11-06T17:39:10Z",
+      "url": "https://www.haberturk.com/bilgi/foto/akademi-giris-sinavi-ags-ne-zaman-yapilacak-meb-2027-ags-sinav-ve-basvuru-tarihi-3925537",
+      "published_date": "2026-11-06T22:54:45Z",
       "category": "Local Events"
     },
     {
-      "title": "Penta'nın cirosu yüzde 26 yükseldi",
+      "title": "İran basını: Patlama sesleri duyuldu",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/ekonomi/penta-nin-cirosu-yuzde-26-yukseldi-3925488",
-      "published_date": "2026-11-06T17:35:51Z",
+      "url": "https://www.haberturk.com/dunya/iran-basini-patlama-sesleri-duyuldu-3925536",
+      "published_date": "2026-11-06T22:26:31Z",
       "category": "Local Events"
     },
     {
-      "title": "Katliamın kurbanları için gözyaşları sel oldu",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/son-dakika-haberi-afyonkarahisar-da-oldurulenler-icin-gozyaslari-sel-oldu-3925413",
-      "published_date": "2026-11-06T17:26:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "8 kişinin katili 10'dan geriye saymış! \"Başlarına nişan aldım\"",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/afyon-katliami-son-dakika-haberi-8-kisinin-oldugu-katliamda-sir-perdesi-aralaniyor-3925307",
-      "published_date": "2026-11-06T17:24:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gaziosmanpaşa Belediye Başkanı Hakan Bahçetepe hakkında ev hapsiyle tahliye kararı",
+      "title": "ABD ile İran arasında anlaşma sağlanamadı mı? Katar'dan açıklama",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/11/06/gaziosmanpasa-belediye-baskani-hakan-bahcetepe-hakkinda-ev-hapsiyle-tahliye-karari",
-      "published_date": "2026-11-06T17:21:09Z",
+      "url": "https://www.sabah.com.tr/dunya/abd-ile-iran-arasinda-anlasma-saglanamadi-mi-katardan-aciklama-7696743",
+      "published_date": "2026-11-06T22:20:36Z",
       "category": "Local Events"
     },
     {
-      "title": "Hakan Bahçetepe’ye 6 yıl 3 ay hapis cezası",
+      "title": "SON DAKİKA I İran basını duyurdu: Keşm Adası'nda patlama sesleri! Hürmüz'de tansiyon yeniden yükseliyor...",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/11/06/hakan-bahcetepeye-6-yil-3-ay-hapis-cezasi",
-      "published_date": "2026-11-06T17:17:07Z",
+      "url": "https://www.sabah.com.tr/dunya/son-dakika-i-iran-basini-duyurdu-kesm-adasinda-patlama-sesleri-hurmuzde-tansiyon-yeniden-yukseliyor-7696738",
+      "published_date": "2026-11-06T22:10:10Z",
       "category": "Local Events"
     },
     {
       "title": "AUZEF güz dönemi ara sınav giriş belgesi yayınlandı!",
       "source": "Haberturk",
       "url": "https://www.haberturk.com/bilgi/foto/auzef-guz-donemi-ara-sinav-giris-belgesi-yayinlandi-2026-2027-auzef-sinavi-ne-zaman-3925483",
-      "published_date": "2026-11-06T17:15:55Z",
+      "published_date": "2026-11-06T22:09:42Z",
       "category": "Local Events"
     },
     {
-      "title": "Halkbank'tan 27 milyar TL net kâr",
+      "title": "ÖGG sınav sonuçları ne zaman açıklanacak?",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/ekonomi/halkbank-tan-27-milyar-tl-net-kr-3925484",
-      "published_date": "2026-11-06T17:13:19Z",
+      "url": "https://www.haberturk.com/bilgi/foto/ogg-sinav-sonuclari-ne-zaman-saat-kacta-aciklanacak-ozel-guvenlik-123-donem-ogg-sonuc-sorgulamasi-nasil-yapilir-3925502",
+      "published_date": "2026-11-06T22:09:31Z",
       "category": "Local Events"
     },
     {
-      "title": "Fenerbahçe otobüsüne saldırıda yeni gelişme",
+      "title": "İBB burs sonuçları ne zaman açıklanacak?",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/fenerbahce-takim-otobusune-yonelik-silahli-saldirida-5-supheliye-iddianame-hazirlandi-3925477",
-      "published_date": "2026-11-06T17:01:18Z",
+      "url": "https://www.haberturk.com/bilgi/foto/i-bb-burs-sonuclari-ne-zaman-aciklanacak-2026-2027-i-bb-genc-universiteli-egitim-destegi-yardimi-ne-kadar-3925509",
+      "published_date": "2026-11-06T22:09:03Z",
       "category": "Local Events"
     },
     {
-      "title": "Eisenkot'tan hükümeti kurma mesajı",
+      "title": "SPK’dan 3 şirkete suç duyurusu kararı",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/dunya/eisenkot-tan-hukumeti-kurma-mesaji-3925482",
-      "published_date": "2026-11-06T16:59:56Z",
+      "url": "https://www.haberturk.com/ekonomi/spkdan-3-sirkete-suc-duyurusu-karari-3925535",
+      "published_date": "2026-11-06T22:07:34Z",
       "category": "Local Events"
     },
     {
-      "title": "Katil de maktul de kadın! Arkadaşını öldürdü!",
+      "title": "Masterchef dokunulmazlık oyununu kim kazandı?",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/katil-de-maktul-de-kadin-ev-arkadasini-oldurdu-3925411",
-      "published_date": "2026-11-06T16:56:42Z",
+      "url": "https://www.haberturk.com/bilgi/foto/masterchef-dokunulmazlik-oyununu-kim-kazandi-6-kasim-2026-masterchef-turkiye-eleme-adaylari-kim-oldu-3925521",
+      "published_date": "2026-11-06T22:06:22Z",
       "category": "Local Events"
     },
     {
-      "title": "Fenerbahçe otobüsüne saldırı soruşturmasında yeni iddianame: 5 şüpheli için istenen ceza belli oldu",
+      "title": "İran'dan \"iyot tableti\" iddialarına dair açıklama",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/dunya/iran-dan-iyot-tablet-dagitiliyor-iddialarina-dair-aciklama-3925533",
+      "published_date": "2026-11-06T22:02:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "11 üniversiteye yeni rektör ataması",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/gundem/son-dakika-11-universiteye-yeni-rektor-atamasi-3925530",
+      "published_date": "2026-11-06T21:59:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Elektrikler ne zaman, saat kaçta gelecek?",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/bilgi/foto/elektrikler-ne-zaman-saat-kacta-gelecek-7-kasim-2026-bedas-elektrik-kesintisi-sorgulama-ekrani-3925534",
+      "published_date": "2026-11-06T21:59:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Yeni Zelanda'da genel seçimlerde oy verme işlemi başladı! Kesin sonuçlar o tarihte açıklanacak",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/11/06/fenerbahce-otobusune-saldiri-sorusturmasinda-iddianame-hazirlandi-5-kisi-hakkinda-ceza-istendi",
-      "published_date": "2026-11-06T16:46:49Z",
+      "url": "https://www.sabah.com.tr/dunya/yeni-zelandada-genel-secimlerde-oy-verme-islemi-basladi-kesin-sonuclar-o-tarihte-aciklanacak-7696687",
+      "published_date": "2026-11-06T21:58:33Z",
       "category": "Local Events"
     },
     {
-      "title": "Meteoroloji'den 'zirai don' uyarısı",
+      "title": "Kayseri'de muhtelif suç gruplarına operasyon: 17 tutuklama",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/meteoroloji-den-zirai-don-uyarisi-3925459",
-      "published_date": "2026-11-06T16:41:22Z",
+      "url": "https://www.haberturk.com/gundem/kayseri-de-muhtelif-suc-gruplarina-operasyon-17-tutuklama-3925532",
+      "published_date": "2026-11-06T21:38:49Z",
       "category": "Local Events"
     },
     {
-      "title": "Ülker'den 95,7 milyar TL ciro",
+      "title": "İran: Sağlık sistemi, düşmanın çeşitli senaryolarına ve tehditlerine karşı hazırdır",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/iran-saglik-sistemi-dusmanin-cesitli-senaryolarina-ve-tehditlerine-karsi-hazirdir-7696679",
+      "published_date": "2026-11-06T21:33:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Memur zammı ne zaman açıklanacak?",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/ekonomi/ulker-den-95-7-milyar-tl-ciro-3925478",
-      "published_date": "2026-11-06T16:40:52Z",
+      "url": "https://www.haberturk.com/bilgi/foto/memur-zammi-son-durum-polis-doktor-ogretmen-hemsire-ocak-2027de-en-dusuk-memur-zammi-ne-kadar-olacak-3924961",
+      "published_date": "2026-11-06T21:31:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Benzine büyük indirim geldi!",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/bilgi/foto/benzi-ne-i-ndi-ri-m-geli-yor-benzine-ne-kadar-indirim-gelecek-benzin-fiyatlari-kac-tl-olacak-5-kasim-2026-i-stanbul-ankara-i-zmir-guncel-guncel-akaryakit-fiyatlari-3925167",
+      "published_date": "2026-11-06T21:29:44Z",
       "category": "Local Events"
     }
   ]
