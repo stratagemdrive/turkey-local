@@ -1,7 +1,63 @@
 {
   "country": "turkey",
-  "last_updated": "2026-11-10T18:36:10Z",
+  "last_updated": "2026-11-11T02:30:03Z",
   "stories": [
+    {
+      "title": "İsrail'deki Ortak Arap Listesi'nden Netanyahu'ya tepki",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/dunya/israil-deki-ortak-arap-listesi-nden-netanyahu-ya-tepki-3926408",
+      "published_date": "2026-11-11T01:12:16Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Portekiz'den Mark Rutte'nin açıklamalarına tepki",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/portekizden-mark-ruttenin-aciklamalarina-tepki-7699253",
+      "published_date": "2026-11-10T22:59:07Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "ABD Temsilciler Meclisindeki Cumhuriyetçilerin yeni lideri belli oldu",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/abd-temsilciler-meclisindeki-cumhuriyetcilerin-yeni-lideri-belli-oldu-7699252",
+      "published_date": "2026-11-10T22:27:48Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Eisenkot'tan Netanyahu'nun partisi ile toplantıyı iptal etme talimatı",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/dunya/eisenkot-tan-netanyahu-nun-partisi-ile-muzakereleri-iptal-etme-talimati-3926399",
+      "published_date": "2026-11-10T21:51:41Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "2 sahnede 4 farklı oyun",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/kultur-sanat/2-sahnede-4-farkli-oyun-3926385",
+      "published_date": "2026-11-10T21:36:59Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Türk Telekom, Romanya'da kazandı!",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/spor/u-bt-cluj-napoca-81-turk-telekom-89-mac-sonucu-eurocup-3926392",
+      "published_date": "2026-11-10T20:09:05Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Cafer Mahiroğlu’na suç duyurusu",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/gundem/atakan-sonmez-mahiroglu-hakkinda-iki-suctan-basvuru-yapilacagini-acikladi-3926380",
+      "published_date": "2026-11-10T18:39:57Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Katil İsrail’den Gazze’ye hava saldırısı: Ölü ve yaralılar var",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/katil-israilden-gazzeye-hava-saldirisi-olu-ve-yaralilar-var-7699107",
+      "published_date": "2026-11-10T18:39:49Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Rubio'dan \"İran\" açıklaması: \"Ekonomik yaptırımlar çok büyük\"",
       "source": "Sabah",
@@ -87,60 +143,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Kocaelispor'dan sakatlık açıklaması!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/spor/kocaelispor-dan-sakatlik-aciklamasi-iste-show-un-son-durumu-3926321",
-      "published_date": "2026-11-10T13:30:31Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Çocuklarının annesi hayatını kaybetti",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/magazin/robert-de-niro-nun-ikizlerinin-annesi-toukie-smith-hayatini-kaybetti-3926306",
-      "published_date": "2026-11-10T13:26:10Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Kibyra Antik Kenti'nde Medusa mozaiğinin üzeri kapatıldı",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/yasam/kibyra-antik-kenti-nde-medusa-mozaiginin-uzeri-kapatildi-3926301",
-      "published_date": "2026-11-10T13:00:06Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "\"Yolculuğumuzun kalbinde sürdürülebilirlik var\"",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/ekonomi/arcelik-ten-voleybola-elektrik-destegi-yolculugumuzun-kalbinde-surdurulebilirlik-var-3926202",
-      "published_date": "2026-11-10T12:50:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "İsrail'de \"Değişim Bloğu\" kilit isimlerde uzlaştı",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/dunya/israil-de-degisim-blogu-kilit-isimlerde-uzlasti-3926299",
-      "published_date": "2026-11-10T12:46:40Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "KPSS Ortaöğretim sonuçları ne zaman açıklanacak?",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/bilgi/foto/kpss-ortaogreti-m-sonuclari-sorgulama-nasil-yapilir-2026-kpss-ortaogretim-sonuclari-ne-zaman-aciklanacak-hangi-tarihte-3926295",
-      "published_date": "2026-11-10T12:46:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "\"Türkiye oyun kurucu olabilir\"",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/ekonomi/sabanci-holding-ceo-su-zaimler-turkiye-oyun-kurucu-olabilir-3926302",
-      "published_date": "2026-11-10T12:45:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Bulgaristan'da 70 araçlık zincirleme kaza",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/dunya/bulgaristan-da-70-araclik-zincirleme-kaza-11-olu-48-yarali-3926288",
-      "published_date": "2026-11-10T12:25:21Z",
-      "category": "Diplomacy"
+      "title": "ABD Temsilciler Meclisi, Hegseth'e yönelik azil girişimini engelledi",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/abd-temsilciler-meclisi-hegsethe-yonelik-azil-girisimini-engelledi-7699260",
+      "published_date": "2026-11-11T01:13:23Z",
+      "category": "Military"
     },
     {
       "title": "İran ordusu duyurdu: Hürmüz'de 2 gemi mayına çarptı",
@@ -276,11 +283,11 @@
       "category": "Military"
     },
     {
-      "title": "İsrail'den İran'a saldırı tehdidi",
+      "title": "'Yarınlara Kartopu' Pera Müzesi'nde",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/dunya/israil-savunma-bakani-katz-iran-a-saldiri-tehdidini-yineledi-3925792",
-      "published_date": "2026-11-08T11:42:25Z",
-      "category": "Military"
+      "url": "https://www.haberturk.com/kultur-sanat/yarinlara-kartopu-pera-muzesi-nde-3926387",
+      "published_date": "2026-11-10T21:34:50Z",
+      "category": "Energy"
     },
     {
       "title": "Nvidia ve CEO'su Huang'a dava açıldı",
@@ -416,11 +423,11 @@
       "category": "Energy"
     },
     {
-      "title": "Altıntaş'ta tapulara mahkemeden şerh",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/altintas-ta-tapulara-mahkemeden-serh-3924882",
-      "published_date": "2026-11-04T11:25:46Z",
-      "category": "Energy"
+      "title": "İran’dan Fransa’ya sert sözler: “Buzdolaplarını yönetmekten bile acizler”",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/irandan-fransaya-sert-sozler-buzdolaplarini-yonetmekten-bile-acizler-7699154",
+      "published_date": "2026-11-10T20:35:26Z",
+      "category": "Economy"
     },
     {
       "title": "Hazine 29,8 milyar liralık borçlandı",
@@ -556,150 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "İçki operasyonu: 121 gözaltı",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/son-dakika-turkiye-genelinde-kacak-ve-sahte-icki-operasyonlari-121-supheliye-adli-islem-yapildi-3925177",
-      "published_date": "2026-11-05T12:08:39Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Bakan Uraloğlu'ndan COP31'de kritik görüşmeler",
+      "title": "Suudi Arabistan, Türkiye ile demir yolu işbirliği mutabakatını onayladı",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/11/10/bakan-uraloglundan-cop31de-kritik-gorusmeler",
-      "published_date": "2026-11-10T18:16:59Z",
+      "url": "https://www.sabah.com.tr/dunya/suudi-arabistan-turkiye-ile-demir-yolu-isbirligi-mutabakatini-onayladi-7699258",
+      "published_date": "2026-11-11T01:04:49Z",
       "category": "Local Events"
     },
     {
-      "title": "Cumhurbaşkanı Erdoğan'dan diplomasi trafiği",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/dunya/cumhurbaskani-erdogan-antonio-guterres-ile-gorustu-3926340",
-      "published_date": "2026-11-10T18:08:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "\"Seni benden hiç kimse alamaz artık!\"",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/magazin/sevdan-bir-ates-in-yeni-bolumunden-2-nci-tanitim-3926376",
-      "published_date": "2026-11-10T18:06:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "İran: ABD'nin yanıtı aldatıcı",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/dunya/iranli-yetkili-abd-nin-yaniti-aldatici-3926375",
-      "published_date": "2026-11-10T17:59:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Emine Erdoğan, Bangladeş Başbakanı'nın eşi Rahman ile görüştü",
+      "title": "Zelenskiy: \"Toprak meselesini konuşmaya hazırız\"",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/11/10/emine-erdogan-banglades-basbakaninin-esi-rahman-ile-gorustu",
-      "published_date": "2026-11-10T17:58:10Z",
+      "url": "https://www.sabah.com.tr/dunya/zelenskiy-toprak-meselesini-konusmaya-haziriz-7699257",
+      "published_date": "2026-11-11T00:51:11Z",
       "category": "Local Events"
     },
     {
-      "title": "Mirza'dan ailesine: Hepiniz defolup gideceksiniz!",
+      "title": "Suudi Arabistan'dan Türkiye ile demir yolu mutabakatına onay",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/magazin/sevdan-bir-ates-ten-yeni-on-izleme-3926088",
-      "published_date": "2026-11-10T17:57:00Z",
+      "url": "https://www.haberturk.com/dunya/suudi-arabistan-dan-turkiye-ile-demir-yolu-mutabakatina-onay-3926405",
+      "published_date": "2026-11-11T00:16:57Z",
       "category": "Local Events"
     },
     {
-      "title": "Bulgaristan'da 12 kişinin hayatını kaybettiği kazalar sonrası ulusal yas ilan edildi",
+      "title": "Avrupa Parlamentosu'na \"İslamofobi ve ırkçılık\" tepkisi",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/bulgaristanda-12-kisinin-hayatini-kaybettigi-kazalar-sonrasi-ulusal-yas-ilan-edildi-7699057",
-      "published_date": "2026-11-10T17:29:32Z",
+      "url": "https://www.sabah.com.tr/dunya/avrupa-parlamentosuna-islamofobi-ve-irkcilik-tepkisi-7699256",
+      "published_date": "2026-11-10T23:47:25Z",
       "category": "Local Events"
     },
     {
-      "title": "Alanyaspor'da Pereira dönemi sona erdi!",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/spor/alanyaspor-da-joao-pereira-donemi-sona-erdi-3926366",
-      "published_date": "2026-11-10T17:17:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "İran’dan Hürmüz açıklaması: “Şuan ABD ile müzakere yürütülmüyor”",
+      "title": "İngiltere'de ABD askeri casusluk şüphesiyle gözaltına alındı",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/irandan-hurmuz-aciklamasi-suan-abd-ile-muzakere-yurutulmuyor-7699042",
-      "published_date": "2026-11-10T17:15:37Z",
+      "url": "https://www.sabah.com.tr/dunya/ingilterede-abd-askeri-casusluk-suphesiyle-gozaltina-alindi-7699254",
+      "published_date": "2026-11-10T23:35:06Z",
       "category": "Local Events"
     },
     {
-      "title": "İlham Aliyev, COP31 için Antalya'da",
+      "title": "Otomobil aydınlatma direğine çarptı: 3 yaralı",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/dunya/ilham-aliyev-antalya-ya-geldi-3926352",
-      "published_date": "2026-11-10T17:14:21Z",
+      "url": "https://www.haberturk.com/gundem/tarsus-ta-otomobil-aydinlatma-diregine-carpti-3-yarali-3926404",
+      "published_date": "2026-11-10T23:02:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fon soruşturmasında 3 tutuklama talebi",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/gundem/son-dakika-fon-sorusturmasinda-3-tutuklama-talebi-3926391",
+      "published_date": "2026-11-10T22:15:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eyüpsultan'da silahlı saldırı: 3 yaralı",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/gundem/eyupsultan-da-silahli-saldiri-3-yarali-3926402",
+      "published_date": "2026-11-10T22:03:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "2 şirketin faaliyet izni iptal edildi",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/gundem/2-sirketin-faaliyet-izni-iptal-edildi-3926401",
+      "published_date": "2026-11-10T21:54:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "İsrail basını duyurdu! ABD'nin İran'a yönelik saldırıları 2 hafta ertelendi",
+      "source": "Sabah",
+      "url": "https://www.sabah.com.tr/dunya/israil-basini-duyurdu-abdnin-irana-yonelik-saldirilari-2-hafta-ertelendi-7699232",
+      "published_date": "2026-11-10T21:49:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Yamal'dan gençlere beklenmedik hediye!",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/spor/lamine-yamal-dan-yolda-durdurdugu-iki-kisiye-beklenmedik-hediye-3926400",
+      "published_date": "2026-11-10T21:48:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ünlü çellist 2 konser için İstanbul'a geliyor",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/kultur-sanat/unlu-cellist-2-konser-icin-istanbul-a-geliyor-3926384",
+      "published_date": "2026-11-10T21:35:24Z",
       "category": "Local Events"
     },
     {
       "title": "KPSS önlisans branş sıralaması için gözler ÖSYM’de!",
       "source": "Haberturk",
       "url": "https://www.haberturk.com/bilgi/foto/kpss-onlisans-brans-siralamasi-icin-gozler-osym-de-2026-osym-kpss-onlisans-brans-siralamalari-ne-zaman-aciklanacak-ve-nereden-ogrenilir-3926264",
-      "published_date": "2026-11-10T17:04:29Z",
+      "published_date": "2026-11-10T21:24:16Z",
       "category": "Local Events"
     },
     {
-      "title": "\"Avrupa'nın Ukrayna'da ateşkes talebini kabul etmeyeceğiz\"",
+      "title": "Antalya’da üst düzey güvenlik tedbiri",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/dunya/avrupa-nin-ukrayna-da-ateskes-talebini-kabul-etmeyecegiz-3926365",
-      "published_date": "2026-11-10T17:03:00Z",
+      "url": "https://www.haberturk.com/gundem/antalyada-ust-duzey-guvenlik-tedbiri-3926397",
+      "published_date": "2026-11-10T21:21:47Z",
       "category": "Local Events"
     },
     {
-      "title": "Üç aylar ne zaman başlıyor ve bitiyor?",
+      "title": "Okyanustan 4 bin 400 metreye su taşıyacaklar!",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/bilgi/foto/uc-aylar-ne-zaman-basliyor-ve-bitiyor-diyanet-2026-2027-takvimi-ile-recep-saban-ve-ramazan-ayi-tarihleri-3925529",
-      "published_date": "2026-11-10T17:01:41Z",
+      "url": "https://www.haberturk.com/bilgi/195-kilometrelik-boru-hattiyla-okyanus-suyunu-4-bin-400-metre-yuksege-tasiyacaklar-saniyede-1-050-litre-su-aritilacak-3926244",
+      "published_date": "2026-11-10T21:21:38Z",
       "category": "Local Events"
     },
     {
-      "title": "Çelik fabrikasındaki faciada can kaybı 18'e yükseldi",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/son-dakika-haberi-izmir-de-celik-fabrikasinda-facia-17-olu-izmir-son-dakika-3926148",
-      "published_date": "2026-11-10T16:55:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "9. kattan düşen kadının eşi tutuklandı",
-      "source": "Haberturk",
-      "url": "https://www.haberturk.com/gundem/son-dakika-haberi-9-kattan-dusen-kadinin-esi-tutuklandi-nigde-haberleri-3926297",
-      "published_date": "2026-11-10T16:46:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zelenskiy’den üçlü müzakere değerlendirmesi: \"Asıl önemli olan barışı gerçekten yaklaştırmak”",
+      "title": "Muharrem İnce'den canlı yayında skandal çıkış: Zafer Şahin'e gönderdiği mesajlar dikkat çekti!",
       "source": "Sabah",
-      "url": "https://www.sabah.com.tr/dunya/zelenskiyden-uclu-muzakere-degerlendirmesi-asil-onemli-olan-barisi-gercekten-yaklastirmak-7699001",
-      "published_date": "2026-11-10T16:44:58Z",
+      "url": "https://www.sabah.com.tr/yasam/muharrem-inceden-canli-yayinda-skandal-cikis-zafer-sahine-gonderdigi-mesajlar-dikkat-cekti-7699196",
+      "published_date": "2026-11-10T21:10:49Z",
       "category": "Local Events"
     },
     {
-      "title": "Sergen Yalçın'dan farklı antrenman yöntemi!",
+      "title": "İddia: ABD olası saldırıyı 2 hafta erteledi",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/spor/a-milli-futbol-takimi-belcika-macinin-hazirliklarina-devam-etti-3926343",
-      "published_date": "2026-11-10T16:40:17Z",
+      "url": "https://www.haberturk.com/dunya/iddia-abd-olasi-saldiriyi-2-hafta-erteledi-3926396",
+      "published_date": "2026-11-10T21:05:20Z",
       "category": "Local Events"
     },
     {
-      "title": "'Temizlikçi ameliyata girdi' iddiası",
+      "title": "Trabzonspor Basketbol'da Ernak dönemi bitti!",
       "source": "Haberturk",
-      "url": "https://www.haberturk.com/saglik/temizlikci-ameliyata-girdi-iddiasi-3926360",
-      "published_date": "2026-11-10T16:39:56Z",
+      "url": "https://www.haberturk.com/spor/trabzonspor-basketbol-da-selcuk-ernak-donemi-sona-erdi-3926395",
+      "published_date": "2026-11-10T20:45:36Z",
       "category": "Local Events"
     },
     {
-      "title": "İlham Aliyev COP31'e katılmak üzere Antalya'ya geldi",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/11/10/ilham-aliyev-cop31e-katilmak-uzere-antalyaya-geldi",
-      "published_date": "2026-11-10T16:33:57Z",
+      "title": "Alevlerden kurtuldu, yolda can verdi",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/gundem/nurdaginda-tirdan-inen-surucuye-baska-bir-tir-carpti-3926393",
+      "published_date": "2026-11-10T20:35:45Z",
       "category": "Local Events"
     },
     {
-      "title": "Bakan Kurum'dan COP31'de deprem konutları vurgusu!",
-      "source": "Sabah",
-      "url": "https://www.sabah.com.tr/gundem/2026/11/10/bakan-kurumdan-cop31de-deprem-konutlari-vurgusu",
-      "published_date": "2026-11-10T16:27:00Z",
+      "title": "\"Elektrifikasyon çok hızlı bir şekilde büyüyor\"",
+      "source": "Haberturk",
+      "url": "https://www.haberturk.com/ekonomi/bora-sekip-guray-turkiye-yuksek-sekilde-su-stresi-yasiyor-3926363",
+      "published_date": "2026-11-10T20:10:50Z",
       "category": "Local Events"
     }
   ]
